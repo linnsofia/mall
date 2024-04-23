@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tjänstgöringsdagbok från Umeå Lottakår i samband med flyktingmottagandet av finska barn hösten 1944</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Högskolan i Borås</publisher>
+            <date>2024</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.sv"> 
+               </licence>
+            </availability>
+         </publicationStmt>
+         
+         <sourceDesc> 
+            <msDesc> <msIdentifier><country>Sverige</country> <region>Västerbotten</region>
+            <repository>Folkrörelsearkivet i Västerbotten</repository></msIdentifier>
+            <p>Tjänstgöringsdagbok från Umeå Lottakår 1939-1945 med innehåll bland annat från
+            flyktingmottagandet från Finland under andra världskriget. Består av totalt XX sidor exkluderat omslag... 
+            Innehåller namn på lottor som tjänstgjorde under denna tid, ... 
+            ...
+            ... </p> 
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <facsimile> <surface xml:id="sida_85_1a_resan"> 
+   <figure>
+      <label>En sida ur dagboken</label>
+      <figDesc>Sida XX ur dagboken som beskriver delar av lottornas arbete under hösten 1944</figDesc>
+      <graphic url="#sida_85_1a_resan"/>
+      <graphic url="#sida_86_2-3-4e_resan"/>
+   </figure>
+   
+   </surface>
+      
+   </facsimile>
+  <text> <pb facs="..........................."/>
+      <body>
+         <p>Some text here.</p>
+      </body>
+  </text>
+</TEI>
