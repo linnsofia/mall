@@ -7,6 +7,7 @@
       <fileDesc>
          <titleStmt>
             <title>Tjänstgöringsdagbok från Umeå Lottakår i samband med flyktingmottagandet av finska barn hösten 1944</title>
+       
          </titleStmt>
          <publicationStmt>
             <publisher>Högskolan i Borås</publisher>
@@ -18,6 +19,9 @@
          </publicationStmt>
          
          <sourceDesc> 
+            <bibl>
+
+            </bibl>
             <msDesc> <msIdentifier><country>Sverige</country> <region>Västerbotten</region>
             <repository>Folkrörelsearkivet i Västerbotten</repository></msIdentifier>
             <p>Tjänstgöringsdagbok från Umeå Lottakår 1939-1945 med innehåll bland annat från
@@ -26,14 +30,37 @@
             ...
             ... </p> 
             </msDesc>
+            <listPerson>
+               <person><name> ...... </name></person>
+            </listPerson>
          </sourceDesc>
       </fileDesc>
      <encodingDesc>
-        <projectDesc><p>Bildfångst av material gjort i samband med en masterutbildning och för att användas
+        <projectDesc>
+           <p>Bildfångst av material gjort i samband med en masterutbildning och för att användas
            i ett projekt organiserat av hembygdsföreningen i Umeå, med mål att belysa och undervisa om 
            flyktingmottagandet under andra världskriget  …(mer detaljer)</p>
         </projectDesc>
      </encodingDesc>
+     <profileDesc>
+        <abstract><p>En arbetsdagbok över Umeå Lottakårs arbete med flyktingmottagandet under andra världskriget</p>
+        
+        </abstract>
+        <langUsage><language ident="swe"></language></langUsage>
+        <calendarDesc>
+           <calendar xml:id="cal_Gregorian">
+           <p>Gregorian calendar</p>
+           </calendar>
+        </calendarDesc>
+        <textClass> 
+        </textClass>
+     </profileDesc>
+     
+     <xenoData>..........
+     
+     </xenoData>
+     
+     
   </teiHeader>
    <facsimile> <surface xml:id="sida_85_1a_resan"> 
    <figure>
@@ -47,7 +74,9 @@
       
    </facsimile>
   <text>
+    
       <body>
+         
          <div type="page" facs="#sida_85_1a_resan">
             <head>
                <hi rend="u">Dagboken?? Under tiden 21 juli- 18 sept
@@ -57,6 +86,7 @@
                An example.... Barnen kommo med båt?
                <lb/>till och med "tjänstgöringstid" 1244 timmar?
             </p>
+            
          </div>
          <div type="page" facs="#sida_86_2-3-4e_resan">
             <p>
