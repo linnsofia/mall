@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tjänstgöringsdagbok från Umeå Lottakår i samband med flyktingmottagandet av finska barn hösten 1944</title>
+       
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Högskolan i Borås</publisher>
+            <date>2024</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.sv"> 
+               </licence>
+            </availability>
+         </publicationStmt>
+         
+         <sourceDesc> 
+            <bibl>
+
+            </bibl>
+            <msDesc> <msIdentifier><country>Sverige</country> <region>Västerbotten</region>
+            <repository>Folkrörelsearkivet i Västerbotten</repository></msIdentifier>
+            <p>Tjänstgöringsdagbok från Umeå Lottakår 1939-1945 med innehåll bland annat från
+            flyktingmottagandet från Finland under andra världskriget. Består av totalt XX sidor exkluderat omslag... 
+            Innehåller namn på lottor som tjänstgjorde under denna tid, ... 
+            ...
+            ... </p> 
+            </msDesc>
+            <listPerson>
+               <person><name> ...... </name></person>
+            </listPerson>
+         </sourceDesc>
+      </fileDesc>
+     <encodingDesc>
+        <projectDesc>
+           <p>Bildfångst av material gjort i samband med en masterutbildning och för att användas
+           i ett projekt organiserat av hembygdsföreningen i Umeå, med mål att belysa och undervisa om 
+           flyktingmottagandet under andra världskriget  …(mer detaljer)</p>
+        </projectDesc>
+     </encodingDesc>
+     <profileDesc>
+        <abstract><p>En arbetsdagbok över Umeå Lottakårs arbete med flyktingmottagandet under andra världskriget</p>
+        
+        </abstract>
+        <langUsage><language ident="swe"></language></langUsage>
+        <calendarDesc>
+           <calendar xml:id="cal_Gregorian">
+           <p>Gregorian calendar</p>
+           </calendar>
+        </calendarDesc>
+        <textClass> 
+        </textClass>
+     </profileDesc>
+     
+     <xenoData>..........
+     
+     </xenoData>
+     
+     
+  </teiHeader>
+   <facsimile> <surface xml:id="sida_85_1a_resan"> 
+   <figure>
+      <label>En sida ur dagboken</label>
+      <figDesc>Sida XX ur dagboken som beskriver delar av lottornas arbete under hösten 1944</figDesc>
+      <graphic url="#sida_85_1a_resan"/>
+      <graphic url="#sida_86_2-3-4e_resan"/>
+   </figure>
+   
+   </surface>
+      
+   </facsimile>
+  <text>
+    
+      <body>
+         
+         <div type="page" facs="#sida_85_1a_resan">
+            <head>
+               <hi rend="u">Dagboken?? Under tiden 21 juli- 18 sept
+                   pågingo transporter av finska barn över Umeå </hi>
+            </head>
+            <p>
+               An example.... Barnen kommo med båt?
+               <lb/>till och med "tjänstgöringstid" 1244 timmar?
+            </p>
+            
+         </div>
+         <div type="page" facs="#sida_86_2-3-4e_resan">
+            <p>
+               Andra resan...
+               <lb/>till och med
+               <lb/>fjärde resan
+            </p>
+         </div>
+      </body>
+  </text>
+</TEI>

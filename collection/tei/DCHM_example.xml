@@ -7,11 +7,15 @@
       <fileDesc>
          <titleStmt>
             <title>Fälttjänst U.S.L.K Oktober 1939—</title>
-            <funder>Lottakåren</funder>
+            <respStmt>
+               <resp>Notes made by</resp>
+               <orgName>Umeås lottakår</orgName>  
+            </respStmt>
+            <funder>Umeås lottakår</funder>
          </titleStmt>
          <publicationStmt>
-            <publisher>University of Borås</publisher>
-            <date>March 2022</date>
+            <authority>Sofia Larsson, Katherine Knox Beler, Maling Färdig, Clara Berndes</authority>
+            <date>Maj 2024</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
                   <p>
@@ -21,9 +25,14 @@
             </availability>
          </publicationStmt>
          <sourceDesc>
-               <p>A two-sided post-it with a simple example phrase on either side.</p>
+               <p>Pages from a field-work diary collecting notes from Umeå lottakårs meetings 
+                  pertaining the handling of finish refugees.</p>
          </sourceDesc>
       </fileDesc>
+      <encodingDesc><samplingDecl>
+         <p>Sidorna i fältdagboken har valts ut utifrån ifall de berör de finska flyktingarna hösten 1944.</p>
+</samplingDecl>
+</encodingDesc>
       <profileDesc>
          <handNotes>
             <handNote xml:id="WD" medium="blue-ink">Original text in blue ink, written by Wout Dillen.</handNote>
