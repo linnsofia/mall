@@ -86,11 +86,13 @@
       
    </facsimile>
   <text>
-   <front></front>
+   <front>
+      <div type="bokomslag"></div>
+   </front>
     
       <body>
          
-         <div1 type="rapport" facs="#sida_85_1a_resan">
+         <div type="rapport" facs="#sida_85_1a_resan">
             <head>
                <hi rend="u"> Under tiden 21 juli - 18 sept pågingo transporter av finska barn över Umeå. </hi>
             </head>
@@ -105,12 +107,12 @@
                <lb/>till och med "tjänstgöringstid" 1244 timmar?
             </p>
             
-         
-         <div2 n="1" type="namnlista" facs="#sida_86_2-3-4e_resan">
-            <head>Första resan:</head>
-            <p>Utspisningslottor: 
-               Gurli Forsberg, 
-               Karin Wästfelt, 
+            <div n="1" type="namnlista" facs="#sida_86_2-3-4e_resan">
+              <head>Första resan:</head> 
+          
+           <p> 
+               Gurli Forsberg,
+               Karin Wästfelt,  
                Lilian Hellberg, 
                Thyra Nilsson, 
                Jenny Sundström, 
@@ -126,11 +128,11 @@
                Hanna Lindbladh, 
                Margit Carleborg, 
                Elsa Edstedt 
-               och Märta Edstedt. 
-               Tågchef: 
-               Elisabet Nilsson 
-               v. chef: Jenny Sundström 
-               Tåglottor: 
+               och Märta Edstedt. </p>
+              <p> Tågchef: 
+               Elisabet Nilsson </p>
+              <p> v. chef: Jenny Sundström </p>
+               <p>Tåglottor: 
                Elsa Welander, 
                Rut Sandström, 
                Elsa Andersson, 
@@ -141,19 +143,15 @@
                Greta Thalin, 
                Elsa Edstedt, 
                Ulla Wästfelt  </p>
-               <div3 n="1" type="tid">
+               
                   <p>
                      Tjänstgöringstid: 1244 tim
-                  </p> </div3>
+                  </p> 
                
-               
-
-               <lb/>till och med
-               <lb/>fjärde resan
            
-         </div2>
+         </div>
 
-      </div1>
+      </div>
       </body>
 
       <back></back>
