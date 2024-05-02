@@ -74,6 +74,7 @@
      
      
   </teiHeader>
+<<<<<<< Updated upstream
    <facsimile> <surface xml:id="sida_85_1a_resan"> 
    <figure>
       <label>Sida ur dagboken</label>
@@ -84,8 +85,15 @@
    
    </surface>
       
+=======
+   <facsimile>
+        <graphic url= "#sida_85_1a_resan"/>
+        <graphic url="#sida_86_2-3-4e_resan"/>
+>>>>>>> Stashed changes
    </facsimile>
+   
   <text>
+<<<<<<< Updated upstream
    <front>
       <div type="bokomslag"></div>
    </front>
@@ -95,6 +103,10 @@
          <div type="fältdagbok">
          
          <div type="rapport" facs="#sida_85_1a_resan">
+=======
+      <body>
+         <div type="page" facs="#sida_85_1a_resan">
+>>>>>>> Stashed changes
             <head>
                <hi rend="u"> Under tiden 21 juli - 18 sept pågingo transporter av finska barn över Umeå. </hi>
             </head>
