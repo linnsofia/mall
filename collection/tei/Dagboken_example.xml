@@ -36,6 +36,7 @@
             Innehåller namn på lottor som tjänstgjorde under denna tid, ... 
             ...
             ... </p> 
+           
             </msDesc>
          </sourceDesc>
       </fileDesc>
@@ -50,6 +51,20 @@
          Urval har gjorts utifrån vilka delar av fältdagboken som berör mottagandet av de finska flyktingbarnen under hösten 1944, 
          och består av bilder på sex uppslag. Varje uppslag innehåller två handskrivna sidor vardera.
    </p></samplingDecl>
+   <schemaSpec ident="TEI-PROJECT" start="TEI">
+      <moduleRef key="tei"/>
+      <moduleRef key="header"/>
+      <moduleRef key="core"/>
+      <moduleRef key="textstructure"/>
+      <moduleRef key="msdescription"/>
+     <!-- manuscript description -->
+      <moduleRef key="transcr"/>
+     <!-- transcription of primary sources -->
+      <moduleRef key="figures"/>
+     <!-- figures and tables -->
+      <moduleRef key="namesdates"/>
+     <!-- names, dates, people, and places -->
+     </schemaSpec>
      </encodingDesc>
      <profileDesc>
         <abstract><p>Redogörelse över Umeå Lottakårs arbete åren 1939 - 1945, 
@@ -65,7 +80,21 @@
         </textClass>
      </profileDesc>
 
-  </teiHeader>
+  </teiHeader> 
+
+  <standOff>
+   <listPerson>
+      <person xml:id="F1">
+        <persName>
+<forename>Carli</forename><surname>Forsberg</surname>
+        </persName>
+        <birth notAfter="1939"></birth>
+      </person>
+   </listPerson>
+</standOff>
+<<<<<<< Updated upstream
+   <facsimile> <surface xml:id="sida_85_1a_resan"> 
+=======
 
    <facsimile> 
       <surface xml:id="dagbok_cover_omslag">
@@ -79,6 +108,7 @@
          </figure>
       </surface>
       <surface xml:id="sida_85_1a_resan"> 
+>>>>>>> 7d17b8dd7d8f53302c4ffed9e2a2418280d3fa2f
    <figure>
       <label>21 juli-18 sep. Första resan</label>
       <figDesc>Sidor ur dagboken som beskriver delar av lottornas arbete under hösten 1944, däribland första resan
@@ -162,38 +192,61 @@
                <hi rend="u"> Under tiden 21 juli - 18 sept pågingo transporter av finska barn över Umeå. </hi>
             </head>
             <p>
-               Barnen kommo med båt till Holmsund, varifrån de fördes till Umeå, där de badades och undersöktes. 
-                  Under tiden röktes deras kläder. Umeå Lottakår hjälpte under denna tid till med både utspisning och transport.
-                  Maten lagades i ordning på I 20. Första utspisningen för dagen skedde ombord på båten i Holmsund. Sedan utspisades de två gånger på Nya folkskolan. 
-                  Transporterna gingo vanligen tidigt morgonen därpå eller sent på kvällen samma dag. Varje transport omfattade mellan 650 - 750 barn. 
-                  Barnen transporterades på militära sjuktåg. Utspisningen under transporterna sköttes av lottorna. 
-                  Med tåg följde en köksvagn, där maten lagades. Sedan bars den ut i de olika vagnarna. 
-                  10 sådana fram partier gingo över Umeå.
-               <lb/>till och med "tjänstgöringstid" 1244 timmar?
+               Barnen kommo med båt till 
+Holmsund, varifrån de fördes 
+till Umeå där de badades och 
+undersöktes. Under tiden rök-
+tes deras kläder. Umeå Lotta-
+kår hjälpte under denna tid 
+till med både utspisning och 
+transport. Maten lagades i 
+ordning på I 20. 
+Första utspis-
+ningen för dagen skedde om-
+bord på båten i Holmsund. 
+Sedan utspisades de två gång
+er på Nya folkskolan. Transpor-
+terna gångo vanligen tidigt 
+under morgonen därpå eller sent 
+på kvällen samma dag. Varje
+transport omfattade mellan 
+650-750 barn. Barnen transpor-
+terades på militära ….?? tåg. 
+Utspisningen under transporter
+
+               
+(nytt blad/sida)
+na sköttes av lottorna. Med tåget
+följde en köksvagn där maten la-
+gades. Sedan bars den ut i de
+olika vagnarna. 10 sådana trans-
+porter gångo över Umeå. 
+Första resan: 
+
             </p>
             
             <div n="1" type="namnlista" facs="#sida_86_2-3-4e_resan">
               <head>Första resan:</head> 
           
-           <p> 
-               Gurli Forsberg,
-               Karin Wästfelt,  
-               Lilian Hellberg, 
+           <p> Utspisningslottor:
+               <name type="person" ref="F1">Carli Forsberg,</name>,
+               Karin Wästfelt, 
+               Lillian Hellberg, 
                Thyra Nilsson, 
-               Jenny Sundström, 
-               Elisabet Nilsson, 
+               Jenny Sandström, 
+               Elisabet Widén, 
                Sigrid Jonsson, 
                Lisa Sundqvist, 
                Görel Wikholm, 
-               Kerstin Egemar, 
+               Kerstin Engman, 
                Greta Krikortz, 
                Sigrid Malmlund, 
                Aina Forsgren, 
                Ester Berg, 
-               Hanna Lindbladh, 
-               Margit Carleborg, 
-               Elsa Edstedt 
-               och Märta Edstedt. </p>
+               Hanna Lundbladh, 
+               Margit Cederberg, 
+               Elsa Edefeldt 
+               och Märta Edefeldt.  </p>
               <p> Tågchef: 
                Elisabet Nilsson </p>
               <p> v. chef: Jenny Sundström </p>
@@ -211,74 +264,76 @@
                
                   <p>
                      Tjänstgöringstid: 1244 tim
+
+                 
+
+Tågchef: Elisabet Widén ? 
+v. chef: Jenny Sandström
+Tåglottor: Elsa Welander, Rut Sand-
+ström, Elsa Andersson, Karin Wäst-
+felt, Ester Berg, Hanna Lundbladh, 
+Milda? Matilda? (bleck utsmetat) Berg, Greta Thhlin, Elsa Ed-
+efeldt, Ulla Wästfelt. 
+Tjänstgöringstid: 1244 tim. 
+
                   </p> 
                
                   
            
          </div>
          <div> <p>Andra resan: Utspisningslottor: Elsa Widerlund, 
-            Gurli Forsberg, 
-            Göta Backman, 
-            Thyra Lindvall, 
-            Lilian Hellberg och 4 st unglottor. 
-            Tåglottor, köket: Sigrid Jonsson, 
-            Kerstin Stenberg, 
-            Thyra Nilsson, 
-            Ida Eriksson. 
-            Tjänstgöringstid: 478 tim. 
+            <name type="person" ref="F1">Gurli Forsberg</name>, 
+       Märta Beckman, 
+       Thyra Lindwall, 
+       Lillian Hellberg och 4 st. unglottor.
+Tåglottor, köket: Sigrid Jansson, 
+Kerstin Stenberg, Thyra Nilsson, 
+Ida Eriksson. 
+Tjänstgöringstid: 478 tim. 
+Tredje resan: 
 
-            Tredje resan. Utspisningslottor: Gurli Forsberg, 
-            Göta Backman, 
-            Jenny Sundström, 
-            Sigrid Malmlund, 
-            Gunnel Jörlen 
-            förnamn saknas Jonsson, 
-            Theres Westin, 
-            förnamn saknas Gustafsson 
-            och Margit Carleborg samt 3 unglottor. 
-            Tågcheft: Elisabet Nilsson 
-            v. chef: Greta Krikortz, 
-            Jenny Sundström. 
-            Tåglottor: Barbro Hedlund, 
-            Marta Hedlund, 
-            Barbro Boström, 
-            Karin Ekeståhl, 
-            Magda Eriksson, 
-            Edit Lundberg, 
-            Hildur Lundmark, 
-            Agda Holmgren, 
-            Elsa Widerlund. 
-            Irene Gustafsson, 
-            Linnéa Hallin, 
-            Hilma Berg, 
-            Agda Malmgren, 
-            Karin Thalén 
-            Köket: Ester Berg, 
-            Hanna Lindbladh, 
-            Anna Forsgren 
-            och Anna-Greta Johansson. 
-            Smörgåsberedning: Gurli Forsberg, 
-            Märta Forsberg, 
-            Greta Krikortz 
-            och Aina Forsgren. 
-            Tjänstgöringstid: 1914 tim. 
+            Tredje resan. Utspisningslottor: <name type="person" ref="F1">Gurli Forsberg</name>, 
+            Göta
+Bergman, Jenny Sundström, Sig-
+rid Malmlund, Gunnel Jörlén
+		Jonsson, Teres Westin
+		Gustafsson och Margit
+Carleborg samt 3 unglottor. 
+Tågchef: Elisabet Wilén 
+v. chef: Greta Krikortz, Jenny
+Sundström. 
+Tåglottor: Barbro Hedlund
+Märta Hedlund, Barbro Boström
+Karin Ekesthål, Magda Eriksson
+Edit Lundberg, Hildur (Ester?) Lundmark
+ 
+(Ny sida/nytt blad) (samma bildfil):  
+Agda Holmgren, Elsa Widerlund.
+Irene Gustafsson, Linnea Haldin, 
+Hilma Berg, Agda Malmgren, Karin 
+Fhalén
+Köket: Ester Berg, Hanna Lundbladh
+Anna Forsgren och Anna-Greta 
+Johansson. 
+Smörgåsberedning: 
+            Smörgåsberedning: <name type="person" ref="F1">Gurli Forsberg</name>, 
+            Märta Forsberg, Greta Krikortz och 
+Aina Forsgren. 
+Tjänstgöringstid: 1914 tim. 
+
+
             
-            Fjärde resan: Utspisningslottor: 
-            Ester Berg, 
-            Margit Carleborg, 
-            Göta Backman, 
-            Britta Wretling, 
-            Kerstin Lanlund, 
-            Maud Olsson, 
-            Thyra Lindvall, 
-            Gurli Forsberg, 
-            Margit Rotelius. 
-            Tåglottor, köket: 
-            Sigrid Jonsson, 
-            Gunvor Stenberg, 
-            Kerstin Stenberg, 
-            Siv Strandberg, 
-            Edit Åhgren. 
+            Fjärde resan:
+            Utspisningslottor: Ester Berg, Margit
+Carleborg, Göta Beckman, Britta 
+Wretling, Kerstin Lundblad, Maud
+Olsson, Thyra Lindvall,
+
+            <name type="person" ref="F1">Gurli Forsberg</name>, 
+            Margit Rabelius. 
+            Tåglottor, köket: Sigris Jonsson, 
+            Gunvor Stenberg, Kerstin Stenberg, 
+            Siv Strandberg, Edit Åhgren. 
             Thyra Nilsson. 
             Smörgåsberedning: Göta Backman, 
             Aina Forsgren, Thyra Lindvall, 
@@ -325,7 +380,7 @@
             Gusti Pettersson, 
             Rut Hellgren, 
             Thyra Lindvall, 
-            Gurli Forsberg, 
+            <name type="person" ref="F1">Gurli Forsberg</name>, 
             Vilma Persson, 
             Märta Sundqvist, 
             Inga Birath Tågchef: 
@@ -336,7 +391,7 @@
             Hilma Berg, 
             Britta Eriksson, 
             Astrid Lundgren 
-            Smörgåsberedning: Gurli Forsberg, 
+            Smörgåsberedning: <name type="person" ref="F1">Gurli Forsberg</name>, 
             Jenny Sundström, 
             Aina Forsgren, 
             Thyra Lindwall, 
@@ -351,7 +406,7 @@
             Elsa Modig, 
             Amy Sandström, 
             Elisabet Nilsson, 
-            Gurli Forsberg, 
+            <name type="person" ref="F1">Carli Forsberg</name>, 
             Vivi Engqvist, 
             Ida Eriksson, 
             Lilly Johansson. 
@@ -384,7 +439,7 @@
              Gudrun Backman, 
              Gunnel Jörlen, 
              Jenny Sundström, 
-             Gurli Forsberg, 
+             <name type="person" ref="F1">Carli Forsberg</name>, 
              Alma Bylund, 
              Ida Eriksson, 
              Sigrid Jonsson, 
@@ -410,7 +465,7 @@
              Ida Andersson, 
              Aina Forsgren, 
              Märta Forsberg, 
-             Gurli Forsberg, 
+             <name type="person" ref="F1">Carli Forsberg</name>, 
              Vivi Engqvist, 
              Alma Bylund, 
              Teres Westin, 
@@ -422,7 +477,7 @@
              Margareta Svensson 
              Tåglottor: Elsa Modig
             Smörgåsberedning: Märta Forsberg, 
-            Gurli Forsberg, 
+            <name type="person" ref="F1">Carli Forsberg</name>, 
             Aina Forsgren, 
             Jenny Sundström, 
             Rut Ringqvist 
