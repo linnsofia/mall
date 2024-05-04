@@ -7,12 +7,10 @@
       <fileDesc>
          <titleStmt>
             <title>Tjänstgöringsdagbok från Umeå Lottakår i samband med flyktingmottagandet av finska barn hösten 1944</title>
-            <title>Fälttjänst U.S.L.K Oktober 1939—</title>
             <respStmt>
-               <resp>Anteckningar gjorda av</resp>
-               <orgName>Umeås lottakår</orgName>  
+               <resp>En transkription utförd av</resp>
+               <name>Clara, Malin, Kati, Sofia</name>  
             </respStmt>
-            <funder>Umeås lottakår</funder>
          </titleStmt>
          <publicationStmt>
             <publisher>Högskolan i Borås</publisher>
@@ -26,20 +24,19 @@
          </publicationStmt>
          
          <sourceDesc> 
-            <bibl>
-
-            </bibl>
-            <msDesc> <msIdentifier><country>Sverige</country> <region>Västerbotten</region>
-            <repository>Folkrörelsearkivet i Västerbotten</repository></msIdentifier>
+            <msDesc> 
+               <msIdentifier>
+                  <country>Sverige</country> 
+                  <region>Västerbotten</region>
+                  <repository>Folkrörelsearkivet i Västerbotten</repository>
+               </msIdentifier>
+               
             <p>Tjänstgöringsdagbok från Umeå Lottakår 1939-1945 med innehåll bland annat från
             flyktingmottagandet från Finland under andra världskriget. Består av totalt XX sidor exkluderat omslag... 
             Innehåller namn på lottor som tjänstgjorde under denna tid, ... 
             ...
             ... </p> 
             </msDesc>
-            <listPerson>
-               <person><name> ...... </name></person>
-            </listPerson>
          </sourceDesc>
       </fileDesc>
      <encodingDesc>
@@ -64,33 +61,93 @@
            <p>Gregorian calendar</p>
            </calendar>
         </calendarDesc>
-        <textClass> 
+        <textClass>
         </textClass>
      </profileDesc>
-     
-     <xenoData>..........
-     
-     </xenoData>
-     
-     
+
   </teiHeader>
 
-   <facsimile> <surface xml:id="sida_85_1a_resan"> 
+   <facsimile> 
+      <surface xml:id="dagbok_cover_omslag">
+         <figure>
+            <label>Omslag</label>
+            <figDesc>
+               Dagbokens omslag, framsida.
+            </figDesc>
+            <graphic url="https://github.com/linnsofia/mall/blob/main/docs/assets/img/documents/dagbok_cover_omslag.jpg"/>
+            <graphic url="https://github.com/linnsofia/mall/blob/main/collection/img/sida_001_omslag.tiff"></graphic>
+         </figure>
+      </surface>
+      <surface xml:id="sida_85_1a_resan"> 
    <figure>
-      <label>Sida ur dagboken</label>
-      <figDesc>Sida XX ur dagboken som beskriver delar av lottornas arbete under hösten 1944</figDesc>
-      <graphic url="#sida_85_1a_resan"/>
-      <graphic url="#sida_86_2-3-4e_resan"/>
+      <label>21 juli-18 sep. Första resan</label>
+      <figDesc>Sidor ur dagboken som beskriver delar av lottornas arbete under hösten 1944, däribland första resan
+      för transport av finska flyktingbarn.</figDesc>
+      <graphic url="https://github.com/linnsofia/mall/blob/main/docs/assets/img/documents/sida_085_1a_resan.jpg"></graphic>
+      <graphic url="https://github.com/linnsofia/mall/blob/main/collection/img/sida_085.tiff"/>
    </figure>
-   
    </surface>
+      <surface xml:id="sida_086_2-3-4e_resan">
+         <figure>
+            <label>Andra, tredje och början på fjärde resan</label>
+            <figDesc>
+               Sida ur dagboken som beskriver andra till och med början på fjärde resan.
+            </figDesc>
+            <graphic url="assets/img/documents/sida_086_2-3-4e_resan.jpg"/>
+            <graphic url="https://github.com/linnsofia/mall/blob/main/collection/img/sida_086.tiff"></graphic>
+         </figure>
+      </surface>
+      
+      <surface xml:id="sida_087_5-6e_resan.jpg">
+         <figure>
+            <label>Femte, sjätte resan</label>
+            <figDesc>
+               Sida ur dagboken som beskriver femte och sjätte resan.
+            </figDesc>
+            <graphic url="https://github.com/linnsofia/mall/blob/main/docs/assets/img/documents/sida_087_5-6e_resan.jpg"/>
+            <graphic url="https://github.com/linnsofia/mall/blob/main/collection/img/sida_087.tiff"></graphic>
+         </figure>
+      </surface>
+      
+      <surface xml:id="sida_088_7-8-9e_resan">
+         <figure>
+            <label>Femte, sjätte resan</label>
+            <figDesc>
+               Sida ur dagboken som beskriver femte och sjätte resan.
+            </figDesc>
+            <graphic url="https://github.com/linnsofia/mall/blob/main/docs/assets/img/documents/sida_088_7-8-9e_resan.jpg"/>
+            <graphic url="https://github.com/linnsofia/mall/blob/main/collection/img/sida_088.tiff"></graphic>
+         </figure>
+      </surface>
+      
+      <surface xml:id="sida_089_10e_resan">
+         <figure>
+            <label>Femte, sjätte resan</label>
+            <figDesc>
+               Sida ur dagboken som beskriver femte och sjätte resan.
+            </figDesc>
+            <graphic url="https://github.com/linnsofia/mall/blob/main/docs/assets/img/documents/sida_089_10e_resan.jpg"/>
+            <graphic url="https://github.com/linnsofia/mall/blob/main/collection/img/sida_089.tiff"></graphic>
+         </figure>
+      </surface>
+      
+      
+      
+      
+      
       
       </facsimile>
+   
+   
   <text>
 
    <front>
       <div type="bokomslag"></div>
    </front>
+    
+    
+    
+    
     
       <body>
 
