@@ -90,6 +90,51 @@
         </persName>
         <birth notAfter="1939"></birth>
       </person>
+      <person xml:id="H1">
+         <persName>
+ <forename>Lilian</forename><surname>Hellberg</surname>
+         </persName>
+         <birth notAfter="1939"></birth>
+       </person>
+       
+      <person xml:id="V1">
+         <persName>
+            <forename>Karin</forename><surname>Wästfelt</surname> 
+         </persName>
+         <birth notAfter="1939"></birth>
+      </person>
+      <person xml:id="N1">
+         <persName>
+            <forename>Thyra</forename><surname>Nilsson</surname> 
+         </persName>
+         <birth notAfter="1939"></birth>
+      </person>
+      <person xml:id="S1">
+         <persName>
+            <forename>Jenny</forename><surname>Sandström</surname> 
+         </persName>
+         <birth notAfter="1939"></birth>
+      </person>
+      <person xml:id="v1">
+         <persName>
+            <forename>Elisabeth</forename><surname>Widén Nilson</surname> 
+         </persName>
+         <birth notAfter="1939"></birth>
+      </person>
+      <person xml:id="J1">
+         <persName>
+            <forename>Sigrid</forename><surname>Jonsson</surname> 
+         </persName>
+         <birth notAfter="1939"></birth>
+      </person>
+      <person xml:id="S2">
+         <persName>
+            <forename>Lisa</forename><surname>Sundqvist</surname> 
+         </persName>
+         <birth notAfter="1939"></birth>
+      </person>
+
+
    </listPerson>
 </standOff>
 <<<<<<< Updated upstream
@@ -229,14 +274,14 @@ Första resan:
               <head>Första resan:</head> 
           
            <p> Utspisningslottor:
-               <name type="person" ref="F1">Carli Forsberg,</name>,
-               Karin Wästfelt, 
-               Lillian Hellberg, 
-               Thyra Nilsson, 
-               Jenny Sandström, 
-               Elisabet Widén, 
-               Sigrid Jonsson, 
-               Lisa Sundqvist, 
+               <name type="person" ref="F1">Carli Forsberg</name>,
+               <name type="person" ref="V1">Karin Wästfelt</name>,
+               <name type="person" ref="H1"> Lillian Hellberg</name>,
+               <name type="person" ref="N1"> Thyra Nilsson</name> ,
+               <name type="person" ref="S1"> Jenny Sandström</name>, 
+               <name type="person" ref="V2"> Elisabet Widén Nilson</name>, 
+               <name type="person" ref="J1"> Sigrid Jonsson</name>,
+               <name type="person" ref="S2"> Lisa Sundqvist</name>, 
                Görel Wikholm, 
                Kerstin Engman, 
                Greta Krikortz, 
@@ -246,35 +291,23 @@ Första resan:
                Hanna Lundbladh, 
                Margit Cederberg, 
                Elsa Edefeldt 
-               och Märta Edefeldt.  </p>
-              <p> Tågchef: 
-               Elisabet Nilsson </p>
-              <p> v. chef: Jenny Sundström </p>
-               <p>Tåglottor: 
-               Elsa Welander, 
-               Rut Sandström, 
-               Elsa Andersson, 
-               Karin Wästfelt, 
+               och Märta Edefeldt.  
+              Tågchef: 
+              <name type="person" ref="V2"> Elisabet Widén Nilson</name>
+               v. chef: Jenny Sundström 
+               Tåglottor: 
+                  Elsa Welander, 
+                  Rut Sand- ström, 
+                  Elsa Andersson,  
+               <name type="person" ref="V1">Karin Wäst- felt</name>, 
                Ester Berg, 
-               Hanna Lindbladh, 
-               Maria Berg, 
-               Greta Thalin, 
-               Elsa Edstedt, 
+               Hanna Lundbladh, 
+               Maria Milda? Matilda? (bleck utsmetat) Berg, 
+               Greta Thhlin, 
                Ulla Wästfelt  </p>
                
                   <p>
                      Tjänstgöringstid: 1244 tim
-
-                 
-
-Tågchef: Elisabet Widén ? 
-v. chef: Jenny Sandström
-Tåglottor: Elsa Welander, Rut Sand-
-ström, Elsa Andersson, Karin Wäst-
-felt, Ester Berg, Hanna Lundbladh, 
-Milda? Matilda? (bleck utsmetat) Berg, Greta Thhlin, Elsa Ed-
-efeldt, Ulla Wästfelt. 
-Tjänstgöringstid: 1244 tim. 
 
                   </p> 
                
@@ -285,81 +318,100 @@ Tjänstgöringstid: 1244 tim.
             <name type="person" ref="F1">Gurli Forsberg</name>, 
        Märta Beckman, 
        Thyra Lindwall, 
-       Lillian Hellberg och 4 st. unglottor.
-Tåglottor, köket: Sigrid Jansson, 
-Kerstin Stenberg, Thyra Nilsson, 
-Ida Eriksson. 
-Tjänstgöringstid: 478 tim. 
-Tredje resan: 
+       <name type="person" ref="H1"> Lilian Hellberg</name> och 4 st. unglottor.
+       Tåglottor, köket: Sigrid Jansson, 
+       Kerstin Stenberg, 
+       <name type="person" ref="N1"> Thyra Nilsson</name>, 
+       Ida Eriksson. 
+       Tjänstgöringstid: 478 tim. 
+       Tredje resan: 
 
             Tredje resan. Utspisningslottor: <name type="person" ref="F1">Gurli Forsberg</name>, 
-            Göta
-Bergman, Jenny Sundström, Sig-
-rid Malmlund, Gunnel Jörlén
-		Jonsson, Teres Westin
-		Gustafsson och Margit
-Carleborg samt 3 unglottor. 
+            Göta Bergman, 
+            Jenny Sundström, 
+            Sig- rid Malmlund, 
+            Gunnel Jörlén 
+            Jonsson, 
+            Teres Westin
+		Gustafsson 
+      och Margit
+      Carleborg samt 3 unglottor. 
 Tågchef: Elisabet Wilén 
-v. chef: Greta Krikortz, Jenny
-Sundström. 
+v. chef: Greta Krikortz, 
+Jenny Sundström. 
 Tåglottor: Barbro Hedlund
-Märta Hedlund, Barbro Boström
-Karin Ekesthål, Magda Eriksson
-Edit Lundberg, Hildur (Ester?) Lundmark
+Märta Hedlund, 
+Barbro Boström
+Karin Ekesthål, 
+Magda Eriksson
+Edit Lundberg, 
+Hildur (Ester?) Lundmark
  
 (Ny sida/nytt blad) (samma bildfil):  
-Agda Holmgren, Elsa Widerlund.
-Irene Gustafsson, Linnea Haldin, 
-Hilma Berg, Agda Malmgren, Karin 
-Fhalén
-Köket: Ester Berg, Hanna Lundbladh
-Anna Forsgren och Anna-Greta 
-Johansson. 
+Agda Holmgren, 
+Elsa Widerlund.
+Irene Gustafsson, 
+Linnea Haldin, 
+Hilma Berg, 
+Agda Malmgren, 
+Karin Fhalén
+Köket: Ester Berg, 
+Hanna Lundbladh
+Anna Forsgren 
+och Anna-Greta Johansson. 
 Smörgåsberedning: 
-            Smörgåsberedning: <name type="person" ref="F1">Gurli Forsberg</name>, 
-            Märta Forsberg, Greta Krikortz och 
-Aina Forsgren. 
+            <name type="person" ref="F1">Gurli Forsberg</name>, 
+            Märta Forsberg, 
+            Greta Krikortz 
+            och Aina Forsgren. 
 Tjänstgöringstid: 1914 tim. 
 
 
             
             Fjärde resan:
-            Utspisningslottor: Ester Berg, Margit
-Carleborg, Göta Beckman, Britta 
-Wretling, Kerstin Lundblad, Maud
-Olsson, Thyra Lindvall,
-
+            Utspisningslottor: Ester Berg, 
+            Margit Carleborg, 
+            Göta Beckman, 
+            Britta Wretling, 
+            Kerstin Lundblad, 
+            Maud Olsson, 
+            Thyra Lindvall,
             <name type="person" ref="F1">Gurli Forsberg</name>, 
             Margit Rabelius. 
-            Tåglottor, köket: Sigris Jonsson, 
-            Gunvor Stenberg, Kerstin Stenberg, 
-            Siv Strandberg, Edit Åhgren. 
-            Thyra Nilsson. 
+            Tåglottor, köket: <name type="person" ref="J1"> Sigrid Jonsson</name>, 
+            Gunvor Stenberg, 
+            Kerstin Stenberg, 
+            Siv Strandberg, 
+            Edit Åhgren. 
+            <name type="person" ref="N1"> Thyra Nilsson</name>. 
             Smörgåsberedning: Göta Backman, 
-            Aina Forsgren, Thyra Lindvall, 
+            Aina Forsgren, 
+            Thyra Lindvall, 
             Vera Stjernvall, 
             Rut Ringqvist 
             Tjänstgöringstid: 737 tim. 
 
-            Femte Resan. Utspisningslottor: 
-            Ester Berg, Margit Carleborg, 
-            Göta Backman, Kerstin Lanlund, 
+            Femte Resan. 
+            Utspisningslottor: Ester Berg, 
+            Margit Carleborg, 
+            Göta Backman, 
+            Kerstin Lanlund, 
             Thyra Lindvall, 
             Sigrid Malmlund, 
             Aina Forsgren, 
             Hilma Berg, 
             Märta Sundqvist, 
             Maud Olsson och unglottor 
-            Tågchef: Elisabet Nilsson 
+            Tågchef: <name type="person" ref="V2"> Elisabet Widén Nilsson</name> 
             v. chef: Vera Stjernvall 
             Tåglottor: Inga- Maj Gripenstam, 
             Linnéa Svensson, 
             Margit Rotelius, 
-            Lilian Hellberg, 
+            <name type="person" ref="H1"> Lilian Hellberg</name>, 
             Ida Andersson, 
             Ragnhild Säfström, 
             Estrid Gustafsson, 
-            Karin Wästfelt, 
+            <name type="person" ref="V1">Karin Wästfelt</name>, 
             Rut Hellgren, 
             Ulla Wästfelt, 
             Gunnel Jörlen, 
@@ -405,14 +457,14 @@ Olsson, Thyra Lindvall,
             Gusti Pettersson, 
             Elsa Modig, 
             Amy Sandström, 
-            Elisabet Nilsson, 
+            <name type="person" ref="V2"> Elisabet Widén Nilsson</name>, 
             <name type="person" ref="F1">Carli Forsberg</name>, 
             Vivi Engqvist, 
             Ida Eriksson, 
             Lilly Johansson. 
-            Tågchef: Elisabet Nilsson v. chef: 
-            Inga- Maj Gripenstam Köket: 
-            Hanna Lindbladh, 
+            Tågchef: <name type="person" ref="V2"> Elisabet Widén Nilsson</name> 
+            v. chef: Inga- Maj Gripenstam 
+            Köket: Hanna Lindbladh, 
             Dagmar Stocksén, 
             Hilma Berg, 
             Elsie Forsgren 
@@ -426,14 +478,15 @@ Olsson, Thyra Lindvall,
             Smörgåsberedning: 
             Thyra Lindvall, 
             Aina Forsgren, 
-            Elisabet Nilsson, 
+            <name type="person" ref="V2"> Elisabet Widén Nilsson</name>, 
             Gudrun Backman, 
             Göta Backman 
             Tjänstgöringstid: 1264 tim. 
             
-            Åttonde resan: Utspisningslottor. Sigrid Jonsson, 
+            Åttonde resan: 
+            Utspisningslottor. <name type="person" ref="J1"> Sigrid Jonsson</name>, 
             Amy Sundström, 
-            Karin Wästfelt, 
+            <name type="person" ref="V1">Karin Wästfelt</name>, 
             Märta Forsberg,
             Göta Backman, 
              Gudrun Backman, 
@@ -442,7 +495,7 @@ Olsson, Thyra Lindvall,
              <name type="person" ref="F1">Carli Forsberg</name>, 
              Alma Bylund, 
              Ida Eriksson, 
-             Sigrid Jonsson, 
+             <name type="person" ref="J1"> Sigrid Jonsson</name>, 
              Edit Åhgren, 
              Anna- Greta Johansson, 
              Anna Forsgren 
@@ -456,9 +509,10 @@ Olsson, Thyra Lindvall,
              Gertrud Kågström 
              Tjänstgöringstid: 312 tim. 
              
-             Nionde resan: Utspisningslottor: Sigrid Jonsson, 
+             Nionde resan: 
+             Utspisningslottor: <name type="person" ref="J1"> Sigrid Jonsson</name>, 
              Marta Hedlund, 
-             Lilian Hellberg, 
+             <name type="person" ref="H1"> Lilian Hellberg</name>, 
              Ingrid Lindfors, 
              Göta Backman, 
              Jenny Sundström, 
@@ -472,7 +526,7 @@ Olsson, Thyra Lindvall,
              Lilly Backman, 
              Edit Åhgren, 
              Ann- Mari Hedman. 
-             Tågchef: Elisabet Nilsson 
+             Tågchef: <name type="person" ref="V2"> Elisabet Widén Nilsson</name> 
              v.chef: Ingrid Lundström, 
              Margareta Svensson 
              Tåglottor: Elsa Modig
@@ -483,19 +537,20 @@ Olsson, Thyra Lindvall,
             Rut Ringqvist 
             Tjänstgöringstid: 673 tim 
             
-            Tionde resan: Utspisningslottor: Sigrid Jonsson, 
+            Tionde resan: 
+            Utspisningslottor: <name type="person" ref="J1"> Sigrid Jonsson</name>, 
             Göta Backman, 
             Gudrun Backman, 
-            Karin Wästfelt, 
+            <name type="person" ref="V1">Karin Wästfelt</name>, 
             Jenny Sundström, 
-            Lilian Hellberg, 
+            <name type="person" ref="H1"> Lilian Hellberg</name>, 
             Marta Hedlund, 
             Ulla Wästfelt, 
             Edit Åhgren, 
             Alma Bylund 
             Smörgåsberedning: Märta Ahnqvist, 
             Märta Sundqvist, 
-            Sigrid Jonsson, 
+            <name type="person" ref="J1"> Sigrid Jonsson</name>, 
             Aina Forsgren, 
             Anna- Greta Johansson, 
             Gudrun Backman, 
