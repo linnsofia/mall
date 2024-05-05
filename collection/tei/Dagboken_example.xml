@@ -70,7 +70,9 @@
         <abstract><p>Redogörelse över Umeå Lottakårs arbete åren 1939 - 1945, 
          där flyktingmottagandet under andra världskriget utgör en del.</p>
         </abstract>
-        <langUsage><language ident="swe">Svenska</language></langUsage>
+        <langUsage>
+           <language ident="swe">Svenska</language>
+        </langUsage>
         <calendarDesc>
            <calendar xml:id="cal_Gregorian">
            <p>Gregorian calendar</p>
@@ -186,9 +188,9 @@
       
       <surface xml:id="sida_088_7-8-9e_resan">
          <figure>
-            <label>Femte, sjätte resan</label>
+            <label>Sjunde, åttonde och nionde resan</label>
             <figDesc>
-               Sida ur dagboken som beskriver femte och sjätte resan.
+               Sida ur dagboken som beskriver sjunde, åttonde och nionde resan.
             </figDesc>
             <graphic url="https://github.com/linnsofia/mall/blob/main/docs/assets/img/documents/sida_088_7-8-9e_resan.jpg"/>
             <graphic url="https://github.com/linnsofia/mall/blob/main/collection/img/sida_088.tiff"></graphic>
@@ -197,18 +199,14 @@
       
       <surface xml:id="sida_089_10e_resan">
          <figure>
-            <label>Femte, sjätte resan</label>
+            <label>Tionade resan</label>
             <figDesc>
-               Sida ur dagboken som beskriver femte och sjätte resan.
+               Sida ur dagboken som beskriver tionde resan.
             </figDesc>
             <graphic url="https://github.com/linnsofia/mall/blob/main/docs/assets/img/documents/sida_089_10e_resan.jpg"/>
             <graphic url="https://github.com/linnsofia/mall/blob/main/collection/img/sida_089.tiff"></graphic>
          </figure>
       </surface>
-      
-      
-      
-      
       
       
       </facsimile>
@@ -218,6 +216,14 @@
 
    <front>
       <div type="bokomslag"></div>
+      
+
+      <div type="page" facs="#dagbok_cover_omslag">
+         <head>
+            <hi rend="u">Tjänstgöringsdagbokens omslag</hi>
+            </head>
+      </div>
+
    </front>
     
     
