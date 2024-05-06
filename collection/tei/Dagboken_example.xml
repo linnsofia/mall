@@ -10,7 +10,7 @@
             <title>Bildfångade sidor från Umeå Lottakårs tjänstgöringsdagbok Fälttjänst U.S.L.K Oktober 1939—</title>
             <respStmt>
                <resp>En transkription utförd av</resp>
-               <name>Clara, Malin, Kati, Sofia</name>  
+               <name>Sofia Larsson, Maling Färdig, Clara Berndes</name>  
             </respStmt>
          </titleStmt>
          <publicationStmt>
@@ -23,7 +23,6 @@
                </licence>
             </availability>
          </publicationStmt>
-         
          <sourceDesc> 
             <msDesc> 
                <msIdentifier>
@@ -40,6 +39,7 @@
            
             </msDesc>
          </sourceDesc>
+   
       </fileDesc>
      <encodingDesc>
         <projectDesc>
@@ -52,6 +52,20 @@
          Urval har gjorts utifrån vilka delar av fältdagboken som berör mottagandet av de finska flyktingbarnen under hösten 1944, 
          och består av bilder på sex uppslag. Varje uppslag innehåller två handskrivna sidor vardera.
    </p></samplingDecl>
+   <editorialDecl>
+      <segmentation> <p> Sektioner av texten anges genom <gi>div</gi> 
+         Vi har utformat det som en hierki där fältdagboken som helhet har betecknats genom <gi>type</gi> attribut 
+         "fältdagbok" och inom denna de enskilda inläggen över lottornas arbete betecknade som "rapport". 
+         Dessa reporter innehåller i sin tur ofta listor på personerna som hjälpt till och arbetstid. 
+         Dessa har angets som "namnlista" 
+         Paragrafer som i bildfilerna markeras med ett mellanrum mellantextstycken har angets med <gi>p</gi>
+      </p></segmentation>
+   </editorialDecl>
+   <tagsDecl>
+      <namespace name="http://www.tei-c.org/ns/1.0"><tagUsage gi="hi" occurs="26">
+
+      </tagUsage></namespace>
+   </tagsDecl>
    <schemaSpec ident="TEI-PROJECT" start="TEI">
       <moduleRef key="tei"/>
       <moduleRef key="header"/>
@@ -82,8 +96,7 @@
         <textClass>
         </textClass>
      </profileDesc>
-
-  </teiHeader> 
+</teiHeader> 
 
   <standOff>
    <listPerson>
@@ -317,11 +330,11 @@ Första resan:
                      Tjänstgöringstid: 1244 tim
 
                   </p> 
-               
+               </div>
                   
            
-         </div>
-         <div> <p>Andra resan: Utspisningslottor: Elsa Widerlund, 
+         
+          <div n="2" type="namnlista"><p>Andra resan: Utspisningslottor: Elsa Widerlund, 
             <name type="person" ref="F1">Gurli Forsberg</name>, 
        Märta Beckman, 
        Thyra Lindwall, 
@@ -331,6 +344,7 @@ Första resan:
        <name type="person" ref="N1"> Thyra Nilsson</name>, 
        Ida Eriksson. 
        Tjänstgöringstid: 478 tim. 
+          </div>
        Tredje resan: 
 
             Tredje resan. Utspisningslottor: <name type="person" ref="F1">Gurli Forsberg</name>, 
