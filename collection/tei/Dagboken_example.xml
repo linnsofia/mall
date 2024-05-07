@@ -53,6 +53,9 @@
          och består av bilder på sex uppslag. Varje uppslag innehåller två handskrivna sidor vardera.
    </p></samplingDecl>
    <editorialDecl>
+      <normalization><p>
+         Den ursprungliga stavningen i texten har bevarats.
+      </p></normalization>
       <segmentation> <p> Sektioner av texten anges genom <gi>div</gi> 
          Vi har utformat det som en hierki där fältdagboken som helhet har betecknats genom <gi>type</gi> attribut 
          "fältdagbok" och inom denna de enskilda inläggen över lottornas arbete betecknade som "rapport". 
@@ -62,7 +65,7 @@
       </p></segmentation>
    </editorialDecl>
    <tagsDecl>
-      <namespace name="http://www.tei-c.org/ns/1.0"><tagUsage gi="hi" occurs="26">
+      <namespace name="http://www.tei-c.org/ns/1.0"><tagUsage gi="hi" occurs="26" withId="26">
 
       </tagUsage></namespace>
    </tagsDecl>
@@ -585,11 +588,12 @@ Tjänstgöringstid: 1914 tim.
          <p>
             <hi rend="u2">Översikt av arbetsåret 1/7 1944 - 30/6 1945 </hi> </p>
 
-<p>Första delen av det gångna arbetsåret har varit rätt be-tungande för medlemmarna i Umeå Lottakår. 
+<p>Första delen av det gångna arbetsåret har varit rätt be-tungande för medlemmarna i <name type="org">Umeå Lottakår</name>. 
    Senare halv året här(korrigering "har) däremot varit lugnt och stilla. </p>
 
 <p>Först och främst ha lottorna skött förplägnaden under <hi rend="u">in- och utryckningsdagarna </hi>vid olika förband. Under tiden 12 - 13 juli tjänstgjorde 10 lottor med en arbetstid av 144 tim. 
-Den 24 - 27 juli 7 lottor med 200 tim. Den 2 - 3 okt 2 lottor 32 tim. Den 19 - 21 nov. 7 lottor 96 tim. Den 15-16 jan 2 lottor 32 tim. Under sept och halva okt tjänstgjorde en lotta kokinstruktris vid K 4
+Den 24 - 27 juli 7 lottor med 200 tim. Den 2 - 3 okt 2 lottor 32 tim. Den 19 - 21 nov. 
+7 lottor 96 tim. Den 15-16 jan 2 lottor 32 tim. Under sept och halva okt tjänstgjorde en lotta kokinstruktris vid <name type="org" ref="https://www.forsvarsmakten.se/sv/organisation/norrlands-dragonregemente-k-4/">K 4</name>
 
 <hi rend="u">Sammanlagt 29 lottor och 504 tim.</hi></p>
 
