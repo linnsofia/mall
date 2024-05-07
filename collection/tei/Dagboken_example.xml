@@ -32,8 +32,8 @@
                </msIdentifier>
                
             <p>Tjänstgöringsdagbok från Umeå Lottakår 1939-1945 med innehåll bland annat från
-            flyktingmottagandet från Finland under andra världskriget. Består av totalt XX sidor exkluderat omslag... 
-            Innehåller namn på lottor som tjänstgjorde under denna tid, ... 
+            flyktingmottagandet av finska barn hösten 1944. Består av totalt XX sidor exkluderat omslag... 
+            Innehåller namn på lottor som tjänstgjorde under denna tid, platser, datum ... 
             ...
             ... </p> 
            
@@ -102,7 +102,7 @@
    <listPerson>
       <person xml:id="F1">
         <persName>
-<forename>Carli</forename><surname>Forsberg</surname>
+<forename>Gurli</forename><surname>Forsberg</surname>
         </persName>
         <birth notAfter="1939"></birth>
       </person>
@@ -127,13 +127,13 @@
       </person>
       <person xml:id="S1">
          <persName>
-            <forename>Jenny</forename><surname>Sandström</surname> 
+            <forename>Jenny</forename><surname>Sundström</surname> 
          </persName>
          <birth notAfter="1939"></birth>
       </person>
       <person xml:id="v1">
          <persName>
-            <forename>Elisabeth</forename><surname>Widén Nilson</surname> 
+            <forename>Elisabet</forename><surname>Nilson</surname> 
          </persName>
          <birth notAfter="1939"></birth>
       </person>
@@ -153,9 +153,6 @@
 
    </listPerson>
 </standOff>
-<<<<<<< Updated upstream
-   <facsimile> <surface xml:id="sida_85_1a_resan"> 
-=======
 
    <facsimile> 
       <surface xml:id="dagbok_cover_omslag">
@@ -169,7 +166,7 @@
          </figure>
       </surface>
       <surface xml:id="sida_85_1a_resan"> 
->>>>>>> 7d17b8dd7d8f53302c4ffed9e2a2418280d3fa2f
+
    <figure>
       <label>21 juli-18 sep. Första resan</label>
       <figDesc>Sidor ur dagboken som beskriver delar av lottornas arbete under hösten 1944, däribland första resan
@@ -294,12 +291,12 @@ Första resan:
               <head>Första resan:</head> 
           
            <p> Utspisningslottor:
-               <name type="person" ref="F1">Carli Forsberg</name>,
+               <name type="person" ref="F1">Gurli Forsberg</name>,
                <name type="person" ref="V1">Karin Wästfelt</name>,
-               <name type="person" ref="H1"> Lillian Hellberg</name>,
+               <name type="person" ref="H1"> Lilian Hellberg</name>,
                <name type="person" ref="N1"> Thyra Nilsson</name> ,
                <name type="person" ref="S1"> Jenny Sandström</name>, 
-               <name type="person" ref="V2"> Elisabet Widén Nilson</name>, 
+               <name type="person" ref="V2"> Elisabet Nilson</name>, 
                <name type="person" ref="J1"> Sigrid Jonsson</name>,
                <name type="person" ref="S2"> Lisa Sundqvist</name>, 
                Görel Wikholm, 
@@ -334,7 +331,7 @@ Första resan:
                   
            
          
-          <div n="2" type="namnlista"><p>Andra resan: Utspisningslottor: Elsa Widerlund, 
+          <div n="2" type="namnlista"> <p> Andra resan: Utspisningslottor: Elsa Widerlund, 
             <name type="person" ref="F1">Gurli Forsberg</name>, 
        Märta Beckman, 
        Thyra Lindwall, 
@@ -344,8 +341,8 @@ Första resan:
        <name type="person" ref="N1"> Thyra Nilsson</name>, 
        Ida Eriksson. 
        Tjänstgöringstid: 478 tim. 
-          </div>
-       Tredje resan: 
+          </p> </div> 
+
 
             Tredje resan. Utspisningslottor: <name type="person" ref="F1">Gurli Forsberg</name>, 
             Göta Bergman, 
@@ -357,7 +354,7 @@ Första resan:
 		Gustafsson 
       och Margit
       Carleborg samt 3 unglottor. 
-Tågchef: Elisabet Wilén 
+Tågchef: Elisabet Nilson 
 v. chef: Greta Krikortz, 
 Jenny Sundström. 
 Tåglottor: Barbro Hedlund
@@ -423,7 +420,7 @@ Tjänstgöringstid: 1914 tim.
             Hilma Berg, 
             Märta Sundqvist, 
             Maud Olsson och unglottor 
-            Tågchef: <name type="person" ref="V2"> Elisabet Widén Nilsson</name> 
+            Tågchef: <name type="person" ref="V2"> Elisabet Nilson</name> 
             v. chef: Vera Stjernvall 
             Tåglottor: Inga- Maj Gripenstam, 
             Linnéa Svensson, 
@@ -478,12 +475,12 @@ Tjänstgöringstid: 1914 tim.
             Gusti Pettersson, 
             Elsa Modig, 
             Amy Sandström, 
-            <name type="person" ref="V2"> Elisabet Widén Nilsson</name>, 
-            <name type="person" ref="F1">Carli Forsberg</name>, 
+            <name type="person" ref="V2"> Elisabet Nilson</name>, 
+            <name type="person" ref="F1">Gurli Forsberg</name>, 
             Vivi Engqvist, 
             Ida Eriksson, 
             Lilly Johansson. 
-            Tågchef: <name type="person" ref="V2"> Elisabet Widén Nilsson</name> 
+            Tågchef: <name type="person" ref="V2"> Elisabet Nilson</name> 
             v. chef: Inga- Maj Gripenstam 
             Köket: Hanna Lindbladh, 
             Dagmar Stocksén, 
@@ -547,12 +544,12 @@ Tjänstgöringstid: 1914 tim.
              Lilly Backman, 
              Edit Åhgren, 
              Ann- Mari Hedman. 
-             Tågchef: <name type="person" ref="V2"> Elisabet Widén Nilsson</name> 
+             Tågchef: <name type="person" ref="V2">Elisabet Nilson</name> 
              v.chef: Ingrid Lundström, 
              Margareta Svensson 
              Tåglottor: Elsa Modig
             Smörgåsberedning: Märta Forsberg, 
-            <name type="person" ref="F1">Carli Forsberg</name>, 
+            <name type="person" ref="F1">Gurli Forsberg</name>, 
             Aina Forsgren, 
             Jenny Sundström, 
             Rut Ringqvist 
