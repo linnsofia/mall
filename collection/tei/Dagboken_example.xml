@@ -248,7 +248,7 @@
 
          <div type="fältdagbok">
          
-         <div type="rapport" facs="#sida_85_1a_resan">
+         <div n="1" type="rapport" facs="#sida_85_1a_resan">
 </div>
 
          <div type="page" facs="#sida_85_1a_resan">
@@ -290,7 +290,7 @@ Första resan:
 
             </p>
             
-            <div n="1" type="namnlista" facs="#sida_86_2-3-4e_resan">
+            <div type="namnlistor" facs="#sida_86_2-3-4e_resan">
               <head>Första resan:</head> 
           
            <p> Utspisningslottor:
@@ -313,7 +313,7 @@ Första resan:
                Elsa Edefeldt 
                och Märta Edefeldt.  
               Tågchef: 
-              <name type="person" ref="V2"> Elisabet Widén Nilson</name>
+              <name type="person" ref="V2"> Elisabet Nilson</name>
                v. chef: Jenny Sundström 
                Tåglottor: 
                   Elsa Welander, 
@@ -330,11 +330,11 @@ Första resan:
                      Tjänstgöringstid: 1244 tim
 
                   </p> 
-               </div>
+               
                   
            
          
-          <div n="2" type="namnlista"> <p> Andra resan: Utspisningslottor: Elsa Widerlund, 
+          <p> Andra resan: Utspisningslottor: Elsa Widerlund, 
             <name type="person" ref="F1">Gurli Forsberg</name>, 
        Märta Beckman, 
        Thyra Lindwall, 
@@ -344,10 +344,10 @@ Första resan:
        <name type="person" ref="N1"> Thyra Nilsson</name>, 
        Ida Eriksson. 
        Tjänstgöringstid: 478 tim. 
-          </p> </div> 
+          </p> 
 
 
-            Tredje resan. Utspisningslottor: <name type="person" ref="F1">Gurli Forsberg</name>, 
+           <p> Tredje resan. Utspisningslottor: <name type="person" ref="F1">Gurli Forsberg</name>, 
             Göta Bergman, 
             Jenny Sundström, 
             Sig- rid Malmlund, 
@@ -385,11 +385,11 @@ Smörgåsberedning:
             Märta Forsberg, 
             Greta Krikortz 
             och Aina Forsgren. 
-Tjänstgöringstid: 1914 tim. 
+Tjänstgöringstid: 1914 tim. </p>
 
 
             
-            Fjärde resan:
+           <p>Fjärde resan:
             Utspisningslottor: Ester Berg, 
             Margit Carleborg, 
             Göta Beckman, 
@@ -410,9 +410,9 @@ Tjänstgöringstid: 1914 tim.
             Thyra Lindvall, 
             Vera Stjernvall, 
             Rut Ringqvist 
-            Tjänstgöringstid: 737 tim. 
+            Tjänstgöringstid: 737 tim. </p> 
 
-            Femte Resan. 
+            <p>Femte Resan. 
             Utspisningslottor: Ester Berg, 
             Margit Carleborg, 
             Göta Backman, 
@@ -445,9 +445,9 @@ Tjänstgöringstid: 1914 tim.
             Vera Stjernvall, 
             Sigrid Malmlund, 
             Göta Backman. 
-            Tjänstgöringstid:1618 tim 
+            Tjänstgöringstid:1618 tim </p>
             
-            Sjätte resan: Utspisningslottor: Ester Berg, 
+           <p>Sjätte resan: Utspisningslottor: Ester Berg, 
             Margit Carleborg, 
             Jenny Sundström, 
             Gusti Pettersson, 
@@ -470,9 +470,9 @@ Tjänstgöringstid: 1914 tim.
             Thyra Lindwall, 
             Gusti Pettersson, 
             Greta Krikortz 
-            Tjänstgöringstid: 816 tim (Ordet smörgåsberedning var inte understruket på den 6:e resan men på alla andra) 
+            Tjänstgöringstid: 816 tim (Ordet smörgåsberedning var inte understruket på den 6:e resan men på alla andra) </p> 
 
-            Sjunde resan. Utspisningslottor: Göta Backman, 
+            <p>Sjunde resan. Utspisningslottor: Göta Backman, 
             Thyra Lindvall, 
             Jenny Sundström, 
             Gusti Pettersson, 
@@ -502,9 +502,9 @@ Tjänstgöringstid: 1914 tim.
             <name type="person" ref="V2"> Elisabet Widén Nilsson</name>, 
             Gudrun Backman, 
             Göta Backman 
-            Tjänstgöringstid: 1264 tim. 
+            Tjänstgöringstid: 1264 tim. </p>
             
-            Åttonde resan: 
+            <p>Åttonde resan: 
             Utspisningslottor. <name type="person" ref="J1"> Sigrid Jonsson</name>, 
             Amy Sundström, 
             <name type="person" ref="V1">Karin Wästfelt</name>, 
@@ -528,9 +528,9 @@ Tjänstgöringstid: 1914 tim.
              Dagmar Mark, 
              Margit Svedbäck, 
              Gertrud Kågström 
-             Tjänstgöringstid: 312 tim. 
+             Tjänstgöringstid: 312 tim. </p>
              
-             Nionde resan: 
+             <p>Nionde resan: 
              Utspisningslottor: <name type="person" ref="J1"> Sigrid Jonsson</name>, 
              Marta Hedlund, 
              <name type="person" ref="H1"> Lilian Hellberg</name>, 
@@ -556,9 +556,9 @@ Tjänstgöringstid: 1914 tim.
             Aina Forsgren, 
             Jenny Sundström, 
             Rut Ringqvist 
-            Tjänstgöringstid: 673 tim 
+            Tjänstgöringstid: 673 tim </p>
             
-            Tionde resan: 
+            <p>Tionde resan: 
             Utspisningslottor: <name type="person" ref="J1"> Sigrid Jonsson</name>, 
             Göta Backman, 
             Gudrun Backman, 
@@ -581,7 +581,7 @@ Tjänstgöringstid: 1914 tim.
          </p></div>
       </div>
 
-      <div>
+      <div n="2" type="rapport">
          <p>
             <hi rend="u2">Översikt av arbetsåret 1/7 1944 - 30/6 1945 </hi> </p>
 
