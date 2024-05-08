@@ -24,20 +24,29 @@
             </availability>
          </publicationStmt>
          <sourceDesc> 
-            <msDesc> 
+            <msDesc>
+               
                <msIdentifier>
                   <country>Sverige</country> 
                   <region>Västerbotten</region>
                   <repository>Folkrörelsearkivet i Västerbotten</repository>
+                  
                </msIdentifier>
+               <physDesc>
+                  <objectDesc>
+                     <p>Dagboken itself measures as follows: 17cm bredd, 20,5cm höjd and is about 1,2cm tjock.</p>
+                  </objectDesc>
+               </physDesc>
+               <msContents><p>Tjänstgöringsdagbok från Umeå Lottakår 1939-1945 med innehåll bland annat från
+                  flyktingmottagandet av finska barn hösten 1944. Består av totalt XX sidor exkluderat omslag... 
+                  Innehåller namn på lottor som tjänstgjorde under denna tid, platser, datum ... 
+                  ...
+                  ... </p></msContents>
+             
+
                
-            <p>Tjänstgöringsdagbok från Umeå Lottakår 1939-1945 med innehåll bland annat från
-            flyktingmottagandet av finska barn hösten 1944. Består av totalt XX sidor exkluderat omslag... 
-            Innehåller namn på lottor som tjänstgjorde under denna tid, platser, datum ... 
-            ...
-            ... </p> 
-           
             </msDesc>
+            
          </sourceDesc>
    
       </fileDesc>
@@ -47,6 +56,8 @@
             informations och bibliotekskunskap. Bilderna ska också användas till
          ett projekt organiserat av hembygdsföreningen i Umeå, med mål att belysa och undervisa om 
            flyktingmottagandet under andra världskriget</p>
+           <p>Dagboken was scanned at 300 dpi, 8-bit, and saved as TIFF to follow industry standards. 
+           </p>
         </projectDesc>
         <samplingDecl><p>
          Urval har gjorts utifrån vilka delar av fältdagboken som berör mottagandet av de finska flyktingbarnen under hösten 1944, 
@@ -57,11 +68,11 @@
          Den ursprungliga stavningen i texten har bevarats.
       </p></normalization>
       <segmentation> <p> Sektioner av texten anges genom <gi>div</gi> 
-         Vi har utformat det som en hierki där fältdagboken som helhet har betecknats genom <gi>type</gi> attribut 
+         Vi har utformat det som en hierarki där fältdagboken som helhet har betecknats genom <gi>type</gi> attribut 
          "fältdagbok" och inom denna de enskilda inläggen över lottornas arbete betecknade som "rapport". 
-         Dessa reporter innehåller i sin tur ofta listor på personerna som hjälpt till och arbetstid. 
-         Dessa har angets som "namnlista" 
-         Paragrafer som i bildfilerna markeras med ett mellanrum mellantextstycken har angets med <gi>p</gi>
+         Dessa rapporter innehåller i sin tur ofta listor på personerna som hjälpt till och arbetstid. 
+         Dessa har angets som "namnlista". 
+         Paragrafer som i bildfilerna markeras med ett mellanrum mellantextstycken har angets med <gi>p</gi>.
       </p></segmentation>
    </editorialDecl>
    <tagsDecl>
@@ -499,7 +510,7 @@ Tjänstgöringstid: 1914 tim. </p>
             Smörgåsberedning: 
             Thyra Lindvall, 
             Aina Forsgren, 
-            <name type="person" ref="V2"> Elisabet Widén Nilsson</name>, 
+            <name type="person" ref="V2"> Elisabet Nilson</name>, 
             Gudrun Backman, 
             Göta Backman 
             Tjänstgöringstid: 1264 tim. </p>
@@ -640,7 +651,7 @@ Dessutom ha lottorna haft den sedvanliga julförsäljningen. Denna gång hölls 
 Vid alla dessa till-ställnignar ha lottorna en <hi rend="u">ar-betstid av 1012 tim.</hi></p>
 <p><hi rend="u">Summa tjänstgöringstid för arbetsåret 1/7 1944 - 30/6 1945 är 28133 tim.</hi></p>
 <p>Umeå i nov 1945</p>
-<p>Elisabet Nilsson
+<p>Elisabet Nilson
 förplägnadschef.</p>
 
       </div>
