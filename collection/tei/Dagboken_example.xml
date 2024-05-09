@@ -6,8 +6,8 @@
   <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Tjänstgöringsdagbok från Umeå Lottakår i samband med flyktingmottagandet av finska barn hösten 1944</title>
             <title>Bildfångade sidor från Umeå Lottakårs tjänstgöringsdagbok Fälttjänst U.S.L.K Oktober 1939—</title>
+
             <respStmt>
                <resp>En transkription utförd av</resp>
                <name>Sofia Larsson, Maling Färdig, Clara Berndes</name>  
@@ -40,15 +40,15 @@
 
                </physDesc>
 
-               <msContents><p>Tjänstgöringsdagbok från Umeå Lottakår 1939-1945 med innehåll bland annat från
+               <msContents>
+                  <p>Tjänstgöringsdagbok från Umeå Lottakår 1939-1945 med innehåll bland annat från
 
                   flyktingmottagandet av finska barn hösten 1944. Består av totalt XX sidor exkluderat omslag... 
 
                   Innehåller namn på lottor som tjänstgjorde under denna tid, platser, datum ... 
 
-                  ...
-
-                  ... </p></msContents>
+                  </p>
+               </msContents>
 
            
             </msDesc>
@@ -628,7 +628,7 @@ Vid detta tillfälle arbetade 501 lottor under 743 timmar.</p>
 
 <p>Även under detta arbetsår ha lottorna varit anlitade av <name type="org" ref="https://riksarkivet.se/motkallorna/hjalpkommitten-for-finlands-barn"><hi rend="u">Hjälpkommitten för Finlands barn.</hi> </name>
    Lottorna ha skött utspisning och transporter. 
-Barnen kom-mo med båt till <name type="place">Holmsund</name>. Härifrån fördes de sedan till <name type="place">Umeå där de badades och undersöktes av läkare.  
+Barnen kom-mo med båt till <name type="place">Holmsund</name>. Härifrån fördes de sedan till <name type="place">Umeå</name> där de badades och undersöktes av läkare.  
 Inte mindre an(korrigering än) 10 sådåna(korrigering sådana) trans - porter över Umeå. Varje trans-port bestod av mellan 650 - 800 barn. 
 Barnen anlände i allmänhet på kvällen, men de fingo stanna ombord på båten över natten. Första mål serverades på båten(insatt) tidigt på morgonen följande dag. 
 De andra målen(överstruket) Middag och kväll serverades på Nya folk-skolan. 
