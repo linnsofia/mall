@@ -399,13 +399,13 @@
     
       <body>
 
-         <div1 type="fältdagbok">
+         <div1 type="fältdagbok" facs="#dagbok_cover_omslag">
          
          <div2 n="1" type="rapport" facs="#sida_85_1a_resan"> 
 
         
 
-            <head>
+            <pb facs="#sida_85_1a_resan"></pb><head>
                <hi rend="u"> Under tiden 21 juli - 18 sept pågingo transporter av finska barn över <name type="place">Umeå</name></hi>
             </head>
             <p>
@@ -485,7 +485,7 @@ porter gångo över <name type="place">Umeå</name>.
                
              <div3 n="2">   
            
-         
+              <pb facs="#sida_086_2-3-4e_resan"></pb>
            <head>Andra resan:</head> <p>Utspisningslottor: Elsa Widerlund, 
            <name type="person" ref="#F1">Gurli Forsberg</name>, 
        Märta Beckman, 
