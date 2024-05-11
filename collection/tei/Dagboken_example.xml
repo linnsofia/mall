@@ -35,7 +35,7 @@
 
                   <objectDesc>
 
-                     <p>tjänstgöringsdagboken från Folkrörelsearkivet i Västerbotten är 17x 20,5 cm och 1,2 cm tjock.</p>
+                     <p>Tjänstgöringsdagboken från Folkrörelsearkivet i Västerbotten är 17x 20,5 cm och 1,2 cm tjock.</p>
 
                   </objectDesc>
 
@@ -293,23 +293,19 @@
          <birth notAfter="1939"></birth>
          <sex>Kvinna</sex>
       </person>
-     
-     
-     
-               
-            
-
                </listPerson>
 
    <listPlace>
-      <place>
-         <geogName></geogName>
+      <place xml:id="umea" type="city">
+         <settlement>Umeå</settlement>
+         <location> <geo>63°49 42″N 20°16 14″Ö</geo></location>
       </place>
    </listPlace>
 
    <listOrg>
-      <org>
-         <orgName type="voluntary">Umeå Lottakår</orgName>
+      <org xml:id="lotta">
+         <orgName type="voluntary"><settlement> Umeå</settlement> Lottakår</orgName>
+         
       </org>
 </listOrg>
 </standOff>
@@ -411,15 +407,15 @@
             <p>
                Barnen kommo med båt till 
 <name type="place">Holmsund</name>, varifrån de fördes 
-till <name type="place" ref="https://sv.wikipedia.org/wiki/Umeå">Umeå</name> där de badades och 
+till <ref target="https://sv.wikipedia.org/wiki/Umeå"> <name type="place" ref="#umea">Umeå</name> </ref>   där de badades och 
 undersöktes. Under tiden rök-
-tes deras kläder. <name type="org" ref="https://sv.wikipedia.org/wiki/Svenska_Lottak%C3%A5ren">Umeå Lottakår</name>. hjälpte under denna tid 
-till med både utspisning och 
+tes deras kläder. <ref target="https://sv.wikipedia.org/wiki/Svenska_Lottak%C3%A5ren"><name type="org" ref="#lotta">Umeå Lottakår</name></ref>. 
+hjälpte under denna tid till med både utspisning och 
 transport. Maten lagades i 
-ordning på <name type="place" ref="https://sv.wikipedia.org/wiki/Ume%C3%A5_garnison"></name>I 20. 
+ordning på <ref target="https://sv.wikipedia.org/wiki/Ume%C3%A5_garnison"><name type="place" ref="#I20">I 20</name></ref>. 
 Första utspis-
 ningen för dagen skedde om-
-bord på båten i <name type="place" ref="https://sv.wikipedia.org/wiki/Holmsund">Holmsund</name>. 
+bord på båten i <ref target="https://sv.wikipedia.org/wiki/Holmsund"><name type="place" ref="#holmsund">Holmsund</name></ref>. 
 Sedan utspisades de två gång
 er på <name type="place">Nya folkskolan</name>. Transpor-
 terna gångo vanligen tidigt 
@@ -431,12 +427,12 @@ terades på militära sjuktåg.
 Utspisningen under transporter
 
                
-(nytt blad/sida)
+
 na sköttes av lottorna. Med tåget
 följde en köksvagn där maten la-
 gades. Sedan bars den ut i de
 olika vagnarna. 10 sådana trans-
-porter gångo över <name type="place">Umeå</name>. 
+porter gångo över <name type="place" ref="#umea">Umeå</name> . 
 
 
             </p>
@@ -522,7 +518,7 @@ Magda Eriksson
 Edit Lundberg, 
 Hildur (Ester?) Lundmark
  
-(Ny sida/nytt blad) (samma bildfil):  
+
 Agda Holmgren, 
 Elsa Widerlund.
 Irene Gustafsson, 
@@ -561,7 +557,9 @@ Tjänstgöringstid: 1914 tim. </p>
             Siv Strandberg, 
             Edit Åhgren. 
             <name type="person" ref="#N1"> Thyra Nilsson</name>. 
-            Smörgåsberedning: Göta Backman, 
+            Smörgåsberedning: Göta Backman,
+
+            <pb facs="#sida_087_5-6e_resan.jpg"></pb>
             <name type="person" ref="#F2"> Aina Forsgren </name>, 
             Thyra Lindvall, 
             Vera Stjernvall, 
@@ -631,7 +629,10 @@ Tjänstgöringstid: 1914 tim. </p>
             Thyra Lindwall, 
             Gusti Pettersson, 
             <name type="person" ref="#K1"> Greta Krikortz </name> 
-            Tjänstgöringstid: 816 tim (Ordet smörgåsberedning var inte understruket på den 6:e resan men på alla andra) </p> 
+            Tjänstgöringstid: 816 tim 
+            (Ordet smörgåsberedning var inte understruket på den 6:e resan men på alla andra) </p> 
+            <pb facs="#sida_088_7-8-9e_resan"></pb>
+            
 
             <p>Sjunde resan. Utspisningslottor: Göta Backman, 
             Thyra Lindvall, 
@@ -700,7 +701,10 @@ Tjänstgöringstid: 1914 tim. </p>
              Jenny Sundström, 
              Ida Andersson, 
              <name type="person" ref="#F2"> Aina Forsgren </name>, 
-             Märta Forsberg, 
+             Märta 
+
+             <pb facs="#sida_089_10e_resan"></pb>
+             Forsberg, 
              <name type="person" ref="#F1">Carli Forsberg</name>, 
              Vivi Engqvist, 
              Alma Bylund, 
@@ -751,30 +755,33 @@ Tjänstgöringstid: 1914 tim. </p>
 
 <p>Först och främst ha lottorna skött förplägnaden under <hi rend="u">in- och utryckningsdagarna </hi>vid olika förband. Under tiden 12 - 13 juli tjänstgjorde 10 lottor med en arbetstid av 144 tim. 
 Den 24 - 27 juli 7 lottor med 200 tim. Den 2 - 3 okt 2 lottor 32 tim. Den 19 - 21 nov. 
-7 lottor 96 tim. Den 15-16 jan 2 lottor 32 tim. Under sept och halva okt tjänstgjorde en lotta kokinstruktris vid <name type="org" ref="https://www.forsvarsmakten.se/sv/organisation/norrlands-dragonregemente-k-4/">K 4</name>
+7 lottor 96 tim. Den 15-16 jan 2 lottor 32 tim. 
+Under sept och halva okt tjänstgjorde en lotta kokinstruktris vid
+<ref target="https://www.forsvarsmakten.se/sv/organisation/norrlands-dragonregemente-k-4/"><name type="org" ref="#orgK4">K 4</name></ref>
 
 <hi rend="u">Sammanlagt 29 lottor och 504 tim.</hi></p>
 
 <p><hi rend="u">På skyttepaviljongen</hi> har mat- och kaffeserveringen varit anordnad två gånger, den 29 okt och den 3 juni.
 
-<hi rend="u">12(otydlig) lottor ha tjänstgjort med 97 tim.</hi></p>
+<hi rend="u"><unclear reason="covered" cert="high" resp="Clara Berndes">12</unclear> lottor ha tjänstgjort med 97 tim.</hi></p>
 
 <p>Under <hi rend="u">riksskyttedagarna 30 januari, 1 och 2 juli </hi>skötte lottorna utspis-ning och marketenteri(vi bör nog använda orddefinitioner här) uppe på paviljongen och ute vid kon-trollerna i Brattby och Vännäs by. 
 Vid detta tillfälle arbetade 501 lottor under 743 timmar.</p>
 
-<p>Vid den <hi rend="u">middag </hi>som <hi rend="u">lant-bruksmötet</hi> anordnade för de kungliga gester na(överstryket) som besökte Umeå hjälpte lottorna till med serveringen.
+<p>Vid den <hi rend="u">middag </hi>som <hi rend="u">lant-bruksmötet</hi> anordnade för de kungliga gester na(överstryket) som besökte <name type="place" ref="#umea">Umeå</name>  hjälpte lottorna till med serveringen.
 
    <hi rend="u">52 lottor 250 tim.</hi></p>
 
 
 <p>Även under detta arbetsår ha lottorna varit anlitade av <name type="org" ref="https://riksarkivet.se/motkallorna/hjalpkommitten-for-finlands-barn"><hi rend="u">Hjälpkommitten för Finlands barn.</hi> </name>
    Lottorna ha skött utspisning och transporter. 
-Barnen kom-mo med båt till <name type="place">Holmsund</name>. Härifrån fördes de sedan till <name type="place">Umeå</name> där de badades och undersöktes av läkare.  
-Inte mindre an(korrigering än) 10 sådåna(korrigering sådana) trans - porter över Umeå. Varje trans-port bestod av mellan 650 - 800 barn. 
+Barnen kom-mo med båt till <name type="place" ref="#holmsund">Holmsund</name>. Härifrån fördes de sedan till <name type="place" ref="#umea">Umeå</name> där de badades och undersöktes av läkare.  
+Inte mindre an(korrigering än) 10 sådåna(korrigering sådana) trans - porter över <name type="place" ref="#umea">Umeå</name>. Varje trans-port bestod av mellan 650 - 800 barn. 
 Barnen anlände i allmänhet på kvällen, men de fingo stanna ombord på båtenöver natten. Första mål serverades <add place="above">på båten</add> tidigt på morgonen följande dag. 
 <del>De andra målen</del> Middag och kväll serverades på Nya folk-skolan. 
 På kvällen överför-des barnen till det militära sjuktåget, som ställts till förfogande. Utspisningen under resan ombesörgdes av lottorna. Med tåget följde nämligen en köksvagn. 
-Under den tid transporterna pågingo var ett kara-tänläger anordnat i Vännäs. Här tjänstgjorde en lotta som förplägg-ningschef och en som husmor. Under en del hemtransporter av(korrigering de) finska barnen har även lot-torna tjänstgjort.</p>
+Under den tid transporterna pågingo var ett kara-tänläger anordnat i Vännäs. Här tjänstgjorde en lotta som förplägg-ningschef och en som husmor. 
+Under en del hemtransporter av(korrigering de) finska barnen har även lot-torna tjänstgjort.</p>
 
 <p> <hi rend="u">278 lottor ha tjänstgjort med 14890 tim.</hi></p>
 
@@ -784,9 +791,10 @@ Två lottor skötte expeditionsar-betet. För att få in pengar till julklapparn
 <hi rend="u">16 lottor med 372 tim.</hi></p>
 
 
-<p>Vid de övningar <hi rend="u">Hemvär-net</hi> anordnat i Umeå den 11 och 12 mars serverade lottorna kaffe, bröd och varm mjölk uppe på paviljongen. 
-Andra dagen var middag anordnad i I 20 matsal, där lottorna skötte serveringen. Under den kurs som hölls för hemvärnsområdesbefälhavarna tiden 6, 7 och 8 april intogo kursdeltagarna sina måltider å lottalokalen. 
-Matlagning och servering sköttes av lottorna. Vid övningen den 27 maj bjödo lottorna Hem-värnet på kaffe i I 20 matsal. 
+<p>Vid de övningar <hi rend="u">Hemvär-net</hi> anordnat i <name type="place" ref="#umea">Umeå</name> den 11 och 12 mars serverade lottorna kaffe, bröd och varm mjölk uppe på paviljongen. 
+Andra dagen var middag anordnad i <name type="place" ref="#I20">I 20 matsal</name>, där lottorna skötte serveringen. 
+Under den kurs som hölls för hemvärnsområdesbefälhavarna tiden 6, 7 och 8 april intogo kursdeltagarna sina måltider å lottalokalen. 
+Matlagning och servering sköttes av lottorna. Vid övningen den 27 maj bjödo lottorna Hem-värnet på kaffe i <name type="place" ref="#I20">I 20 matsal</name>. 
 För Hemvärnet ha således <hi rend="u">37 lottor arbetat 328 tim.</hi></p>
 
 <p>Under den tid då <hi rend="u">finnarna evakuerades </hi>över till Sverige, hjälpte lottorna till med utspisning vid deras ankomst. 
@@ -797,11 +805,11 @@ För Hemvärnet ha således <hi rend="u">37 lottor arbetat 328 tim.</hi></p>
 <p>På <hi rend="u">Luciadagens morgon </hi>bjödo lottorna krigsinvaliderna på kaffe och “lussebullar”. 
    På <hi rend="u">jul-aftonen </hi>besökte lottorna ett beredskapskompani på Gimo-näs samt de evakueringsläger där lottor tjänstgjorde. 
 Alla bjödos på kaffe, gott bröd och <hi rend="u">tårta. 18 lottor 64 tim.</hi></p>
-<p>För <hi rend="u">insamling av pengar </hi> ha lottorna anordnat en bridgeafton, två danser på I 20, 1 dans på Stora Hotellet och 1 dans i I:20 park.(Annorlunda) 
+<p>För <hi rend="u">insamling av pengar </hi> ha lottorna anordnat en bridgeafton, två danser på <name type="place" ref="#I20">I 20</name>, 1 dans på Stora Hotellet och 1 dans i <name type="place" ref="#I20">I:20</name>.
 Dessutom ha lottorna haft den sedvanliga julförsäljningen. Denna gång hölls den i kyrksalen. Kaffe-serveringen sköttes då av L-c lottorna. 
 Vid alla dessa till-ställnignar ha lottorna en <hi rend="u">ar-betstid av 1012 tim.</hi></p>
 <p><hi rend="u">Summa tjänstgöringstid för arbetsåret 1/7 1944 - 30/6 1945 är 28133 tim.</hi></p>
-<p>Umeå i nov 1945</p>
+<p><name type="place" ref="#umea">Umeå</name> i nov 1945</p>
 <signed> <name type="person" ref="#N1">Elisabet Nilson</name>
 förplägnadschef.</signed>
 
