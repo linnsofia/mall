@@ -10,13 +10,13 @@
 
             <respStmt>
                <resp>En transkription utförd av</resp>
-               <name>Sofia Larsson, Maling Färdig, Clara Berndes</name>  
+               <name>Sofia Larsson, Malin Färdig, Clara Berndes</name>  
             </respStmt>
          </titleStmt>
          <publicationStmt>
             <publisher>Högskolan i Borås</publisher>
             <date>2024</date>
-            <authority>Sofia Larsson, Katherine Knox Beler, Maling Färdig, Clara Berndes</authority>
+            <authority>Sofia Larsson, Katherine Knox Beler, Malin Färdig, Clara Berndes</authority>
             <date>Maj 2024</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.sv"> 
@@ -25,28 +25,28 @@
          </publicationStmt>
          <sourceDesc> 
             <msDesc> 
-               
                <msIdentifier>
-                  <country>Sverige</country> 
-                  <region>Västerbotten</region>
-                  <repository>Folkrörelsearkivet i Västerbotten</repository>
+<!-- Kommentar: Kan vi lägga till mer info här? Hur benämns dagboken av arkivet? Finns någon numrering etc? -->
+                  <msName>Fälttjänst U.S.L.K Oktober 1939—</msName>
+                  <objectName>Tjänstgöringsdagbok</objectName>
                </msIdentifier>
                <physDesc>
-
                   <objectDesc>
-
-                     <p>Tjänstgöringsdagboken från Folkrörelsearkivet i Västerbotten är 17x 20,5 cm och 1,2 cm tjock.</p>
+                     <p>
+                        <abbr>
+                           U.S.L.K
+                        </abbr>Tjänstgöringsdagbok från Folkrörelsearkivet i Västerbotten. Mått: 17 x 20,5 cm och 1,2 cm tjock.</p>
 
                   </objectDesc>
 
                </physDesc>
 
                <msContents>
-                  <p>Innehåller bland delar om lottornas arbete med 
+                  <p>Innehåller bland annat delar om lottornas arbete med 
+                  flyktingmottagandet av finska barn hösten 1944. Består av totalt XX sidor inklusive tomma blad. 
+                  Antal uppslag i dagboken: XX, varav tio transkriberats. 
 
-                  flyktingmottagandet av finska barn hösten 1944. Består av totalt XX sidor exkluderat omslag... 
-
-                  Innehåller namn på lottor som tjänstgjorde under denna tid, platser, datum ... 
+                  Innehåller namn på lottor som tjänstgjorde under denna tid, platser och datum. 
 
                   </p>
                </msContents>
@@ -366,7 +366,7 @@
       
       <surface xml:id="sida_089_10e_resan">
          <figure>
-            <label>Tionade resan</label>
+            <label>Tionde resan</label>
             <figDesc>
                Sida ur dagboken som beskriver tionde resan.
             </figDesc>
@@ -383,7 +383,6 @@
    <front>
       <div1 type="bokomslag"></div1>
       
-
       <div1 type="page" facs="#dagbok_cover_omslag">
          <head>
             <hi rend="u">Tjänstgöringsdagbokens omslag</hi>
