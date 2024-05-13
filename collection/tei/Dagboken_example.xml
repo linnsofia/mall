@@ -445,7 +445,7 @@ porter gångo över <name type="place" ref="#umea">Umeå</name> .
                <name type="person" ref="#H1"> Lilian Hellberg</name>,
                <name type="person" ref="#N1"> Thyra Nilsson</name> ,
                <name type="person" ref="#S1"> Jenny Sandström</name>, 
-               <name type="person" ref="#V2"> Elisabet Nilson</name>, 
+               <name type="person" ref="#N2"> Elisabet Nilson</name>, 
                <name type="person" ref="#J1"> Sigrid Jonsson</name>,
                <name type="person" ref="#S2"> Lisa Sundqvist</name>, 
                <name type="person" ref="#V3"> Görel Wikholm</name>, 
@@ -459,17 +459,18 @@ porter gångo över <name type="place" ref="#umea">Umeå</name> .
                <name type="person" ref="#E2">Elsa Edefeldt</name>  
                och <name type="person" ref="#E3">Märta Edefeldt</name>.  
               Tågchef: 
-              <name type="person" ref="#V2"> Elisabet Nilson</name>
-               v. chef: <name type=“person” ref=“#S3”> Jenny Sundström</name>  
+              <name type="person" ref="#N2"> Elisabet Nilson</name>
+
+               v. chef: <name type="person" ref="#S3"> Jenny Sundström</name>  
                Tåglottor: 
                   <name type="person" ref="#V3"> Elsa Welander</name>, 
                   <name type="person" ref="#S4"> Rut Sand- ström</name> , 
-                  <name type=“person” ref=“#A1”> Elsa Andersson</name> ,  
+                  <name type="person" ref="A1"> Elsa Andersson</name> ,  
                <name type="person" ref="#V1"> Karin Wäst- felt</name>, 
                <name type="person" ref="#B1"> Ester Berg</name>, 
                <name type="person" ref="#L1"> Hanna Lundbladh</name>, 
               <unclear reason="illegible"> Maria? Hilma</unclear> Berg, 
-               <name type=“person” ref=“#T1”> Greta Thhlin</name> , 
+               <name type="person" ref="#T1"> Greta Thhlin</name> , 
                <name type=“person” ref=“#V4”> Ulla Wästfelt</name>   </p>
                
                   <p>
@@ -497,7 +498,7 @@ porter gångo över <name type="place" ref="#umea">Umeå</name> .
 
            <p> Tredje resan. Utspisningslottor: <name type="person" ref="#F1">Gurli Forsberg</name>, 
             Göta Bergman, 
-            Jenny Sundström, 
+            <name type="person" ref="#S3"> Jenny Sundström</name>, 
             <name type="person" ref="#M1"> Sig- rid Malmlund</name>, 
             Gunnel Jörlén 
             Jonsson, 
@@ -507,7 +508,7 @@ porter gångo över <name type="place" ref="#umea">Umeå</name> .
       Carleborg samt 3 unglottor. 
 Tågchef: Elisabet Nilson 
 v. chef: <name type="person" ref="#K1"> Greta Krikortz </name>, 
-Jenny Sundström. 
+<name type="person" ref="#S3"> Jenny Sundström</name>. 
 Tåglottor: Barbro Hedlund
 Märta Hedlund, 
 Barbro Boström
@@ -606,7 +607,7 @@ Smörgåsberedning:
             Utspisningslottor: 
             <name type="person" ref="#B1"> Ester Berg</name>, 
             Margit Carleborg, 
-            Jenny Sundström, 
+            <name type="person" ref="#S3"> Jenny Sundström</name>, 
             Gusti Pettersson, 
             Rut Hellgren, 
             Thyra Lindvall, 
@@ -623,7 +624,7 @@ Smörgåsberedning:
             Britta Eriksson, 
             Astrid Lundgren 
             Smörgåsberedning: <name type="person" ref="#F1">Gurli Forsberg</name>, 
-            Jenny Sundström, 
+            <name type="person" ref="#S3"> Jenny Sundström</name>, 
             <name type="person" ref="#F2"> Aina Forsgren </name>, 
             Thyra Lindwall, 
             Gusti Pettersson, 
@@ -636,7 +637,7 @@ Smörgåsberedning:
 
             <p>Sjunde resan. Utspisningslottor: Göta Backman, 
             Thyra Lindvall, 
-            Jenny Sundström, 
+            <name type="person" ref="#S3"> Jenny Sundström</name>, 
             Gusti Pettersson, 
             Elsa Modig, 
             Amy Sandström, 
@@ -674,7 +675,7 @@ Smörgåsberedning:
             Göta Backman, 
              Gudrun Backman, 
              Gunnel Jörlen, 
-             Jenny Sundström, 
+             <name type="person" ref="#S3"> Jenny Sundström</name>, 
              <name type="person" ref="#F1">Carli Forsberg</name>, 
              Alma Bylund, 
              Ida Eriksson, 
@@ -698,7 +699,7 @@ Smörgåsberedning:
              <name type="person" ref="#H1"> Lilian Hellberg</name>, 
              Ingrid Lindfors, 
              Göta Backman, 
-             Jenny Sundström, 
+             <name type="person" ref="#S3"> Jenny Sundström</name>, 
              Ida Andersson, 
              <name type="person" ref="#F2"> Aina Forsgren </name>, 
              Märta </p>
@@ -720,7 +721,7 @@ Smörgåsberedning:
             Smörgåsberedning: Märta Forsberg, 
             <name type="person" ref="#F1">Gurli Forsberg</name>, 
             <name type="person" ref="#F2"> Aina Forsgren </name>, 
-            Jenny Sundström, 
+            <name type="person" ref="#S3"> Jenny Sundström</name>, 
             Rut Ringqvist 
             Tjänstgöringstid: 673 tim </p>
             
@@ -729,7 +730,7 @@ Smörgåsberedning:
             Göta Backman, 
             Gudrun Backman, 
             <name type="person" ref="#V1">Karin Wästfelt</name>, 
-            Jenny Sundström, 
+            <name type="person" ref="#S3"> Jenny Sundström</name>, 
             <name type="person" ref="#H1"> Lilian Hellberg</name>, 
             Marta Hedlund, 
             Ulla Wästfelt, 
@@ -815,7 +816,7 @@ Dessutom ha lottorna haft den sedvanliga </p>
 </div>
 <div type="page" n="9">
 
-<p>julförsäljningen. Denna gång hölls den i kyrksalen. Kaffe-serveringen sköttes då av L-c lottorna. 
+<p>julförsäljningen. Denna gång hölls den i kyrksalen. Kaffe-serveringen sköttes då av <name type="org">L-c lottorna</name> . 
 Vid alla dessa till-ställnignar ha lottorna en <hi rend="u">ar-betstid av 1012 tim.</hi></p>
 <p><hi rend="u">Summa tjänstgöringstid för arbetsåret 1/7 1944 - 30/6 1945 är 28133 tim.</hi></p>
 <p><name type="place" ref="#umea">Umeå</name> i nov 1945</p>
