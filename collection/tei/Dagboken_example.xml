@@ -7,10 +7,13 @@
       <fileDesc>
          <titleStmt>
             <title>Bildfångade sidor från Umeå Lottakårs tjänstgöringsdagbok Fälttjänst U.S.L.K Oktober 1939—</title>
-
+            <funder>Umeå lottakår</funder>
             <respStmt>
-               <resp>En transkription utförd av</resp>
-               <name>Sofia Larsson, Malin Färdig, Clara Berndes</name>  
+               <resp>Transkription, markupp och digital publicering utförd av</resp>
+               <persName>Sofia Larsson,</persName>
+               <persName>Katherine Knox Beler</persName>
+               <persName>Malin Färdig</persName>
+               <persName>Clara Berndes </persName> 
             </respStmt>
          </titleStmt>
          <publicationStmt>
@@ -74,12 +77,11 @@
       <normalization><p>
          Den ursprungliga stavningen i texten har bevarats.
       </p></normalization>
-      <segmentation> <p> Sektioner av texten anges genom <gi>div</gi> 
-         Vi har utformat det som en hierarki där fältdagboken som helhet har betecknats genom <gi>type</gi> attribut 
-         "fältdagbok" och inom denna de enskilda inläggen över lottornas arbete betecknade som "rapport". 
-         Dessa rapporter innehåller i sin tur ofta listor på personerna som hjälpt till och arbetstid. 
-         Dessa har angets som "namnlista". 
+      <segmentation> <p> Sektioner av texten anges genom <gi>div</gi> med <gi>type</gi>attribut "rapport". 
+         Olika uppslag anges genom <gi>div </gi> med <gi>type</gi> attribut "page".
+        
          Paragrafer som i bildfilerna markeras med ett mellanrum mellantextstycken har angets med <gi>p</gi>.
+         Radbrytningar markeras med <gi>lb</gi>
       </p></segmentation>
    </editorialDecl>
    <tagsDecl>
@@ -381,28 +383,26 @@
   <text>
 
    <front>
-      <div1 type="bokomslag"></div1>
+      <div type="bokomslag"></div>
       
-      <div1 type="page" facs="#dagbok_cover_omslag">
+      <div type="page" facs="#dagbok_cover_omslag">
          <head>
             <hi rend="u">Tjänstgöringsdagbokens omslag</hi>
             </head>
-      </div1>
+      </div>
 
    </front>
     
     
       <body>
 
-         <div1 type="fältdagbok" facs="#dagbok_cover_omslag">
-         
-         <div2 n="1" type="rapport" facs="#sida_85_1a_resan"> 
-
+         <div type="fältdagbok" facs="#dagbok_cover_omslag"> </div>
         
+         <div type="rapport" n="1">
+         <div n="1" type="page" facs="#sida_85_1a_resan"> 
 
-            <pb facs="#sida_85_1a_resan"></pb><head>
-               <hi rend="u"> Under tiden 21 juli - 18 sept pågingo transporter av finska barn över <name type="place">Umeå</name></hi>
-            </head>
+               <p><hi rend="u"> Under tiden 21 juli - 18 sept pågingo transporter av finska barn över <name type="place">Umeå</name></hi>
+             </p>
             <p>
                Barnen kommo med båt till 
 <name type="place">Holmsund</name>, varifrån de fördes 
@@ -436,10 +436,10 @@ porter gångo över <name type="place" ref="#umea">Umeå</name> .
 
             </p>
             
-            <div3 n="1" type="namnlista" facs="#sida_86_2-3-4e_resan">
-              <head><hi rend="u"></hi>Första resan:</head> <head><hi rend="u"></hi></head>
+             
+            <p> <hi rend="u">Första resan:</hi>
           
-           <p> Utspisningslottor:
+            Utspisningslottor:
                <name type="person" ref="#F1">Gurli Forsberg</name>,
                <name type="person" ref="#V1">Karin Wästfelt</name>,
                <name type="person" ref="#H1"> Lilian Hellberg</name>,
@@ -476,12 +476,11 @@ porter gångo över <name type="place" ref="#umea">Umeå</name> .
                      Tjänstgöringstid: 1244 tim
 
                   </p> 
-                  </div3>
-               
-             <div3 n="2">   
-           
-              <pb facs="#sida_086_2-3-4e_resan"></pb>
-           <head>Andra resan:</head> <p>Utspisningslottor: Elsa Widerlund, 
+                  
+               </div>
+             
+              <div type="page" n="2" facs="#sida_086_2-3-4e_resan">
+               <p><hi>Andra resan:</hi> Utspisningslottor: Elsa Widerlund, 
            <name type="person" ref="#F1">Gurli Forsberg</name>, 
        Märta Beckman, 
        Thyra Lindwall, 
@@ -492,10 +491,10 @@ porter gångo över <name type="place" ref="#umea">Umeå</name> .
        Ida Eriksson. 
        Tjänstgöringstid: 478 tim. 
           </p> 
-         </div3>  
+          
 
 
-<div3 n="3">
+
            <p> Tredje resan. Utspisningslottor: <name type="person" ref="#F1">Gurli Forsberg</name>, 
             Göta Bergman, 
             Jenny Sundström, 
@@ -535,7 +534,7 @@ Smörgåsberedning:
             Märta Forsberg, 
             <name type="person" ref="#K1"> Greta Krikortz </name> 
             och <name type="person" ref="#F2"> Aina Forsgren </name>. 
-Tjänstgöringstid: 1914 tim. </p>
+            Tjänstgöringstid: 1914 tim. </p>
 
 
             
@@ -556,10 +555,11 @@ Tjänstgöringstid: 1914 tim. </p>
             Siv Strandberg, 
             Edit Åhgren. 
             <name type="person" ref="#N1"> Thyra Nilsson</name>. 
-            Smörgåsberedning: Göta Backman,
+            Smörgåsberedning: Göta Backman, </p>
+         </div>
 
-            <pb facs="#sida_087_5-6e_resan.jpg"></pb>
-            <name type="person" ref="#F2"> Aina Forsgren </name>, 
+         <div type="page" n="3" facs="#sida_087_5-6e_resan.jpg">
+            <p> <name type="person" ref="#F2"> Aina Forsgren </name>, 
             Thyra Lindvall, 
             Vera Stjernvall, 
             Rut Ringqvist 
@@ -630,7 +630,8 @@ Tjänstgöringstid: 1914 tim. </p>
             <name type="person" ref="#K1"> Greta Krikortz </name> 
             Tjänstgöringstid: 816 tim 
             (Ordet smörgåsberedning var inte understruket på den 6:e resan men på alla andra) </p> 
-            <pb facs="#sida_088_7-8-9e_resan"></pb>
+         </div>
+         <div type="page" n="4" facs="#sida_088_7-8-9e_resan">
             
 
             <p>Sjunde resan. Utspisningslottor: Göta Backman, 
@@ -700,10 +701,11 @@ Tjänstgöringstid: 1914 tim. </p>
              Jenny Sundström, 
              Ida Andersson, 
              <name type="person" ref="#F2"> Aina Forsgren </name>, 
-             Märta 
+             Märta </p>
+            </div>
 
-             <pb facs="#sida_089_10e_resan"></pb>
-             Forsberg, 
+            <div type="page" n="5" facs="#sida_089_10e_resan"> 
+             <p>Forsberg, 
              <name type="person" ref="#F1">Carli Forsberg</name>, 
              Vivi Engqvist, 
              Alma Bylund, 
@@ -741,18 +743,20 @@ Tjänstgöringstid: 1914 tim. </p>
             Gudrun Backman, 
             Göta Backman. 
             Tjänstgöringstid: 410 tim. 
+         </p>
+      </div>
+      </div>
 
-         </p></div3>
-      </div2>
-
-      <div2 n="2" type="rapport">
+      <div type="rapport" n="2">
+         <div type="page" n="6">
          <p>
             <hi rend="u2">Översikt av arbetsåret 1/7 1944 - 30/6 1945 </hi> </p>
 
 <p>Första delen av det gångna arbetsåret har varit rätt be-tungande för medlemmarna i <name type="org">Umeå Lottakår</name>. 
    Senare halv året <choice> <sic> här </sic> <corr> har</corr> </choice> däremot varit lugnt och stilla. </p>
 
-<p>Först och främst ha lottorna skött förplägnaden under <hi rend="u">in- och utryckningsdagarna </hi>vid olika förband. Under tiden 12 - 13 juli tjänstgjorde 10 lottor med en arbetstid av 144 tim. 
+<p>Först och främst ha lottorna skött förplägnaden under <hi rend="u">in- och utryckningsdagarna </hi>vid olika förband. 
+   Under tiden 12 - 13 juli tjänstgjorde 10 lottor med en arbetstid av 144 tim. 
 Den 24 - 27 juli 7 lottor med 200 tim. Den 2 - 3 okt 2 lottor 32 tim. Den 19 - 21 nov. 
 7 lottor 96 tim. Den 15-16 jan 2 lottor 32 tim. 
 Under sept och halva okt tjänstgjorde en lotta kokinstruktris vid
@@ -770,7 +774,8 @@ Vid detta tillfälle arbetade 501 lottor under 743 timmar.</p>
 <p>Vid den <hi rend="u">middag </hi>som <hi rend="u">lant-bruksmötet</hi> anordnade för de kungliga gester na(överstryket) som besökte <name type="place" ref="#umea">Umeå</name>  hjälpte lottorna till med serveringen.
 
    <hi rend="u">52 lottor 250 tim.</hi></p>
-
+</div>
+<div type="page" n="7">
 
 <p>Även under detta arbetsår ha lottorna varit anlitade av <name type="org" ref="https://riksarkivet.se/motkallorna/hjalpkommitten-for-finlands-barn"><hi rend="u">Hjälpkommitten för Finlands barn.</hi> </name>
    Lottorna ha skött utspisning och transporter. 
@@ -788,7 +793,8 @@ Under en del hemtransporter av(korrigering de) finska barnen har även lot-torna
 Två lottor skötte expeditionsar-betet. För att få in pengar till julklapparna anordnades tre biografföreställningar. Den 2 och 3 dec. insamlades pengar i en gryta på torget.
 
 <hi rend="u">16 lottor med 372 tim.</hi></p>
-
+</div>
+<div type="page" n="8">
 
 <p>Vid de övningar <hi rend="u">Hemvär-net</hi> anordnat i <name type="place" ref="#umea">Umeå</name> den 11 och 12 mars serverade lottorna kaffe, bröd och varm mjölk uppe på paviljongen. 
 Andra dagen var middag anordnad i <name type="place" ref="#I20">I 20 matsal</name>, där lottorna skötte serveringen. 
@@ -805,19 +811,22 @@ För Hemvärnet ha således <hi rend="u">37 lottor arbetat 328 tim.</hi></p>
    På <hi rend="u">jul-aftonen </hi>besökte lottorna ett beredskapskompani på Gimo-näs samt de evakueringsläger där lottor tjänstgjorde. 
 Alla bjödos på kaffe, gott bröd och <hi rend="u">tårta. 18 lottor 64 tim.</hi></p>
 <p>För <hi rend="u">insamling av pengar </hi> ha lottorna anordnat en bridgeafton, två danser på <name type="place" ref="#I20">I 20</name>, 1 dans på Stora Hotellet och 1 dans i <name type="place" ref="#I20">I:20</name>.
-Dessutom ha lottorna haft den sedvanliga julförsäljningen. Denna gång hölls den i kyrksalen. Kaffe-serveringen sköttes då av L-c lottorna. 
+Dessutom ha lottorna haft den sedvanliga </p>
+</div>
+<div type="page" n="9">
+
+<p>julförsäljningen. Denna gång hölls den i kyrksalen. Kaffe-serveringen sköttes då av L-c lottorna. 
 Vid alla dessa till-ställnignar ha lottorna en <hi rend="u">ar-betstid av 1012 tim.</hi></p>
 <p><hi rend="u">Summa tjänstgöringstid för arbetsåret 1/7 1944 - 30/6 1945 är 28133 tim.</hi></p>
 <p><name type="place" ref="#umea">Umeå</name> i nov 1945</p>
 <signed> <name type="person" ref="#N1">Elisabet Nilson</name>
 förplägnadschef.</signed>
 
-      </div2>
+</div>
 
-   </div1>
+   </div>
 
       </body>
 
-      <back></back>
   </text>
 </TEI>
