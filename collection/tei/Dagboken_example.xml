@@ -460,17 +460,17 @@ porter gångo över <name type="place" ref="#umea">Umeå</name> .
                och <name type="person" ref="#E3">Märta Edefeldt</name>.  
               Tågchef: 
               <name type="person" ref="#V2"> Elisabet Nilson</name>
-               v. chef: Jenny Sundström 
+               v. chef: <name type=“person” ref=“#S3”> Jenny Sundström</name>  
                Tåglottor: 
-                  Elsa Welander, 
-                  Rut Sand- ström, 
-                  Elsa Andersson,  
-               <name type="person" ref="#V1">Karin Wäst- felt</name>, 
+                  <name type="person" ref="#V3"> Elsa Welander</name>, 
+                  <name type="person" ref="#S4"> Rut Sand- ström</name> , 
+                  <name type=“person” ref=“#A1”> Elsa Andersson</name> ,  
+               <name type="person" ref="#V1"> Karin Wäst- felt</name>, 
                <name type="person" ref="#B1"> Ester Berg</name>, 
                <name type="person" ref="#L1"> Hanna Lundbladh</name>, 
               <unclear reason="illegible"> Maria? Hilma</unclear> Berg, 
-               Greta Thhlin, 
-               Ulla Wästfelt  </p>
+               <name type=“person” ref=“#T1”> Greta Thhlin</name> , 
+               <name type=“person” ref=“#V4”> Ulla Wästfelt</name>   </p>
                
                   <p>
                      Tjänstgöringstid: 1244 tim
@@ -681,7 +681,7 @@ Tjänstgöringstid: 1914 tim. </p>
              Edit Åhgren, 
              Anna- Greta Johansson, 
              Anna Forsgren 
-             Tågchef: Elsa Welander v.chef: 
+             Tågchef: <name type=“person” ref=“#V3”> Elsa Welander</name>  v.chef: 
              Ingrid Lundström 
              Smörgåsberedning: Elsa Edstedt, 
              Anna- Lisa Dahl, 
