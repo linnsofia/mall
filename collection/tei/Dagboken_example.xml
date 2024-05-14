@@ -10,10 +10,10 @@
             <funder>Umeå lottakår</funder>
             <respStmt>
                <resp>Transkribering, markup och digital publicering utförd av</resp>
-               <persName>Sofia Larsson,</persName>
+               <persName>Sofia Larsson</persName>
                <persName>Katherine Knox Beler</persName>
                <persName>Malin Färdig</persName>
-               <persName>Clara Berndes </persName> 
+               <persName>Clara Berndes</persName> 
             </respStmt>
          </titleStmt>
          <publicationStmt>
@@ -657,9 +657,9 @@
       <surface xml:id="sida_85_1a_resan"> 
 
    <figure>
-      <label>21 juli-18 sep. Första resan</label>
-      <figDesc>Sidor ur dagboken som beskriver delar av lottornas arbete under hösten 1944, däribland första resan
-      för transport av finska flyktingbarn.</figDesc>
+      <label>21 juli–18 sep. Första resan</label>
+      <figDesc>Sidor ur dagboken som beskriver delar av lottornas arbete under hösten 1944, däribland första
+	      transporten ("resan") av finska flyktingbarn.</figDesc>
       <graphic url="https://github.com/linnsofia/mall/blob/main/docs/assets/img/documents/sida_085_1a_resan.jpg"></graphic>
       <graphic url="https://github.com/linnsofia/mall/blob/main/collection/img/sida_085.tiff"/>
    </figure>
@@ -668,7 +668,7 @@
          <figure>
             <label>Andra, tredje och början på fjärde resan</label>
             <figDesc>
-               Sida ur dagboken som beskriver andra till och med början på fjärde resan.
+               Sidor ur dagboken som beskriver andra till och med början på fjärde resan.
             </figDesc>
             <graphic url="assets/img/documents/sida_086_2-3-4e_resan.jpg"/>
             <graphic url="https://github.com/linnsofia/mall/blob/main/collection/img/sida_086.tiff"></graphic>
@@ -677,9 +677,9 @@
       
       <surface xml:id="sida_087_5-6e_resan.jpg">
          <figure>
-            <label>Femte, sjätte resan</label>
+            <label>Femte och sjätte resan</label>
             <figDesc>
-               Sida ur dagboken som beskriver femte och sjätte resan.
+               Sidor ur dagboken som beskriver femte och sjätte resan.
             </figDesc>
             <graphic url="https://github.com/linnsofia/mall/blob/main/docs/assets/img/documents/sida_087_5-6e_resan.jpg"/>
             <graphic url="https://github.com/linnsofia/mall/blob/main/collection/img/sida_087.tiff"></graphic>
@@ -690,7 +690,7 @@
          <figure>
             <label>Sjunde, åttonde och nionde resan</label>
             <figDesc>
-               Sida ur dagboken som beskriver sjunde, åttonde och nionde resan.
+               Sidor ur dagboken som beskriver sjunde, åttonde och nionde resan.
             </figDesc>
             <graphic url="https://github.com/linnsofia/mall/blob/main/docs/assets/img/documents/sida_088_7-8-9e_resan.jpg"/>
             <graphic url="https://github.com/linnsofia/mall/blob/main/collection/img/sida_088.tiff"></graphic>
@@ -701,7 +701,7 @@
          <figure>
             <label>Tionde resan</label>
             <figDesc>
-               Sida ur dagboken som beskriver tionde resan.
+               Sidor ur dagboken som beskriver tionde resan.
             </figDesc>
             <graphic url="https://github.com/linnsofia/mall/blob/main/docs/assets/img/documents/sida_089_10e_resan.jpg"/>
             <graphic url="https://github.com/linnsofia/mall/blob/main/collection/img/sida_089.tiff"></graphic>
@@ -732,7 +732,7 @@
          <div type="rapport" n="1">
          <div n="1" type="page" facs="#sida_85_1a_resan"> 
 
-               <p><hi rend="u"> Under tiden 21 juli - 18 sept pågingo transporter av finska barn över <name type="place">Umeå</name></hi>
+               <p><hi rend="u"> Under tiden 21 juli-18 sept pågingo transporter av finska barn över <name type="place">Umeå</name></hi>
              </p>
             <p>
                Barnen kommo med båt till 
