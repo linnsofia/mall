@@ -471,7 +471,7 @@ porter gångo över <name type="place" ref="#umea">Umeå</name> .
                <name type="person" ref="#L1"> Hanna Lundbladh</name>, 
               <unclear reason="illegible"> Maria? Hilma</unclear> Berg, 
                <name type="person" ref="#T1"> Greta Thhlin</name> , 
-               <name type=“person” ref=“#V4”> Ulla Wästfelt</name>   </p>
+               <name type="person" ref="#V4"> Ulla Wästfelt</name>   </p>
                
                   <p>
                      Tjänstgöringstid: 1244 tim
@@ -683,7 +683,7 @@ Smörgåsberedning:
              Edit Åhgren, 
              Anna- Greta Johansson, 
              Anna Forsgren 
-             Tågchef: <name type=“person” ref=“#V3”> Elsa Welander</name>  v.chef: 
+             Tågchef: <name type= "person" ref="#V3">Elsa Welander</name>  v.chef: 
              Ingrid Lundström 
              Smörgåsberedning: Elsa Edstedt, 
              Anna- Lisa Dahl, 
@@ -742,7 +742,7 @@ Smörgåsberedning:
             <name type="person" ref="#F2"> Aina Forsgren </name>, 
             Anna- Greta Johansson, 
             Gudrun Backman, 
-<<<<<<< HEAD
+            
             Göta Backman.
             <hi>Tjänstgöringstid: 410 tim.</hi> 
             <lb/>
@@ -775,7 +775,6 @@ Smörgåsberedning:
          </p>
       </div>
       </div>
->>>>>>> 66d022dd09e4bdfbb1f92811fe98ef814fbd8767
 
       <div type="rapport" n="2">
          <div type="page" n="6">
