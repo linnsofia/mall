@@ -754,8 +754,8 @@ porter gångo över <name type="place" ref="#umea">Umeå</name> .
             <name type="person" ref="#S1">Jenny Sundström</name>, 
             <name type="person" ref="#M1">Sig- rid Malmlund</name>, 
             <name type="person" ref="#J2">Gunnel Jörlén Jonsson</name>, 
-            <name type="person" ref="#G1">Teres Westin Gustafsson</name>
-      och Margit Carleborg samt 3 unglottor. 
+            <name type="person" ref="#G1">Teres Westin Gustafsson</name> och 
+            Margit Carleborg samt 3 unglottor. 
 Tågchef: <name type="person" ref="#N2"> Elisabet Nilson</name> 
 v. chef: <name type="person" ref="#K1"> Greta Krikortz </name>, 
 <name type="person" ref="#S1"> Jenny Sundström</name>. 
@@ -770,13 +770,13 @@ Tåglottor: <name type="person" ref="#H2">Barbro Hedlund</name>
 </p>
 <p>
                   
-Agda Holmgren, 
+<name type="person" ref="#H4">Agda Holmgren</name>, 
 <name type="person" ref="#V5"> Elsa Widerlund</name> .
 <name type="person" ref="#G2">Irene Gustafsson</name>, 
-Linnea Haldin, 
+<name type="person" ref="#H5">Linnea Haldin</name>, 
 <name type="person" ref="B2">Hilma Berg</name>, 
-Agda Malmgren, 
-Karin Fhalén
+<name type="person" ref="M2">Agda Malmgren</name>, 
+<name type="person" ref="M2">Karin Fhalén</name>
 Köket: 
 <name type="person" ref="#B1"> Ester Berg</name>, 
 <name type="person" ref="#L1"> Hanna Lundbladh</name>,
@@ -787,13 +787,35 @@ Smörgåsberedning:
             Märta Forsberg, 
             <name type="person" ref="#K1"> Greta Krikortz </name> 
             och <name type="person" ref="#F2"> Aina Forsgren </name>. 
-            Tjänstgöringstid: 1914 tim. </p>
+            <hi rend="u">Tjänstgöringstid: 1914 tim.</hi> 
+         
+            Fjärde resan:
+            Utspisningslottor: Ester Berg, 
+            Margit Carleborg, 
+            Göta Beckman, 
+            Britta Wretling, 
+            Kerstin Lundblad, 
+            Maud Olsson, 
+            Thyra Lindvall, 
+            Gurli Forsberg
+            Margit Rabelius. 
+Tåglottor, köket: 
+Sigrid Jonsson, 
+Gunvor Stenberg, 
+Kerstin Stenberg, 
+Siv Strandberg, 
+Edit Åhgren. 
+Thyra Nilsson. 
+Smörgåsberedning: Göta Beckman
+         
+         </p>
 
             
         </div>
 
          <div type="page" n="3" facs="#sida_087_5-6e_resan.jpg">
-            <p> <name type="person" ref="#F2"> Aina Forsgren </name>, 
+            <p> 
+             <name type="person" ref="#F2"> Aina Forsgren </name>, 
             Thyra Lindvall, 
             Vera Stjernvall, 
             Rut Ringqvist 
