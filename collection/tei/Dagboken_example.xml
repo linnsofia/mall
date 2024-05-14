@@ -267,6 +267,25 @@
          <birth notAfter="1939"></birth>
          <sex>Kvinna</sex>
        </person>
+
+       <person xml:id="H2">
+         <persName>
+            <forename>Barbro</forename><surname>Hedlund</surname> 
+         </persName>
+         <affiliation>Umeå lottakår</affiliation>
+         <note>Uppgifter inom kåren som kunnat fastställas: tåglotta</note>
+         <birth notAfter="1939"></birth>
+         <sex>Kvinna</sex>
+      </person>
+      <person xml:id="H3">
+         <persName>
+            <forename>Marta</forename><surname>Hedlund</surname> 
+         </persName>
+         <affiliation>Umeå lottakår</affiliation>
+         <note>Uppgifter inom kåren som kunnat fastställas: tåglotta</note>
+         <birth notAfter="1939"></birth>
+         <sex>Kvinna</sex>
+      </person>
        <person xml:id="J1">
          <persName>
             <forename>Sigrid</forename><surname>Jonsson</surname> 
@@ -456,11 +475,9 @@
             <sex>Kvinna</sex>
          </person>
          
-        
        
        
       </listPerson>
-      
      
 
    <listPlace>
@@ -645,7 +662,9 @@ porter gångo över <name type="place" ref="#umea">Umeå</name> .
                <name type="person" ref="#V1">Karin Wäst- felt</name>, 
                <name type="person" ref="#B1">Ester Berg</name>, 
                <name type="person" ref="#L1">Hanna Lundbladh</name>
-              <unclear reason="illegible">Hilma </unclear>Berg,
+              <name type="person" ref="#B2"> <unclear reason="illegible"> 
+               <choice><supplied cert="medium" resp="Clara Berndes">Hilma</supplied> <supplied>Maria</supplied></choice> 
+            </unclear>Berg </name>,
                <name type="person" ref="#T1">Greta Thulin</name>, 
                <name type="person" ref="#V4">Ulla Wästfelt</name>, 
  
@@ -659,7 +678,7 @@ porter gångo över <name type="place" ref="#umea">Umeå</name> .
               <div type="page" n="2" facs="#sida_086_2-3-4e_resan">
                <p><hi>Andra resan:</hi> Utspisningslottor: <name type="person" ref="#V5">Elsa Widerlund</name>, 
            <name type="person" ref="#F1">Gurli Forsberg</name>, 
-           <name type="person" ref="#B2">Märta Beckman</name>, 
+           <name type="person" ref="#B3">Märta Beckman</name>, 
            <name type="person" ref="#L2">Thyra Lindwall</name>, 
        <name type="person" ref="#H1"> Lilian Hellberg</name> och 4 st. unglottor.
        Tåglottor, köket: 
@@ -682,8 +701,8 @@ porter gångo över <name type="place" ref="#umea">Umeå</name> .
 Tågchef: <name type="person" ref="#N2"> Elisabet Nilson</name> 
 v. chef: <name type="person" ref="#K1"> Greta Krikortz </name>, 
 <name type="person" ref="#S1"> Jenny Sundström</name>. 
-Tåglottor: Barbro Hedlund
-Marta Hedlund, 
+Tåglottor: <name type="person" ref="H2">Barbro Hedlund</name>
+<name type="person" ref="H3">Marta Hedlund</name>, 
 Barbro Boström
 Karin Ekesthål, 
 Magda Eriksson
@@ -750,7 +769,7 @@ Smörgåsberedning:
             <name type="person" ref="#V4">Ulla Wästfelt</name>, 
             Gunnel Jörlen, 
             Lilly Bäckman, 
-            Elsa Edstedt 
+            <name type="person" ref="#E2">Elsa Edstedt</name> 
             Köket: 
             <name type="person" ref="#B1"> Ester Berg</name>, 
             Dagmar Stocksén, 
@@ -836,7 +855,7 @@ Smörgåsberedning:
              Gudrun Backman, 
              Gunnel Jörlen, 
              <name type="person" ref="#S1"> Jenny Sundström</name>, 
-             <name type="person" ref="#F1">Carli Forsberg</name>, 
+             <name type="person" ref="#F1">Gurli Forsberg</name>, 
              Alma Bylund, 
              <name type="person" ref="#E4"> Ida Eriksson </name> , 
              <name type="person" ref="#J1"> Sigrid Jonsson</name>, 
@@ -845,7 +864,8 @@ Smörgåsberedning:
              Anna Forsgren 
              Tågchef: <name type= "person" ref="#V3">Elsa Welander</name>  v.chef: 
              Ingrid Lundström 
-             Smörgåsberedning: Elsa Edstedt, 
+             Smörgåsberedning: 
+             <name type="person" ref="#E2">Elsa Edstedt</name>, 
              Anna- Lisa Dahl, 
              Ann- Mari Hedman, 
              Dagmar Mark, 
@@ -855,10 +875,10 @@ Smörgåsberedning:
              
              <p>Nionde resan: 
              Utspisningslottor: <name type="person" ref="#J1"> Sigrid Jonsson</name>, 
-             Marta Hedlund, 
+             <name type="person" ref="H3">Marta Hedlund</name>, 
              <name type="person" ref="#H1"> Lilian Hellberg</name>, 
              Ingrid Lindfors, 
-             Göta Backman, 
+             <name type="person" ref="#B4">Göta Beckman</name> , 
              <name type="person" ref="#S1"> Jenny Sundström</name>, 
              Ida Andersson, 
              <name type="person" ref="#F2"> Aina Forsgren </name>, 
@@ -866,8 +886,8 @@ Smörgåsberedning:
             </div>
 
             <div type="page" n="5" facs="#sida_089_10e_resan"> 
-             <p>Forsberg, 
-             <name type="person" ref="#F1">Carli Forsberg</name>, 
+             <p>
+             <name type="person" ref="#F1">Gurli Forsberg</name>, 
              Vivi Engqvist, 
              Alma Bylund, 
              Teres Westin, 
@@ -892,25 +912,31 @@ Smörgåsberedning:
             <name type="person" ref="#V1">Karin Wästfelt</name>, 
             <name type="person" ref="#S1"> Jenny Sundström</name>, 
             <name type="person" ref="#H1"> Lilian Hellberg</name>, 
-            Marta Hedlund, 
+            <name type="person" ref="H3">Marta Hedlund</name>, 
             <name type="person" ref="#V4">Ulla Wästfelt</name>, 
             Edit Åhgren, 
             Alma Bylund Ester Berg Margit
             Carleborg, Jenny Sundström, Gusti
-            Pettersson, Rut Hellgren, Thyra 
-            Lindvall, Gurli Forsberg, Vilma
-            Persson, Märta Sundqvist, Inga
-            Birath
+            Pettersson, Rut Hellgren, 
+            Thyra 
+            Lindvall, 
+            <name type="person" ref="#F1">Gurli Forsberg</name>,
+            Vilma Persson, 
+            Märta Sundqvist, 
+            Inga Birath
             Tågchef: Greta Krikortz
-            Tåglottor: Gerd Lundgren, Sigrid
-            Malmlund.
+            Tåglottor: 
+            Gerd Lundgren, 
+            Sigrid Malmlund.
             Köket: Ester Berg, Hilma Berg
             Britta Eriksson, Astrid Lundgren
-            Smörgåsberedning: Gurli Forsberg
+            Smörgåsberedning: 
+            <name type="person" ref="#F1">Gurli Forsberg</name>
             Jenny Sundström, Aina Forsgren,
             Thyra Lindvall, Gusti Pettersson
             Greta Krikortz. 
-            Tjänstgöringstid: 816 tim. 
+            Tjänstgöringstid: 816 tim.
+
             (två
             tomma rader) 
             Nästa uppslag/nästa sid/ny fil 88:
