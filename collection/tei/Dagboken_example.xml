@@ -72,17 +72,18 @@
         <samplingDecl><p>
          Urvalet har gjorts utifrån önskemål från Folkrörelseakrivet i Västerbotten samt de delar av fältdagboken
 		som berör mottagandet av finska flyktingbarn under hösten 1944, 
-         och består av tio bilder som representerar ett uppslag vardera. Varje uppslag utgör två handskrivna sidor.
+         och består av tio bilder som representerar ett uppslag vardera. Varje uppslag utgör två handskrivna sidor i dagboken.
    </p></samplingDecl>
    <editorialDecl>
       <normalization><p>
-         Den ursprungliga stavningen i texten har bevarats.
+         Transkriberingen har gjorts med dagboken som källunderlag. Eventuella stav- eller slarvfel har inte korrigerats.
+	      Dessa är markerade med "sic".
       </p></normalization>
-      <segmentation> <p> Sektioner av texten anges genom <gi>div</gi> med <gi>type</gi>attribut "rapport". 
-         Olika uppslag anges genom <gi>div </gi> med <gi>type</gi> attribut "page".
+      <segmentation> <p> Sektioner av texten anges genom <gi>div</gi> med <gi>type</gi> attributet "rapport". 
+         Olika uppslag anges genom <gi>div </gi> med <gi>type</gi> attributet "page".
         
-         Paragrafer som i bildfilerna markeras med ett mellanrum mellantextstycken har angets med <gi>p</gi>.
-         Radbrytningar markeras med <gi>lb</gi>
+         I bildfilerna avgränsas stycken med tom rad, detta anges här med <gi>p</gi>.
+         Radbrytningar markeras med <gi>lb</gi>.
       </p></segmentation>
    </editorialDecl>
    <tagsDecl>
@@ -106,7 +107,7 @@
      </schemaSpec>
      </encodingDesc>
      <profileDesc>
-        <abstract><p>Redogörelse över Umeå Lottakårs arbete åren 1939 - 1945, 
+        <abstract><p>Redogörelse för Umeå Lottakårs arbete åren 1939-1945, 
          där flyktingmottagandet under andra världskriget utgör en del.</p>
         </abstract>
         <langUsage>
