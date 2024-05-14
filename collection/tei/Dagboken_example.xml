@@ -166,6 +166,14 @@
       </person>
       <person xml:id="B4">
          <persName>
+            <forename>Göta</forename><surname>Beckman</surname> 
+         </persName>
+         <affiliation>Umeå lottakår</affiliation>
+         <note>Uppgifter inom kåren som kunnat fastställas: utspisningslotta, smörgåsberedning</note>
+         <birth notAfter="1939"></birth>
+      </person>
+      <person xml:id="B5">
+         <persName>
             <forename>Barbro</forename><surname>Boström</surname> 
          </persName>
          <affiliation>Umeå lottakår</affiliation>
@@ -173,6 +181,9 @@
          <birth notAfter="1939"></birth>
          <sex>Kvinna</sex>
       </person>
+
+     
+
 
       <person xml:id="C1">
          <persName>
@@ -601,18 +612,9 @@
 
         
          
-         <person xml:id="F2">
-            <persName>
-               <forename>Karin</forename><surname>Fhalén</surname> 
-            </persName>
-            <affiliation>Umeå lottakår</affiliation>
-            <note>Uppgifter inom kåren som kunnat fastställas: tåglotta</note>
-            <birth notAfter="1939"></birth>
-            <sex>Kvinna</sex>
-         </person>
-
         
-
+        
+       
 
       
 
@@ -849,7 +851,7 @@ v. chef: <name type="person" ref="#K1"> Greta Krikortz </name>,
 <name type="person" ref="#S1"> Jenny Sundström</name>. 
 Tåglottor: <name type="person" ref="#H2">Barbro Hedlund</name>
 <name type="person" ref="#H3">Marta Hedlund</name>, 
-<name type="person" ref="#B4">Barbro Boström</name>
+<name type="person" ref="#B5">Barbro Boström</name>
 <name type="person" ref="#E5">Karin Ekesthål</name>, 
 <name type="person" ref="#E6">Magda Eriksson</name>
 <name type="person" ref="#L3">Edit Lundberg</name>, 
@@ -880,7 +882,7 @@ Smörgåsberedning:
             Fjärde resan:
             Utspisningslottor: Ester Berg, 
             <name type="person" ref="#C1">Margit Carleborg</name>, 
-            Göta Beckman, 
+            <name type="person" ref="#B4">Göta Beckman</name>, 
             Britta Wretling, 
             Kerstin Lundblad, 
             Maud Olsson, 
@@ -913,7 +915,7 @@ Smörgåsberedning: <name type="person" ref="#B4">Göta Beckman</name>
             Utspisningslottor: 
             <name type="person" ref="#B1"> Ester Berg</name>, 
             <name type="person" ref="#C1">Margit Carleborg</name>, 
-            Göta Backman, 
+            <name type="person" ref="#B4">Göta Beckman</name>, 
             Kerstin Lanlund, 
             Thyra Lindvall, 
             <name type="person" ref="#M1"> Sigrid Malmlund </name>, 
@@ -945,7 +947,7 @@ Smörgåsberedning: <name type="person" ref="#B4">Göta Beckman</name>
             Smörgåsberedning: <name type="person" ref="#F2"> Aina Forsgren </name>, 
             Vera Stjernvall, 
             <name type="person" ref="#M1"> Sigrid Malmlund </name>, 
-            Göta Backman. 
+            <name type="person" ref="#B4">Göta Beckman</name>. 
             Tjänstgöringstid:1618 tim </p>
             
            <p>Sjätte resan: 
@@ -982,7 +984,8 @@ Smörgåsberedning: <name type="person" ref="#B4">Göta Beckman</name>
          <div type="page" n="4" facs="#sida_088_7-8-9e_resan">
             
 
-            <p>Sjunde resan. <lb/> <hi>Utspisningslottor:</hi> Göta Backman, 
+            <p>Sjunde resan. <lb/> <hi>Utspisningslottor:</hi> 
+               <name type="person" ref="#B4">Göta Beckman</name>, 
             Thyra Lindvall, 
             <name type="person" ref="#S1"> Jenny Sundström</name>, 
             Gusti Pettersson, 
@@ -1011,7 +1014,7 @@ Smörgåsberedning: <name type="person" ref="#B4">Göta Beckman</name>
             <name type="person" ref="#F2"> Aina Forsgren </name>, 
             <name type="person" ref="#V2"> Elisabet Widén Nilsson</name>, 
             Gudrun Backman, 
-            Göta Backman 
+            <name type="person" ref="#B4">Göta Beckman</name> 
             Tjänstgöringstid: 1264 tim. </p>
             
             <p>Åttonde resan: 
@@ -1019,7 +1022,7 @@ Smörgåsberedning: <name type="person" ref="#B4">Göta Beckman</name>
             Amy Sandström, 
             <name type="person" ref="#V1">Karin Wästfelt</name>, 
             <name type="person" ref="#F5">Märta Forsberg</name>,
-            Göta Backman, 
+            <name type="person" ref="#B4">Göta Beckman</name>, 
              Gudrun Backman, 
              Gunnel Jörlen, 
              <name type="person" ref="#S1"> Jenny Sundström</name>, 
@@ -1075,7 +1078,7 @@ Smörgåsberedning: <name type="person" ref="#B4">Göta Beckman</name>
             
             <p><hi>Tionde resan:</hi> 
             <hi>Utspisningslottor:</hi> <name type="person" ref="#J1"> Sigrid Jonsson</name>, 
-            Göta Backman, 
+            <name type="person" ref="#B4">Göta Beckman</name>, 
             Gudrun Backman, 
             <name type="person" ref="#V1">Karin Wästfelt</name>, 
             <name type="person" ref="#S1"> Jenny Sundström</name>, 
