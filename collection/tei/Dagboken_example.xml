@@ -519,21 +519,21 @@ porter gångo över <name type="place" ref="#umea">Umeå</name> .
        Kerstin Stenberg, 
        <name type="person" ref="#N1"> Thyra Nilsson</name>, 
        Ida Eriksson. 
-=======
-               <p><hi>Andra resan:</hi> Utspisningslottor: <name type="person" ref="#V5">Elsa Widerlund</name> , 
+
+               <p> <hi>Andra resan:</hi> Utspisningslottor: <name type="person" ref="#V5">Elsa Widerlund</name> , 
            <name type="person" ref="#F1">Gurli Forsberg</name> , 
        <name type="person" ref="#B2">Märta Beckman</name> , 
-<<<<<<< HEAD
+
        <name type="person" ref= "#L2">Thyra Lindvall</name> , 
-=======
+
        <name type="person" ref="#L2">Thyra Lindwall</name> , 
->>>>>>> 562095b5bb649acba19b4f8bd8c1b68551ef22ed
+
        <name type="person" ref="#H1">Lilian Hellberg</name> och 4 st. unglottor.
        Tåglottor, köket: <name type="person" ref="#J2">Sigrid Jansson</name> , 
        <name type="person" ref="#S5">Kerstin Stenberg</name> , 
        <name type="person" ref="#N1">Thyra Nilsson</name>, 
        <name type="person" ref="#E4">Ida Eriksson</name> . 
-<<<<<<< HEAD
+
 >>>>>>> b2743f4b671f258ea138483d478f2b431c894134
 =======
 >>>>>>> 562095b5bb649acba19b4f8bd8c1b68551ef22ed
@@ -912,23 +912,19 @@ Smörgåsberedning:
             <name type="person" ref="#F2"> Aina Forsgren </name>, 
             Anna- Greta Johansson, 
             Gudrun Backman, 
-            
             Göta Backman.
             <hi>Tjänstgöringstid: 410 tim.</hi> 
             <lb/>
             <lb/>
-               
                <!-- (två tomma rader) ovan --> 
-               
             Under tiden <lb/>
             15 juli - 10 okt. tjänst-
             gjorde Ester Berg som husmor vid 
             finska barnkarantänförläggningen
             i Vännäs. 
             Tjänstgöringstid: 2064 tim. 
-            
-            
-            (två tomma rader) 
+            <lb/>
+            <lb/>
             Under tiden 12 juli - 13 juli tjänstgjorde
             följande lottor som karantäns-
             lottor vid I20: Ragnhild Lundgren 
@@ -938,10 +934,6 @@ Smörgåsberedning:
             Jonsson, Ester Berg, Siv Strandberg 
             
             Tjänstgöringstid: 144 tim.
-            
-
-            Göta Backman. 
-            Tjänstgöringstid: 410 tim. 
          </p>
       </div>
       </div>
