@@ -138,7 +138,7 @@
       </person>
       <person xml:id="C1">
          <persName>
-            <forename>Margit</forename><surname>Cederberg</surname> 
+            <forename>Margit</forename><surname>Carleborg</surname> 
          </persName>
          <affiliation>Umeå lottakår</affiliation>
          <note>Uppgifter inom kåren som kunnat fastställas: utspisninglotta</note>
@@ -156,7 +156,7 @@
       </person>
       <person xml:id="E2">
          <persName>
-            <forename>Elsa</forename><surname>Edefeldt</surname> 
+            <forename>Elsa</forename><surname>Edstedt</surname> 
          </persName>
          <affiliation>Umeå lottakår</affiliation>
          <note>Uppgifter inom kåren som kunnat fastställas: utspisninglotta</note>
@@ -165,7 +165,7 @@
       </person>
       <person xml:id="E3">
          <persName>
-            <forename>Märta</forename><surname>Edefeldt</surname> 
+            <forename>Märta</forename><surname>Edstedt</surname> 
          </persName>
          <affiliation>Umeå lottakår</affiliation>
          <note>Uppgifter inom kåren som kunnat fastställas: utspisninglotta</note>
@@ -295,6 +295,8 @@
          <birth notAfter="1939"></birth>
          <sex>Kvinna</sex>
       </person>
+      
+      
                </listPerson>
 
    <listPlace>
@@ -426,7 +428,6 @@ terades på militära sjuktåg.
 Utspisningen under transporter
 
                
-
 na sköttes av lottorna. Med tåget
 följde en köksvagn där maten la-
 gades. Sedan bars den ut i de
@@ -444,7 +445,7 @@ porter gångo över <name type="place" ref="#umea">Umeå</name> .
                <name type="person" ref="#V1">Karin Wästfelt</name>,
                <name type="person" ref="#H1"> Lilian Hellberg</name>,
                <name type="person" ref="#N1"> Thyra Nilsson</name> ,
-               <name type="person" ref="#S1"> Jenny Sandström</name>, 
+               <name type="person" ref="#S1"> Jenny Sundström</name>, 
                <name type="person" ref="#N2"> Elisabet Nilson</name>, 
                <name type="person" ref="#J1"> Sigrid Jonsson</name>,
                <name type="person" ref="#S2"> Lisa Sundqvist</name>, 
@@ -455,9 +456,9 @@ porter gångo över <name type="place" ref="#umea">Umeå</name> .
                <name type="person" ref="#F2"> Aina Forsgren </name>, 
                <name type="person" ref="#B1"> Ester Berg</name> , 
                <name type="person" ref="#L1"> Hanna Lundbladh</name>, 
-               <name type="person" ref="#C1"> Margit Cederberg</name>, 
-               <name type="person" ref="#E2">Elsa Edefeldt</name>  
-               och <name type="person" ref="#E3">Märta Edefeldt</name>.  
+               <name type="person" ref="#C1"> Margit Carleborg</name>, 
+               <name type="person" ref="#E2">Elsa Edstedt</name>  
+               och <name type="person" ref="#E3">Märta Edsteldt</name>.  
               Tågchef: 
               <name type="person" ref="#N2"> Elisabet Nilson</name>
 
@@ -469,8 +470,8 @@ porter gångo över <name type="place" ref="#umea">Umeå</name> .
                <name type="person" ref="#V1"> Karin Wäst- felt</name>, 
                <name type="person" ref="#B1"> Ester Berg</name>, 
                <name type="person" ref="#L1"> Hanna Lundbladh</name>, 
-              <unclear reason="illegible"> Maria? Hilma</unclear> Berg, 
-               <name type="person" ref="#T1"> Greta Thhlin</name> , 
+              <unclear reason="illegible">Hilma</unclear> Berg, 
+               <name type="person" ref="#T1"> Greta Thålin</name> , 
                <name type="person" ref="#V4"> Ulla Wästfelt</name>   </p>
                
                   <p>
@@ -484,7 +485,7 @@ porter gångo över <name type="place" ref="#umea">Umeå</name> .
                <p><hi>Andra resan:</hi> Utspisningslottor: Elsa Widerlund, 
            <name type="person" ref="#F1">Gurli Forsberg</name>, 
        Märta Beckman, 
-       Thyra Lindwall, 
+       Thyra Lindvall, 
        <name type="person" ref="#H1"> Lilian Hellberg</name> och 4 st. unglottor.
        Tåglottor, köket: Sigrid Jansson, 
        Kerstin Stenberg, 
@@ -510,7 +511,7 @@ Tågchef: Elisabet Nilson
 v. chef: <name type="person" ref="#K1"> Greta Krikortz </name>, 
 <name type="person" ref="#S3"> Jenny Sundström</name>. 
 Tåglottor: Barbro Hedlund
-Märta Hedlund, 
+Marta Hedlund, 
 Barbro Boström
 Karin Ekesthål, 
 Magda Eriksson
@@ -549,7 +550,7 @@ Smörgåsberedning:
             Maud Olsson, 
             Thyra Lindvall,
             <name type="person" ref="#F1">Gurli Forsberg</name>, 
-            Margit Rabelius. 
+            Margit Rotelius. 
             Tåglottor, köket: <name type="person" ref="#J1"> Sigrid Jonsson</name>, 
             Gunvor Stenberg, 
             Kerstin Stenberg, 
@@ -626,7 +627,7 @@ Smörgåsberedning:
             Smörgåsberedning: <name type="person" ref="#F1">Gurli Forsberg</name>, 
             <name type="person" ref="#S3"> Jenny Sundström</name>, 
             <name type="person" ref="#F2"> Aina Forsgren </name>, 
-            Thyra Lindwall, 
+            Thyra Lindvall, 
             Gusti Pettersson, 
             <name type="person" ref="#K1"> Greta Krikortz </name> 
             Tjänstgöringstid: 816 tim 
@@ -735,7 +736,117 @@ Smörgåsberedning:
             Marta Hedlund, 
             Ulla Wästfelt, 
             Edit Åhgren, 
-            Alma Bylund 
+            Alma Bylund Ester Berg Margit
+            Carleborg, Jenny Sundström, Gusti
+            Pettersson, Rut Hellgren, Thyra 
+            Lindvall, Gurli Forsberg, Vilma
+            Persson, Märta Sundqvist, Inga
+            Birath
+            Tågchef: Greta Krikortz
+            Tåglottor: Gerd Lundgren, Sigrid
+            Malmlund.
+            Köket: Ester Berg, Hilma Berg
+            Britta Eriksson, Astrid Lundgren
+            Smörgåsberedning: Gurli Forsberg
+            Jenny Sundström, Aina Forsgren,
+            Thyra Lindvall, Gusti Pettersson
+            Greta Krikortz. 
+            Tjänstgöringstid: 816 tim. 
+            (två
+            tomma rader) 
+            Nästa uppslag/nästa sid/ny fil 88:
+            Sjunde resan: 
+            Utspisningslottor: Göta Beckman
+            Thyra Lindvall, Jenny Sundström, 
+            Gusti Pettersson, Elsa Modig,
+            Amy Sandström, Elisabet Nilson, 
+            Gurli Forsberg, Vivvi Sundqvist, Ida 
+            Eriksson, Lilly Johansson. 
+            Tågchef: Elisabet Nilson
+            v. chef: Inga-Maj Gripenstam
+            Köket: Hanna Lindbladh, Dagmar
+            Stocksén, Hilma Berg, Elsi Fors-
+            gren. 
+            Tåglottor: Thyra Waller, Ragnhild
+            Säfström, Edit Åhgren, Eva Åker-
+            lund, Lulu Juhlin, Märtha Åhlund
+            Birgit Jansson. 
+            Smörgåsberedning: Thyra Lindvall
+            Aina Forsgren, Elisabet Nilson 
+            Gurli Forsberg, Gudrun Beckman, 
+            Göta Beckman
+            Tjänstgöringstid: 1264 tim.  
+            Nästa sida, samma uppslag: 
+            Åttonde resan: 
+            Utspisningslottor: Sigrid Jonsson, 
+            Amy Sundström, Karin Wästfelt,
+            Märta Forsberg, Göta Beckman
+            Gudrun Beckman, Gunnel Jörlen
+            Jenny Sundström, Gurli Forsberg
+            Alma Bylund, Ida Eriksson, Sigrid
+            Jonsson, Edit Åhgren, Anna-Greta 
+            Johansson, Anna Forsgren. 
+            Tågchef: Elsa Welander
+            v. chef: Ingrid Lundström.
+            Smörgåsberedning: Elsa Edefelt, Anna-
+            Lisa dahl, Ann-Mari Hedman, Dagmar
+            Mark, Margi Svedbäck, Gertrud Såg-
+            ström
+            Tjänstgöringstid: 312 tim. 
+            
+            Nionde resan:
+            Utspisningslottor: Sigrid Jonsson, 
+            Märta Hedlund, Lilian Hellberg, Ingrid
+            Lindfors, Göta Beckman, Gudrun
+            Beckman, Jenny Sundström, Ida
+            Andersson, Aina Forsgren, Märta 
+            nästa sida/samma blad:
+            Forsberg, Gurli Forsberg, Vivvi Engqvist,
+            Alma Bylund, Teres Westin, Lilly
+            Beckman, Edit Åhgren, Anna-Mari
+            Hedlund.
+            Tågchef: Elisabet Nilson
+            v. chef. Ingrid Lundström
+            Margareta Svensson
+            Tåglottor: Elsa Modig 
+            Smörgåsberedning: Märta Forsberg
+            Gurli Forsberg, Aina Forsgren, Jen-
+            ny Sundström, Rut Ringqvist
+            Tjänstgöringstid: 673 tim. 
+            
+            Tionde resan:
+            Utspisningslottor: Sigrid Jonsson
+            Göta Beckman, Gudrun Beckman
+            Karin Wästfelt, Jenny Sund-
+            ström, Lilian Hellberg, Marta
+            Helund, Ulla Wästfelt, Edit
+            Åhgren, Alma Bylund
+            Smörgåsberedning: Märta Almqvist,
+            Märta Sundqvist, Sigrid Jonsson
+            Aina Forsgren, Anna-Greta Johans
+            nästa sida/annat blad: 
+            son, Gudrun Beckman, Göta Beck
+            man. 
+            Tjänstgöringstid: 410 tim. 
+            (två tomma rader) 
+            
+            Under tiden 
+            15 juli - 10 okt. tjänst-
+            gjorde Ester Berg som husmor vid 
+            finska barnkarantänförläggningen
+            i Vännäs. 
+            Tjänstgöringstid: 2064 tim. 
+            
+            
+            (två tomma rader) 
+            Under tiden 12 juli - 13 juli tjänstgjorde
+            följande lottor som karantäns-
+            lottor vid I20: Ragnhild Lundgren 
+            Ingrid Westin, Lilly Lagerdahl
+            Hilma Berg, Sally Lundin, Elna 
+            Swahn, Tekla Bengtsson, Sigrid
+            Jonsson, Ester Berg, Siv Strandberg 
+           
             Smörgåsberedning: Märta Ahnqvist, 
             Märta Sundqvist, 
             <name type="person" ref="#J1"> Sigrid Jonsson</name>, 
@@ -769,7 +880,7 @@ Smörgåsberedning:
             
             Tjänstgöringstid: 144 tim.
             
-=======
+
             Göta Backman. 
             Tjänstgöringstid: 410 tim. 
          </p>
