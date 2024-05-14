@@ -657,22 +657,20 @@ porter gångo över <name type="place" ref="#umea">Umeå</name> .
                </div>
              
               <div type="page" n="2" facs="#sida_086_2-3-4e_resan">
+               <p><hi>Andra resan:</hi> Utspisningslottor: <name type="person" ref="#V5">Elsa Widerlund</name>, 
+           <name type="person" ref="#F1">Gurli Forsberg</name>, 
+           <name type="person" ref="#B2">Märta Beckman</name>, 
+           <name type="person" ref="#L2">Thyra Lindwall</name>, 
+       <name type="person" ref="#H1"> Lilian Hellberg</name> och 4 st. unglottor.
+       Tåglottor, köket: 
+       <name type="person" ref="#J2">Sigrid Jansson</name> , 
+       <name type="person" ref="#S5">Kerstin Stenberg</name>, 
+       <name type="person" ref="#N1"> Thyra Nilsson</name>, 
+       <name type="person" ref="#E4">Ida Eriksson</name>. 
 
-               <p><hi>Andra resan:</hi> Utspisningslottor: <name type="person" ref="#V5">Elsa Widerlund</name> , 
-           <name type="person" ref="#F1">Gurli Forsberg</name> , 
-       <name type="person" ref="#B2">Märta Beckman</name> , 
-       <name type="person" ref="#L2">Thyra Lindwall</name> , 
-
-       <name type="person" ref="#H1">Lilian Hellberg</name> och 4 st. unglottor.
-       Tåglottor, köket: <name type="person" ref="#J2">Sigrid Jansson</name> , 
-       <name type="person" ref="#S5">Kerstin Stenberg</name> , 
-       <name type="person" ref="#N1">Thyra Nilsson</name>, 
-       <name type="person" ref="#E4">Ida Eriksson</name> . 
-       Tjänstgöringstid: 478 tim. 
-          </p> 
+       Tjänstgöringstid: 478 tim. </p>
           
-
-
+          
 
            <p> Tredje resan. Utspisningslottor: <name type="person" ref="#F1">Gurli Forsberg</name>, 
             <name type="person" ref="#B4">Göta Beckman</name> , 
@@ -714,27 +712,8 @@ Smörgåsberedning:
             och <name type="person" ref="#F2"> Aina Forsgren </name>. 
             Tjänstgöringstid: 1914 tim. </p>
 
-
             
-           <p>Fjärde resan:
-            Utspisningslottor: 
-            <name type="person" ref="#B1"> Ester Berg</name>, 
-            Margit Carleborg, 
-            Göta Beckman, 
-            Britta Wretling, 
-            Kerstin Lundblad, 
-            Maud Olsson, 
-            Thyra Lindvall,
-            <name type="person" ref="#F1">Gurli Forsberg</name>, 
-            Margit Rotelius. 
-            Tåglottor, köket: <name type="person" ref="#J1"> Sigrid Jonsson</name>, 
-            Gunvor Stenberg, 
-            <name type="person" ref="#S5"> Kerstin Stenberg </name> , 
-            Siv Strandberg, 
-            Edit Åhgren. 
-            <name type="person" ref="#N1"> Thyra Nilsson</name>. 
-            Smörgåsberedning: Göta Backman, </p>
-         </div>
+        </div>
 
          <div type="page" n="3" facs="#sida_087_5-6e_resan.jpg">
             <p> <name type="person" ref="#F2"> Aina Forsgren </name>, 
@@ -1033,23 +1012,19 @@ Smörgåsberedning:
             <name type="person" ref="#F2"> Aina Forsgren </name>, 
             Anna- Greta Johansson, 
             Gudrun Backman, 
-            
             Göta Backman.
             <hi>Tjänstgöringstid: 410 tim.</hi> 
             <lb/>
             <lb/>
-               
                <!-- (två tomma rader) ovan --> 
-               
             Under tiden <lb/>
             15 juli - 10 okt. tjänst-
             gjorde Ester Berg som husmor vid 
             finska barnkarantänförläggningen
             i Vännäs. 
             Tjänstgöringstid: 2064 tim. 
-            
-            
-            (två tomma rader) 
+            <lb/>
+            <lb/>
             Under tiden 12 juli - 13 juli tjänstgjorde
             följande lottor som karantäns-
             lottor vid I20: Ragnhild Lundgren 
@@ -1059,10 +1034,6 @@ Smörgåsberedning:
             Jonsson, Ester Berg, Siv Strandberg 
             
             Tjänstgöringstid: 144 tim.
-            
-
-            Göta Backman. 
-            Tjänstgöringstid: 410 tim. 
          </p>
       </div>
       </div>
