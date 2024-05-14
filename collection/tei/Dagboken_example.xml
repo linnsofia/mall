@@ -523,13 +523,20 @@ porter gångo över <name type="place" ref="#umea">Umeå</name> .
                <p><hi>Andra resan:</hi> Utspisningslottor: <name type="person" ref="#V5">Elsa Widerlund</name> , 
            <name type="person" ref="#F1">Gurli Forsberg</name> , 
        <name type="person" ref="#B2">Märta Beckman</name> , 
+<<<<<<< HEAD
        <name type="person" ref= "#L2">Thyra Lindvall</name> , 
+=======
+       <name type="person" ref="#L2">Thyra Lindwall</name> , 
+>>>>>>> 562095b5bb649acba19b4f8bd8c1b68551ef22ed
        <name type="person" ref="#H1">Lilian Hellberg</name> och 4 st. unglottor.
        Tåglottor, köket: <name type="person" ref="#J2">Sigrid Jansson</name> , 
        <name type="person" ref="#S5">Kerstin Stenberg</name> , 
        <name type="person" ref="#N1">Thyra Nilsson</name>, 
        <name type="person" ref="#E4">Ida Eriksson</name> . 
+<<<<<<< HEAD
 >>>>>>> b2743f4b671f258ea138483d478f2b431c894134
+=======
+>>>>>>> 562095b5bb649acba19b4f8bd8c1b68551ef22ed
        Tjänstgöringstid: 478 tim. 
           </p> 
           
@@ -649,7 +656,11 @@ Smörgåsberedning:
             <name type="person" ref="#B1"> Ester Berg</name>, 
             Margit Carleborg, 
             <name type="person" ref="#S3"> Jenny Sundström</name>, 
+<<<<<<< HEAD
             <name type="person" ref= "#P1"> Gusti Pettersson </name> , 
+=======
+            <name type="person" ref="#P1"> Gusti Pettersson </name> , 
+>>>>>>> 562095b5bb649acba19b4f8bd8c1b68551ef22ed
             Rut Hellgren, 
             Thyra Lindvall, 
             <name type="person" ref="#F1">Gurli Forsberg</name>, 
@@ -667,11 +678,16 @@ Smörgåsberedning:
             Smörgåsberedning: <name type="person" ref="#F1">Gurli Forsberg</name>, 
             <name type="person" ref="#S3"> Jenny Sundström</name>, 
             <name type="person" ref="#F2"> Aina Forsgren </name>, 
+<<<<<<< HEAD
             Thyra Lindvall, 
             Gusti Pettersson, 
             <name type="person" ref="#L2"> Thyra Lindwall </name> , 
             <name type="person" ref="#P1"> Gusti Pettersson </name> , 
 
+=======
+            <name type="person" ref="#L2"> Thyra Lindwall </name> , 
+            <name type="person" ref="#P1"> Gusti Pettersson </name> , 
+>>>>>>> 562095b5bb649acba19b4f8bd8c1b68551ef22ed
             <name type="person" ref="#K1"> Greta Krikortz </name> 
             Tjänstgöringstid: 816 tim 
             (Ordet smörgåsberedning var inte understruket på den 6:e resan men på alla andra) </p> 
