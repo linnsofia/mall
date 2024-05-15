@@ -1154,9 +1154,8 @@
   <text>
 
    <front>
-      <div type="bokomslag"></div>
       
-      <div type="page" facs="#dagbok_cover_omslag">
+      <div type="omslag" facs="#dagbok_cover_omslag">
          <head>
             <hi rend="u">Tjänstgöringsdagbokens omslag</hi>
             </head>
@@ -1167,7 +1166,7 @@
     
       <body>
 
-         <div type="fältdagbok" facs="#dagbok_cover_omslag"> </div>
+   
         
          <div type="rapport" n="1">
          <div n="1" type="page" facs="#sida_85_1a_resan"> 
