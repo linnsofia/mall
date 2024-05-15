@@ -154,7 +154,6 @@
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
          </person>
-
          <person xml:id="A2">
             <persName>
                <forename>Ida</forename><surname>Andersson</surname> 
@@ -164,7 +163,6 @@
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
          </person>
-
          <person xml:id="A3">
             <persName>
                <forename>Märta</forename><surname>Almqvist</surname> 
@@ -174,7 +172,6 @@
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
          </person>
-      
       <person xml:id="B1">
          <persName>
             <forename>Ester</forename><surname>Berg</surname> 
@@ -219,8 +216,6 @@
          <birth notAfter="1939"></birth>
          <sex>Kvinna</sex>
       </person>
-
-     
       <person xml:id="B6">
          <persName>
             <forename>Lilly</forename><surname>Beckman</surname> 
@@ -240,8 +235,6 @@
          <birth notAfter="1939"></birth>
          <sex>Kvinna</sex>
       </person>
-
-      
       <person xml:id="B8">
          <persName>
             <forename>Gudrun</forename><surname>Beckman</surname> 
@@ -251,8 +244,6 @@
          <birth notAfter="1939"></birth>
          <sex>Kvinna</sex>
       </person>
-
-
       <person xml:id="B9">
          <persName>
             <forename>Alma</forename><surname>Bylund</surname> 
@@ -262,7 +253,6 @@
          <birth notAfter="1939"></birth>
          <sex>Kvinna</sex>
       </person>
-
       <person xml:id="B10">
          <persName>
             <forename>Tekla</forename><surname>Bengtsson</surname> 
@@ -272,8 +262,6 @@
          <birth notAfter="1939"></birth>
          <sex>Kvinna</sex>
       </person>
-
-
       <person xml:id="C1">
          <persName>
             <forename>Margit</forename><surname>Carleborg</surname> 
@@ -283,7 +271,6 @@
          <birth notAfter="1939"></birth>
          <sex>Kvinna</sex>
       </person>
-
       <person xml:id="D1">
          <persName>
             <forename>Anna-Lisa</forename><surname>Dahl</surname> 
@@ -293,9 +280,6 @@
          <birth notAfter="1939"></birth>
          <sex>Kvinna</sex>
       </person>
-
-   
-
       <person xml:id="E1">
          <persName>
             <forename>Kerstin</forename><surname>Engman</surname> 
@@ -362,10 +346,6 @@
          <birth notAfter="1939"></birth>
          <sex>Kvinna</sex>
       </person>
-
-     
-
-     
       <person xml:id="E8">
          <persName>
             <forename>Vivi</forename><surname>Engqvist</surname> 
@@ -375,10 +355,6 @@
          <birth notAfter="1939"></birth>
          <sex>Kvinna</sex>
       </person>
-
-     
-      
-            
       <person xml:id="F1">
         <persName>
 <forename>Gurli</forename><surname>Forsberg</surname>
@@ -418,8 +394,6 @@
          <sex>Kvinna</sex>
       </person>
 
- 
-
       <person xml:id="F5">
          <persName>
             <forename>Märta</forename><surname>Forsberg</surname> 
@@ -439,7 +413,6 @@
          <birth notAfter="1939"></birth>
          <sex>Kvinna</sex>
       </person>
-
 
       <person xml:id="G1">
          <persName>
@@ -479,7 +452,6 @@
          <birth notAfter="1939"></birth>
          <sex>Kvinna</sex>
       </person>
-
 
       <person xml:id="H1">
          <persName>
@@ -648,8 +620,6 @@
          <birth notAfter="1939"></birth>
          <sex>Kvinna</sex>
       </person>
-
-
       <person xml:id="L3">
          <persName>
             <forename>Edit</forename><surname>Lundberg</surname> 
@@ -659,7 +629,6 @@
          <birth notAfter="1939"></birth>
          <sex>Kvinna</sex>
       </person>
-
       <person xml:id="L4">
          <persName>
             <forename>Hildur</forename><surname>Lundmark</surname> 
@@ -669,7 +638,6 @@
          <birth notAfter="1939"></birth>
          <sex>Kvinna</sex>
       </person>
-
       <person xml:id="L6">
          <persName>
             <forename>Kerstin</forename><surname>Lanlund</surname> 
@@ -679,7 +647,6 @@
          <birth notAfter="1939"></birth>
          <sex>Kvinna</sex>
       </person>
-
       <person xml:id="L7">
          <persName>
             <forename>Kerstin</forename><surname>Lanlund</surname> 
@@ -689,7 +656,6 @@
          <birth notAfter="1939"></birth>
          <sex>Kvinna</sex>
       </person>
-
       <person xml:id="L8">
          <persName>
             <forename>Gerd</forename><surname>Lundgren</surname> 
@@ -699,7 +665,6 @@
          <birth notAfter="1939"></birth>
          <sex>Kvinna</sex>
       </person>
-
       <person xml:id="L9">
          <persName>
             <forename>Astrid</forename><surname>Lundgren</surname> 
@@ -709,7 +674,6 @@
          <birth notAfter="1939"></birth>
          <sex>Kvinna</sex>
       </person>
-
       <person xml:id="L10">
          <persName>
             <forename>Ingrid</forename><surname>Lundström</surname> 
@@ -719,8 +683,6 @@
          <birth notAfter="1939"></birth>
          <sex>Kvinna</sex>
       </person>
-
-
       <person xml:id="L11">
          <persName>
             <forename>Ingrid</forename><surname>Lindfors</surname> 
@@ -730,8 +692,6 @@
          <birth notAfter="1939"></birth>
          <sex>Kvinna</sex>
       </person>
-
-
       <person xml:id="L12">
          <persName>
             <forename>Ragnhild</forename><surname>Lundgren</surname> 
@@ -741,7 +701,6 @@
          <birth notAfter="1939"></birth>
          <sex>Kvinna</sex>
       </person>
-
       <person xml:id="L13">
          <persName>
             <forename>Lilly</forename><surname>Lagerdahl</surname> 
@@ -760,10 +719,6 @@
          <birth notAfter="1939"></birth>
          <sex>Kvinna</sex>
       </person>
-
-     
-
-
       <person xml:id="M1">
          <persName>
             <forename>Sigrid</forename><surname>Malmlund</surname> 
@@ -773,7 +728,6 @@
          <birth notAfter="1939"></birth>
          <sex>Kvinna</sex>
       </person>
-      
       <person xml:id="M2">
          <persName>
             <forename>Agda</forename><surname>Malmgren</surname> 
@@ -783,7 +737,6 @@
          <birth notAfter="1939"></birth>
          <sex>Kvinna</sex>
       </person>
-
       <person xml:id="M3">
          <persName>
             <forename>Elsa</forename><surname>Modig</surname> 
@@ -802,9 +755,7 @@
          <note>Uppgifter inom kåren som kunnat fastställas: smörgåsberedare</note>
          <birth notAfter="1939"></birth>
          <sex>Kvinna</sex>
-      </person>
-
-      
+      </person>    
       <person xml:id="N1">
          <persName>
             <forename>Thyra</forename><surname>Nilsson</surname> 
@@ -823,7 +774,6 @@
          <birth notAfter="1939"></birth>
          <sex>Kvinna</sex>
       </person>
-
       <person xml:id="O1">
          <persName>
             <forename>Maud</forename><surname>Olsson</surname> 
@@ -851,9 +801,6 @@
          <birth notAfter="1939"></birth>
          <sex>Kvinna</sex>
       </person>
-
-    
-   
       <person xml:id="R1">
          <persName>
             <forename>Margit</forename><surname>Rotelius</surname> 
@@ -863,7 +810,6 @@
          <birth notAfter="1939"></birth>
          <sex>Kvinna</sex>
       </person>
-    
       <person xml:id="R2">
          <persName>
             <forename>Rut</forename><surname>Ringqvist</surname> 
@@ -872,8 +818,7 @@
          <note>Uppgifter inom kåren som kunnat fastställas: smörgåsberedare</note>
          <birth notAfter="1939"></birth>
          <sex>Kvinna</sex>
-      </person>
-      
+      </person>  
       <person xml:id="S1">
          <persName>
             <forename>Jenny</forename><surname>Sundström</surname> 
@@ -902,9 +847,6 @@
          <birth notAfter="1939"></birth>
          <sex>Kvinna</sex>
       </person>
-
-      
-
       <person xml:id="S4">
          <persName>
             <forename>Kerstin</forename><surname>Stenberg</surname> 
@@ -914,7 +856,6 @@
          <birth notAfter="1939"></birth>
          <sex>Kvinna</sex>
       </person>
-
       <person xml:id="S5">
          <persName>
             <forename>Gunvor</forename><surname>Stenberg</surname> 
@@ -951,7 +892,6 @@
          <birth notAfter="1939"></birth>
          <sex>Kvinna</sex>
       </person>
-
       <person xml:id="S9">
          <persName>
             <forename>Linnéa</forename><surname>Svensson</surname> 
@@ -961,7 +901,6 @@
          <birth notAfter="1939"></birth>
          <sex>Kvinna</sex>
       </person>
-
       <person xml:id="S10">
          <persName>
             <forename>Ragnhild</forename><surname>Säfström</surname> 
@@ -971,7 +910,6 @@
          <birth notAfter="1939"></birth>
          <sex>Kvinna</sex>
       </person>
-
       <person xml:id="S11">
          <persName>
             <forename>Dagmar</forename><surname>Stocksén</surname> 
@@ -990,8 +928,6 @@
          <birth notAfter="1939"></birth>
          <sex>Kvinna</sex>
       </person>
-
-
       <person xml:id="S13">
          <persName>
             <forename>margit</forename><surname>Svedbäck</surname> 
@@ -1001,7 +937,6 @@
          <birth notAfter="1939"></birth>
          <sex>Kvinna</sex>
       </person>
-
       <person xml:id="S15">
          <persName>
             <forename>Margareta</forename><surname>Svensson</surname> 
@@ -1011,7 +946,6 @@
          <birth notAfter="1939"></birth>
          <sex>Kvinna</sex>
       </person>
-    
       <person xml:id="S16">
          <persName>
             <forename>Elna</forename><surname>Swahn</surname> 
@@ -1021,7 +955,6 @@
          <birth notAfter="1939"></birth>
          <sex>Kvinna</sex>
       </person>
-
       <person xml:id="T1">
          <persName>
             <forename>Greta</forename><surname>Thulin</surname> 
@@ -1031,7 +964,6 @@
          <birth notAfter="1939"></birth>
          <sex>Kvinna</sex>
       </person>
-
       <person xml:id="V1">
          <persName>
             <forename>Karin</forename><surname>Wästfelt</surname> 
