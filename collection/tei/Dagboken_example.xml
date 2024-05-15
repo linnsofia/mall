@@ -71,7 +71,7 @@
         </projectDesc>
         <samplingDecl><p>
          Urvalet har gjorts utifrån önskemål från Folkrörelseakrivet i Västerbotten samt de delar av fältdagboken
-		som berör mottagandet av finska flyktingbarn under hösten 1944, 
+		som berör mottagandet av finska flyktingbarn under hösten 1944 
          och består av tio bilder som representerar ett uppslag vardera. Varje uppslag utgör två handskrivna sidor i dagboken.
    </p></samplingDecl>
    <editorialDecl>
@@ -80,10 +80,9 @@
 	      Dessa är markerade med "sic".
       </p></normalization>
       <segmentation> <p> Sektioner av texten anges genom <gi>div</gi> med <gi>type</gi> attributet "rapport". 
-         Olika uppslag anges genom <gi>div </gi> med <gi>type</gi> attributet "page".
-        
+         Olika uppslag anges genom <gi>div</gi> med <gi>type</gi> attributet "page".
          I bildfilerna avgränsas stycken med tom rad, detta anges här med <gi>p</gi>.
-         Radbrytningar markeras med <gi>lb</gi>.
+         Radbrytningar markeras med <gi>lb</gi> och understrukningar av text med <gi>hi</gi>.
       </p></segmentation>
    </editorialDecl>
    <tagsDecl>
@@ -671,15 +670,7 @@
          </person>
 
         
-         <person xml:id="R1">
-            <persName>
-               <forename>Margit</forename><surname>Rotelius</surname> 
-            </persName>
-            <affiliation>Umeå lottakår</affiliation>
-            <note>Uppgifter inom kåren som kunnat fastställas: </note>
-            <birth notAfter="1939"></birth>
-            <sex>Kvinna</sex>
-         </person>
+
 
        
 
