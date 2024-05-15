@@ -1143,18 +1143,17 @@ En lista på person, plats och organisationsnamn förekommer i ett <gi>offisde</
             <figDesc>
                Dagbokens omslag, framsida.
             </figDesc>
-            <graphic url="https://github.com/linnsofia/mall/blob/main/docs/assets/img/documents/dagbok_cover_omslag.jpg"/>
-            <graphic url="https://github.com/linnsofia/mall/blob/main/collection/img/sida_001_omslag.tiff"></graphic>
+            <graphic url="assets/img/documents/dagbok_cover_omslag.jpg"/>
+            <graphic url="../collection/img/sida_001_omslag.tiff"></graphic>
          </figure>
       </surface>
       <surface xml:id="sida_85_1a_resan"> 
-
    <figure>
       <label>21 juli–18 sep. Första resan</label>
       <figDesc>Sidor ur dagboken som beskriver delar av lottornas arbete under hösten 1944, däribland första
 	      transporten ("resan") av finska flyktingbarn.</figDesc>
-      <graphic url="https://github.com/linnsofia/mall/blob/main/docs/assets/img/documents/sida_085_1a_resan.jpg"></graphic>
-      <graphic url="https://github.com/linnsofia/mall/blob/main/collection/img/sida_085.tiff"/>
+      <graphic url="assets/img/documents/sida_085_1a_resan.jpg"></graphic>
+      <graphic url="../collection/img/sida_085.tiff"/>
    </figure>
    </surface>
       <surface xml:id="sida_086_2-3-4e_resan">
@@ -1164,43 +1163,39 @@ En lista på person, plats och organisationsnamn förekommer i ett <gi>offisde</
                Sidor ur dagboken som beskriver andra till och med början på fjärde resan.
             </figDesc>
             <graphic url="assets/img/documents/sida_086_2-3-4e_resan.jpg"/>
-            <graphic url="https://github.com/linnsofia/mall/blob/main/collection/img/sida_086.tiff"></graphic>
+            <graphic url="../collection/img/sida_086.tiff"></graphic>
          </figure>
       </surface>
-      
       <surface xml:id="sida_087_5-6e_resan.jpg">
          <figure>
             <label>Femte och sjätte resan</label>
             <figDesc>
                Sidor ur dagboken som beskriver femte och sjätte resan.
             </figDesc>
-            <graphic url="https://github.com/linnsofia/mall/blob/main/docs/assets/img/documents/sida_087_5-6e_resan.jpg"/>
-            <graphic url="https://github.com/linnsofia/mall/blob/main/collection/img/sida_087.tiff"></graphic>
+            <graphic url="assets/img/documents/sida_087_5-6e_resan.jpg"/>
+            <graphic url="../collection/img/sida_087.tiff"></graphic>
          </figure>
       </surface>
-      
       <surface xml:id="sida_088_7-8-9e_resan">
          <figure>
             <label>Sjunde, åttonde och nionde resan</label>
             <figDesc>
                Sidor ur dagboken som beskriver sjunde, åttonde och nionde resan.
             </figDesc>
-            <graphic url="https://github.com/linnsofia/mall/blob/main/docs/assets/img/documents/sida_088_7-8-9e_resan.jpg"/>
-            <graphic url="https://github.com/linnsofia/mall/blob/main/collection/img/sida_088.tiff"></graphic>
+            <graphic url="assets/img/documents/sida_088_7-8-9e_resan.jpg"/>
+            <graphic url="../collection/img/sida_088.tiff"></graphic>
          </figure>
       </surface>
-      
       <surface xml:id="sida_089_10e_resan">
          <figure>
             <label>Tionde resan</label>
             <figDesc>
                Sidor ur dagboken som beskriver tionde resan.
             </figDesc>
-            <graphic url="https://github.com/linnsofia/mall/blob/main/docs/assets/img/documents/sida_089_10e_resan.jpg"/>
-            <graphic url="https://github.com/linnsofia/mall/blob/main/collection/img/sida_089.tiff"></graphic>
+            <graphic url="assets/img/documents/sida_089_10e_resan.jpg"/>
+            <graphic url="../collection/img/sida_089.tiff"></graphic>
          </figure>
       </surface>
-      
       </facsimile>
    
    
