@@ -9,11 +9,11 @@
             <title>Bildfångade sidor från Umeå Lottakårs tjänstgöringsdagbok Fälttjänst U.S.L.K Oktober 1939—</title>
             <funder>Umeå lottakår</funder>
             <respStmt>
-               <resp>Transkription, markupp och digital publicering utförd av</resp>
-               <persName>Sofia Larsson,</persName>
+               <resp>Transkribering, markup och digital publicering utförd av</resp>
+               <persName>Sofia Larsson</persName>
                <persName>Katherine Knox Beler</persName>
                <persName>Malin Färdig</persName>
-               <persName>Clara Berndes </persName> 
+               <persName>Clara Berndes</persName> 
             </respStmt>
          </titleStmt>
          <publicationStmt>
@@ -32,16 +32,20 @@
 <!-- Kommentar: Kan vi lägga till mer info här? Hur benämns dagboken av arkivet? Finns någon numrering etc? -->
                   <msName>Fälttjänst U.S.L.K Oktober 1939—</msName>
                   <objectName>Tjänstgöringsdagbok</objectName>
+
+                
                </msIdentifier>
                <physDesc>
                   <objectDesc>
+                    
                      <p>
                         <abbr>
                            U.S.L.K
-                        </abbr>Tjänstgöringsdagbok från Folkrörelsearkivet i Västerbotten. Mått: 17 x 20,5 cm och 1,2 cm tjock.</p>
+                        </abbr>Tjänstgöringsdagbok från Folkrörelsearkivet i Västerbotten. Mått: 17x20,5 cm och 1,2 cm tjock.</p>
 
                   </objectDesc>
 
+                  
                </physDesc>
 
                <msContents>
@@ -54,35 +58,48 @@
                   </p>
                </msContents>
 
-           
+         
             </msDesc>
          </sourceDesc>
    
       </fileDesc>
      <encodingDesc>
         <projectDesc>
-           <p>Bildfångst av material gjort i samband med en kurs i digitalisering inom Borås högskolas masterprogram: 
-            informations och bibliotekskunskap. Bilderna ska också användas till
-         ett projekt organiserat av hembygdsföreningen i Umeå, med mål att belysa och undervisa om 
-           flyktingmottagandet under andra världskriget</p>
-           <p>Dagboken was scanned at 300 dpi, 8-bit, and saved as TIFF to follow industry standards. 
+           <p>Bildfångst av material gjort inom ramen för en kurs i digitalisering på masterprogrammet i
+		   biblioteks- och informationsvetenskap vid Högskolan i Borås. Bilderna ska också användas till
+         ett projekt organiserat av hembygdsföreningen i Umeå, med mål att belysa och informera om 
+           flyktingmottagandet under andra världskriget.</p>
+           <p>Dagboken har skannats med upplösning på 300 dpi, 8-bit. Bilderna har sparats som TIFF-filer i enlighet med gängse standarder. 
 
            </p>
         </projectDesc>
         <samplingDecl><p>
-         Urval har gjorts utifrån vilka delar av fältdagboken som berör mottagandet av de finska flyktingbarnen under hösten 1944, 
-         och består av bilder på sex uppslag. Varje uppslag innehåller två handskrivna sidor vardera.
+         Urvalet har gjorts utifrån önskemål från Folkrörelseakrivet i Västerbotten samt de delar av fältdagboken
+		som berör mottagandet av finska flyktingbarn under hösten 1944 
+         och består av tio bilder som representerar ett uppslag vardera. Varje uppslag utgör två handskrivna sidor i dagboken.
    </p></samplingDecl>
    <editorialDecl>
+      <correction> <p> Stavfel i orginalmanuskriptet har vi markerat med <gi>sic</gi> 
+         och inkluderat i ett <gi>choice</gi>element tillsammans med transkriberarens rättning <gi>corr</gi>. 
+         Där transkriberaren lagt till ett ord som saknats i orginalmanuskripetet har <gi>choice</gi> använts tillsammans med <gi>supplement</gi>.
+         <gi>unclear</gi> har använts där orginaltexten av olika anledningar varit svår att uttyda. 
+         <gi>choice</gi> och <gi>supplement</gi> har i de fallen använts för att presentera ett eller flera tolkningsförslag.  
+      </p></correction>
       <normalization><p>
-         Den ursprungliga stavningen i texten har bevarats.
+         Transkriberingen har gjorts med dagboken som källunderlag. Eventuella stav- eller slarvfel har inte korrigerats.
+	      Dessa är markerade med "sic".
       </p></normalization>
-      <segmentation> <p> Sektioner av texten anges genom <gi>div</gi> med <gi>type</gi>attribut "rapport". 
-         Olika uppslag anges genom <gi>div </gi> med <gi>type</gi> attribut "page".
-        
-         Paragrafer som i bildfilerna markeras med ett mellanrum mellantextstycken har angets med <gi>p</gi>.
-         Radbrytningar markeras med <gi>lb</gi>
+      <segmentation> <p> Sektioner av texten anges genom <gi>div</gi> med <gi>type</gi> attributet "rapport". 
+         Olika uppslag anges genom <gi>div</gi> med <gi>type</gi> attributet "page".
+         I bildfilerna avgränsas stycken med tom rad, detta anges här med <gi>p</gi>.
+         Radbrytningar markeras med <gi>lb</gi> och understrukningar av text med <gi>hi</gi>.
       </p></segmentation>
+      <hyphenation> <p>
+         I orginalmanuskriptet förekommer både talstreck i samband med att ett ord bryts vid radbrytningar
+         och bindestreck mellan namn. Streck används också för att beteckna mängder. Vi har valt att behålla båda tecknen, och beteckna genom <gi>lb</gi> 
+         om talstrecket finns där på grund av radbrytning. 
+
+      </p></hyphenation>
    </editorialDecl>
    <tagsDecl>
       <namespace name="http://www.tei-c.org/ns/1.0"><tagUsage gi="hi" occurs="26" withId="26">
@@ -105,7 +122,7 @@
      </schemaSpec>
      </encodingDesc>
      <profileDesc>
-        <abstract><p>Redogörelse över Umeå Lottakårs arbete åren 1939 - 1945, 
+        <abstract><p>Redogörelse för Umeå Lottakårs arbete åren 1939-1945, 
          där flyktingmottagandet under andra världskriget utgör en del.</p>
         </abstract>
         <langUsage>
@@ -127,15 +144,119 @@
   <standOff>
    <listPerson>
 
+
+      <person xml:id="A1">
+            <persName>
+               <forename>Elsa</forename><surname>Andersson</surname> 
+            </persName>
+            <affiliation>Umeå lottakår</affiliation>
+            <note>Uppgifter inom kåren som kunnat fastställas: tåglotta</note>
+            <birth notAfter="1939"></birth>
+            <sex>Kvinna</sex>
+         </person>
+
+         <person xml:id="A2">
+            <persName>
+               <forename>Ida</forename><surname>Andersson</surname> 
+            </persName>
+            <affiliation>Umeå lottakår</affiliation>
+            <note>Uppgifter inom kåren som kunnat fastställas: tåglotta, utspisningslotta</note>
+            <birth notAfter="1939"></birth>
+            <sex>Kvinna</sex>
+         </person>
+
+       
+      
       <person xml:id="B1">
          <persName>
             <forename>Ester</forename><surname>Berg</surname> 
          </persName>
          <affiliation>Umeå lottakår</affiliation>
-         <note>Uppgifter inom kåren som kunnat fastställas: utspisningslotta, köksarbetare, tåglotta</note>
+         <note>Uppgifter inom kåren som kunnat fastställas: utspisningslotta, köksarbetare, tåglotta, husmor i barnkarantänförläggning i <placeName> Vännäs</placeName></note>
          <birth notAfter="1939"></birth>
          <sex>Kvinna</sex>
       </person>
+      <person xml:id="B2">
+         <persName>
+            <forename>Hilma</forename><surname>Berg</surname> 
+         </persName>
+         <affiliation>Umeå lottakår</affiliation>
+         <note>Uppgifter inom kåren som kunnat fastställas: utspisninglotta, tåglotta, köksarbetare </note>
+         <birth notAfter="1939"></birth>
+         <sex>Kvinna</sex>
+      </person>
+      <person xml:id="B3">
+         <persName>
+            <forename>Märta</forename><surname>Beckman</surname> 
+         </persName>
+         <affiliation>Umeå lottakår</affiliation>
+         <note>Uppgifter inom kåren som kunnat fastställas: utspisningslotta</note>
+         <birth notAfter="1939"></birth>
+         <sex>Kvinna</sex>
+      </person>
+      <person xml:id="B4">
+         <persName>
+            <forename>Göta</forename><surname>Beckman</surname> 
+         </persName>
+         <affiliation>Umeå lottakår</affiliation>
+         <note>Uppgifter inom kåren som kunnat fastställas: utspisningslotta, smörgåsberedning</note>
+         <birth notAfter="1939"></birth>
+      </person>
+      <person xml:id="B5">
+         <persName>
+            <forename>Barbro</forename><surname>Boström</surname> 
+         </persName>
+         <affiliation>Umeå lottakår</affiliation>
+         <note>Uppgifter inom kåren som kunnat fastställas: tåglotta</note>
+         <birth notAfter="1939"></birth>
+         <sex>Kvinna</sex>
+      </person>
+
+     
+      <person xml:id="B6">
+         <persName>
+            <forename>Lilly</forename><surname>Bäckman</surname> 
+         </persName>
+         <affiliation>Umeå lottakår</affiliation>
+         <note>Uppgifter inom kåren som kunnat fastställas: tåglotta</note>
+         <birth notAfter="1939"></birth>
+         <sex>Kvinna</sex>
+      </person>
+
+      <person xml:id="B7">
+         <persName>
+            <forename>Inga</forename><surname>Birath</surname> 
+         </persName>
+         <affiliation>Umeå lottakår</affiliation>
+         <note>Uppgifter inom kåren som kunnat fastställas: utspisningslotta</note>
+         <birth notAfter="1939"></birth>
+         <sex>Kvinna</sex>
+      </person>
+
+      
+      <person xml:id="B8">
+         <persName>
+            <forename>Gudrun</forename><surname>Beckman</surname> 
+         </persName>
+         <affiliation>Umeå lottakår</affiliation>
+         <note>Uppgifter inom kåren som kunnat fastställas: utspisningslotta, smörgåsberedare</note>
+         <birth notAfter="1939"></birth>
+         <sex>Kvinna</sex>
+      </person>
+
+
+      <person xml:id="B9">
+         <persName>
+            <forename>Alma</forename><surname>Bylund</surname> 
+         </persName>
+         <affiliation>Umeå lottakår</affiliation>
+         <note>Uppgifter inom kåren som kunnat fastställas: utspisningslotta</note>
+         <birth notAfter="1939"></birth>
+         <sex>Kvinna</sex>
+      </person>
+
+
+
       <person xml:id="C1">
          <persName>
             <forename>Margit</forename><surname>Carleborg</surname> 
@@ -172,6 +293,62 @@
          <birth notAfter="1939"></birth>
          <sex>Kvinna</sex>
       </person>
+      <person xml:id="E4">
+         <persName>
+            <forename>Ida</forename><surname>Eriksson</surname> 
+         </persName>
+         <affiliation>Umeå lottakår</affiliation>
+         <note>Uppgifter inom kåren som kunnat fastställas: </note>
+         <birth notAfter="1939"></birth>
+         <sex>Kvinna</sex>
+      </person>
+
+      <person xml:id="E5">
+         <persName>
+            <forename>Karin</forename><surname>Ekesthål</surname> 
+         </persName>
+         <affiliation>Umeå lottakår</affiliation>
+         <note>Uppgifter inom kåren som kunnat fastställas: tåglotta</note>
+         <birth notAfter="1939"></birth>
+         <sex>Kvinna</sex>
+      </person>
+
+      <person xml:id="E6">
+         <persName>
+            <forename>Magda</forename><surname>Eriksson</surname> 
+         </persName>
+         <affiliation>Umeå lottakår</affiliation>
+         <note>Uppgifter inom kåren som kunnat fastställas: tåglotta</note>
+         <birth notAfter="1939"></birth>
+         <sex>Kvinna</sex>
+      </person>
+
+      <person xml:id="E7">
+         <persName>
+            <forename>Britta</forename><surname>Eriksson</surname> 
+         </persName>
+         <affiliation>Umeå lottakår</affiliation>
+         <note>Uppgifter inom kåren som kunnat fastställas: </note>
+         <birth notAfter="1939"></birth>
+         <sex>Kvinna</sex>
+      </person>
+
+     
+
+     
+      <person xml:id="E8">
+         <persName>
+            <forename>Vivi</forename><surname>Engqvist</surname> 
+         </persName>
+         <affiliation>Umeå lottakår</affiliation>
+         <note>Uppgifter inom kåren som kunnat fastställas: utspisningslotta</note>
+         <birth notAfter="1939"></birth>
+         <sex>Kvinna</sex>
+      </person>
+
+     
+      
+            
       <person xml:id="F1">
         <persName>
 <forename>Gurli</forename><surname>Forsberg</surname>
@@ -186,10 +363,94 @@
             <forename>Aina</forename><surname>Forsgren</surname> 
          </persName>
          <affiliation>Umeå lottakår</affiliation>
-         <note>Uppgifter inom kåren som kunnat fastställas: utspisninglotta, smörgåsberedare</note>
+         <note>Uppgifter inom kåren som kunnat fastställas: utspisninglotta, smörgåsberedning</note>
          <birth notAfter="1939"></birth>
          <sex>Kvinna</sex>
       </person>
+
+      <person xml:id="F3">
+         <persName>
+            <forename>Karin</forename><surname>Fhalén</surname> 
+         </persName>
+         <affiliation>Umeå lottakår</affiliation>
+         <note>Uppgifter inom kåren som kunnat fastställas: tåglotta</note>
+         <birth notAfter="1939"></birth>
+         <sex>Kvinna</sex>
+      </person>
+
+      <person xml:id="F4">
+         <persName>
+            <forename>Anna</forename><surname>Forsgren</surname> 
+         </persName>
+         <affiliation>Umeå lottakår</affiliation>
+         <note>Uppgifter inom kåren som kunnat fastställas: köksarbetare, utspisningslotta</note>
+         <birth notAfter="1939"></birth>
+         <sex>Kvinna</sex>
+      </person>
+
+ 
+
+      <person xml:id="F5">
+         <persName>
+            <forename>Märta</forename><surname>Forsberg</surname> 
+         </persName>
+         <affiliation>Umeå lottakår</affiliation>
+         <note>Uppgifter inom kåren som kunnat fastställas: köksarbetare, utspisningslotta</note>
+         <birth notAfter="1939"></birth>
+         <sex>Kvinna</sex>
+      </person>
+
+      <person xml:id="F6">
+         <persName>
+            <forename>Elsie</forename><surname>Forgren</surname> 
+         </persName>
+         <affiliation>Umeå lottakår</affiliation>
+         <note>Uppgifter inom kåren som kunnat fastställas: utspisningslotta</note>
+         <birth notAfter="1939"></birth>
+         <sex>Kvinna</sex>
+      </person>
+
+
+      <person xml:id="G1">
+         <persName>
+            <forename>Teres</forename><surname>Westin Gustafsson</surname> 
+         </persName>
+         <affiliation>Umeå lottakår</affiliation>
+         <note>Uppgifter inom kåren som kunnat fastställas: utspisningslotta</note>
+         <birth notAfter="1939"></birth>
+         <sex>Kvinna</sex>
+      </person>
+     
+      <person xml:id="G2">
+         <persName>
+            <forename>Irene</forename><surname>Gustafsson</surname> 
+         </persName>
+         <affiliation>Umeå lottakår</affiliation>
+         <note>Uppgifter inom kåren som kunnat fastställas: tåglotta</note>
+         <birth notAfter="1939"></birth>
+         <sex>Kvinna</sex>
+      </person>
+      <person xml:id="G3">
+         <persName>
+            <forename>Estrid</forename><surname>Gustafsson</surname> 
+         </persName>
+         <affiliation>Umeå lottakår</affiliation>
+         <note>Uppgifter inom kåren som kunnat fastställas: tåglotta</note>
+         <birth notAfter="1939"></birth>
+         <sex>Kvinna</sex>
+      </person>
+
+      <person xml:id="G4">
+         <persName>
+            <forename>Inga-Maj</forename><surname>Gripenstam</surname> 
+         </persName>
+         <affiliation>Umeå lottakår</affiliation>
+         <note>Uppgifter inom kåren som kunnat fastställas: v.tågchef, tåglotta</note>
+         <birth notAfter="1939"></birth>
+         <sex>Kvinna</sex>
+      </person>
+
+
       <person xml:id="H1">
          <persName>
  <forename>Lilian</forename><surname>Hellberg</surname>
@@ -199,45 +460,259 @@
          <birth notAfter="1939"></birth>
          <sex>Kvinna</sex>
        </person>
+
+       <person xml:id="H2">
+         <persName>
+            <forename>Barbro</forename><surname>Hedlund</surname> 
+         </persName>
+         <affiliation>Umeå lottakår</affiliation>
+         <note>Uppgifter inom kåren som kunnat fastställas: tåglotta</note>
+         <birth notAfter="1939"></birth>
+         <sex>Kvinna</sex>
+      </person>
+      <person xml:id="H3">
+         <persName>
+            <forename>Marta</forename><surname>Hedlund</surname> 
+         </persName>
+         <affiliation>Umeå lottakår</affiliation>
+         <note>Uppgifter inom kåren som kunnat fastställas: tåglotta, utspisningslotta</note>
+         <birth notAfter="1939"></birth>
+         <sex>Kvinna</sex>
+      </person>
+      <person xml:id="H4">
+         <persName>
+            <forename>Agda</forename><surname>Holmgren</surname> 
+         </persName>
+         <affiliation>Umeå lottakår</affiliation>
+         <note>Uppgifter inom kåren som kunnat fastställas: tåglotta</note>
+         <birth notAfter="1939"></birth>
+         <sex>Kvinna</sex>
+      </person>
+      <person xml:id="H5">
+         <persName>
+            <forename>Linnea</forename><surname>Haldin</surname> 
+         </persName>
+         <affiliation>Umeå lottakår</affiliation>
+         <note>Uppgifter inom kåren som kunnat fastställas: tåglotta</note>
+         <birth notAfter="1939"></birth>
+         <sex>Kvinna</sex>
+      </person>
+
+      <person xml:id="H6">
+         <persName>
+            <forename>Rut</forename><surname>Hellgren</surname> 
+         </persName>
+         <affiliation>Umeå lottakår</affiliation>
+         <note>Uppgifter inom kåren som kunnat fastställas: tåglotta, utspisningslotta</note>
+         <birth notAfter="1939"></birth>
+         <sex>Kvinna</sex>
+      </person>
+
+     
        <person xml:id="J1">
          <persName>
             <forename>Sigrid</forename><surname>Jonsson</surname> 
          </persName>
          <affiliation>Umeå lottakår</affiliation>
-         <note>Uppgifter inom kåren som kunnat fastställas: </note>
+         <note>Uppgifter inom kåren som kunnat fastställas: köksarbetare</note>
          <birth notAfter="1939"></birth>
          <sex>Kvinna</sex>
       </person>
+
+      <person xml:id="J2">
+         <persName>
+            <forename>Gunnel</forename><surname> Jörlén Jonsson</surname> 
+         </persName>
+         <affiliation>Umeå lottakår</affiliation>
+         <note>Uppgifter inom kåren som kunnat fastställas: utspisningslotta</note>
+         <birth notAfter="1939"></birth>
+         <sex>Kvinna</sex>
+      </person>
+
+      <person xml:id="J3">
+         <persName>
+            <forename>Anna- Greta</forename><surname>Johansson</surname> 
+         </persName>
+         <affiliation>Umeå lottakår</affiliation>
+         <note>Uppgifter inom kåren som kunnat fastställas: köksarbetare, utspisningslotta, smörgåsberedare</note>
+         <birth notAfter="1939"></birth>
+         <sex>Kvinna</sex>
+      </person>
+
+      <person xml:id="J4">
+         <persName>
+            <forename>Gunnel</forename><surname>Jörlen</surname> 
+         </persName>
+         <affiliation>Umeå lottakår</affiliation>
+         <note>Uppgifter inom kåren som kunnat fastställas: tåglotta, utspisningslotta</note>
+         <birth notAfter="1939"></birth>
+         <sex>Kvinna</sex>
+      </person>
+
+      <person xml:id="J5">
+         <persName>
+            <forename>Lilly</forename><surname>Johansson</surname> 
+         </persName>
+         <affiliation>Umeå lottakår</affiliation>
+         <note>Uppgifter inom kåren som kunnat fastställas: utspisningslotta</note>
+         <birth notAfter="1939"></birth>
+         <sex>Kvinna</sex>
+      </person>
+
+      <person xml:id="J6">
+         <persName>
+            <forename>Lulu</forename><surname>Julin</surname> 
+         </persName>
+         <affiliation>Umeå lottakår</affiliation>
+         <note>Uppgifter inom kåren som kunnat fastställas: tåglotta</note>
+         <birth notAfter="1939"></birth>
+         <sex>Kvinna</sex>
+      </person>
+
+      <person xml:id="J7">
+         <persName>
+            <forename>Birgit</forename><surname>Jonsson</surname> 
+         </persName>
+         <affiliation>Umeå lottakår</affiliation>
+         <note>Uppgifter inom kåren som kunnat fastställas: tåglotta</note>
+         <birth notAfter="1939"></birth>
+         <sex>Kvinna</sex>
+      </person>
+
+
       <person xml:id="K1">
          <persName>
             <forename>Greta</forename><surname>Krikortz</surname> 
          </persName>
          <affiliation>Umeå lottakår</affiliation>
-         <note>Uppgifter inom kåren som kunnat fastställas: utspisningslotta, smörgåsberedare, Tågchef, v. tågchef</note>
+         <note>Uppgifter inom kåren som kunnat fastställas: utspisningslotta, smörgåsberedning, Tågchef, v. tågchef</note>
          <birth notAfter="1939"></birth>
          <sex>Kvinna</sex>
       </person>
        
       <person xml:id="L1">
          <persName>
-            <forename>Hanna</forename><surname>Lundbladh</surname> 
+            <forename>Hanna</forename><surname>Lindbladh</surname> 
          </persName>
          <affiliation>Umeå lottakår</affiliation>
          <note>Uppgifter inom kåren som kunnat fastställas: utspisningslotta, köksarbetare, tåglotta</note>
          <birth notAfter="1939"></birth>
          <sex>Kvinna</sex>
       </person>
+      <person xml:id="L2">
+         <persName>
+            <forename>Thyra</forename><surname>Lindvall</surname> 
+         </persName>
+         <affiliation>Umeå lottakår</affiliation>
+         <note>Uppgifter inom kåren som kunnat fastställas: utspisninglotta, smörgåsberedare</note>
+         <birth notAfter="1939"></birth>
+         <sex>Kvinna</sex>
+      </person>
+
+
+      <person xml:id="L3">
+         <persName>
+            <forename>Edit</forename><surname>Lundberg</surname> 
+         </persName>
+         <affiliation>Umeå lottakår</affiliation>
+         <note>Uppgifter inom kåren som kunnat fastställas: tåglotta</note>
+         <birth notAfter="1939"></birth>
+         <sex>Kvinna</sex>
+      </person>
+
+      <person xml:id="L4">
+         <persName>
+            <forename>Hildur</forename><surname>Lundmark</surname> 
+         </persName>
+         <affiliation>Umeå lottakår</affiliation>
+         <note>Uppgifter inom kåren som kunnat fastställas: tåglotta</note>
+         <birth notAfter="1939"></birth>
+         <sex>Kvinna</sex>
+      </person>
+
+      <person xml:id="L6">
+         <persName>
+            <forename>Kerstin</forename><surname>Lanlund</surname> 
+         </persName>
+         <affiliation>Umeå lottakår</affiliation>
+         <note>Uppgifter inom kåren som kunnat fastställas: utspisningslotta</note>
+         <birth notAfter="1939"></birth>
+         <sex>Kvinna</sex>
+      </person>
+
+      <person xml:id="L7">
+         <persName>
+            <forename>Kerstin</forename><surname>Lanlund</surname> 
+         </persName>
+         <affiliation>Umeå lottakår</affiliation>
+         <note>Uppgifter inom kåren som kunnat fastställas: utspisningslotta</note>
+         <birth notAfter="1939"></birth>
+         <sex>Kvinna</sex>
+      </person>
+
+      <person xml:id="L8">
+         <persName>
+            <forename>Gerd</forename><surname>Lundgren</surname> 
+         </persName>
+         <affiliation>Umeå lottakår</affiliation>
+         <note>Uppgifter inom kåren som kunnat fastställas: tåglotta</note>
+         <birth notAfter="1939"></birth>
+         <sex>Kvinna</sex>
+      </person>
+
+      <person xml:id="L9">
+         <persName>
+            <forename>Astrid</forename><surname>Lundgren</surname> 
+         </persName>
+         <affiliation>Umeå lottakår</affiliation>
+         <note>Uppgifter inom kåren som kunnat fastställas: tåglotta</note>
+         <birth notAfter="1939"></birth>
+         <sex>Kvinna</sex>
+      </person>
+
+      <person xml:id="L10">
+         <persName>
+            <forename>Ingrid</forename><surname>Lundström</surname> 
+         </persName>
+         <affiliation>Umeå lottakår</affiliation>
+         <note>Uppgifter inom kåren som kunnat fastställas: v.tågchef</note>
+         <birth notAfter="1939"></birth>
+         <sex>Kvinna</sex>
+      </person>
+
 
       <person xml:id="M1">
          <persName>
             <forename>Sigrid</forename><surname>Malmlund</surname> 
          </persName>
          <affiliation>Umeå lottakår</affiliation>
-         <note>Uppgifter inom kåren som kunnat fastställas: utspisninglotta, tåglotta, smörgåsberedare </note>
+         <note>Uppgifter inom kåren som kunnat fastställas: utspisninglotta, tåglotta, smörgåsberedning </note>
          <birth notAfter="1939"></birth>
          <sex>Kvinna</sex>
       </person>
       
+      <person xml:id="M2">
+         <persName>
+            <forename>Agda</forename><surname>Malmgren</surname> 
+         </persName>
+         <affiliation>Umeå lottakår</affiliation>
+         <note>Uppgifter inom kåren som kunnat fastställas: tåglotta</note>
+         <birth notAfter="1939"></birth>
+         <sex>Kvinna</sex>
+      </person>
+
+      <person xml:id="M3">
+         <persName>
+            <forename>Elsa</forename><surname>Modig</surname> 
+         </persName>
+         <affiliation>Umeå lottakår</affiliation>
+         <note>Uppgifter inom kåren som kunnat fastställas: tåglotta, utspisningslotta</note>
+         <birth notAfter="1939"></birth>
+         <sex>Kvinna</sex>
+      </person>
+
+    
+
       
       <person xml:id="N1">
          <persName>
@@ -257,14 +732,63 @@
          <birth notAfter="1939"></birth>
          <sex>Kvinna</sex>
       </person>
-      
+
+      <person xml:id="O1">
+         <persName>
+            <forename>Maud</forename><surname>Olsson</surname> 
+         </persName>
+         <affiliation>Umeå lottakår</affiliation>
+         <note>Uppgifter inom kåren som kunnat fastställas: utspisningslotta</note>
+         <birth notAfter="1939"></birth>
+         <sex>Kvinna</sex>
+      </person>
+      <person xml:id="P1">
+         <persName>
+            <forename>Gusti</forename><surname>Pettersson</surname> 
+         </persName>
+         <affiliation>Umeå lottakår</affiliation>
+         <note>Uppgifter inom kåren som kunnat fastställas: utspisningslotta, smörgåsberedare</note>
+         <birth notAfter="1939"></birth>
+         <sex>Kvinna</sex>
+      </person>
+      <person xml:id="P2">
+         <persName>
+            <forename>Vilma</forename><surname>Persson</surname> 
+         </persName>
+         <affiliation>Umeå lottakår</affiliation>
+         <note>Uppgifter inom kåren som kunnat fastställas: utspisningslotta</note>
+         <birth notAfter="1939"></birth>
+         <sex>Kvinna</sex>
+      </person>
+
+    
+   
+      <person xml:id="R1">
+         <persName>
+            <forename>Margit</forename><surname>Rotelius</surname> 
+         </persName>
+         <affiliation>Umeå lottakår</affiliation>
+         <note>Uppgifter inom kåren som kunnat fastställas: utspisningslotta, tåglotta</note>
+         <birth notAfter="1939"></birth>
+         <sex>Kvinna</sex>
+      </person>
+    
+      <person xml:id="R2">
+         <persName>
+            <forename>Rut</forename><surname>Ringqvist</surname> 
+         </persName>
+         <affiliation>Umeå lottakår</affiliation>
+         <note>Uppgifter inom kåren som kunnat fastställas: smörgåsberedare</note>
+         <birth notAfter="1939"></birth>
+         <sex>Kvinna</sex>
+      </person>
       
       <person xml:id="S1">
          <persName>
             <forename>Jenny</forename><surname>Sundström</surname> 
          </persName>
          <affiliation>Umeå lottakår</affiliation>
-         <occupation>Uppgifter inom kåren som kunnat fastställas: </occupation>
+         <note>Uppgifter inom kåren som kunnat fastställas: v. tågchef, smörgåsberedare, utspisningslotta </note>
          <birth notAfter="1939"></birth>
          <sex>Kvinna</sex>
       </person>
@@ -277,6 +801,115 @@
          <birth notAfter="1939"></birth>
          <sex>Kvinna</sex>
       </person>
+
+      <person xml:id="S3">
+         <persName>
+            <forename>Rut</forename><surname>Sandström</surname> 
+         </persName>
+         <affiliation>Umeå lottakår</affiliation>
+         <note>Uppgifter inom kåren som kunnat fastställas: tåglotta</note>
+         <birth notAfter="1939"></birth>
+         <sex>Kvinna</sex>
+      </person>
+
+      
+
+      <person xml:id="S4">
+         <persName>
+            <forename>Kerstin</forename><surname>Stenberg</surname> 
+         </persName>
+         <affiliation>Umeå lottakår</affiliation>
+         <note>Uppgifter inom kåren som kunnat fastställas: köksarbetare</note>
+         <birth notAfter="1939"></birth>
+         <sex>Kvinna</sex>
+      </person>
+
+      <person xml:id="S5">
+         <persName>
+            <forename>Gunvor</forename><surname>Stenberg</surname> 
+         </persName>
+         <affiliation>Umeå lottakår</affiliation>
+         <note>Uppgifter inom kåren som kunnat fastställas: köksarbetare</note>
+         <birth notAfter="1939"></birth>
+         <sex>Kvinna</sex>
+      </person>
+      <person xml:id="S6">
+         <persName>
+            <forename>Siv</forename><surname>Strandberg</surname> 
+         </persName>
+         <affiliation>Umeå lottakår</affiliation>
+         <note>Uppgifter inom kåren som kunnat fastställas: köksarbetare, karantänspecialist </note>
+         <birth notAfter="1939"></birth>
+         <sex>Kvinna</sex>
+      </person>
+      <person xml:id="S7">
+         <persName>
+            <forename>Vera</forename><surname>Stjernvall</surname> 
+         </persName>
+         <affiliation>Umeå lottakår</affiliation>
+         <note>Uppgifter inom kåren som kunnat fastställas: v.tågchef, smörgåsberedare </note>
+         <birth notAfter="1939"></birth>
+         <sex>Kvinna</sex>
+      </person>
+      <person xml:id="S8">
+         <persName>
+            <forename>Märta</forename><surname>Sundqvist</surname> 
+         </persName>
+         <affiliation>Umeå lottakår</affiliation>
+         <note>Uppgifter inom kåren som kunnat fastställas: smörgåsberedare</note>
+         <birth notAfter="1939"></birth>
+         <sex>Kvinna</sex>
+      </person>
+
+      <person xml:id="S9">
+         <persName>
+            <forename>Linnéa</forename><surname>Svensson</surname> 
+         </persName>
+         <affiliation>Umeå lottakår</affiliation>
+         <note>Uppgifter inom kåren som kunnat fastställas: tåglotta</note>
+         <birth notAfter="1939"></birth>
+         <sex>Kvinna</sex>
+      </person>
+
+      <person xml:id="S10">
+         <persName>
+            <forename>Ragnhild</forename><surname>Säfström</surname> 
+         </persName>
+         <affiliation>Umeå lottakår</affiliation>
+         <note>Uppgifter inom kåren som kunnat fastställas: tåglotta, köksarbetare</note>
+         <birth notAfter="1939"></birth>
+         <sex>Kvinna</sex>
+      </person>
+
+      <person xml:id="S11">
+         <persName>
+            <forename>Dagmar</forename><surname>Stocksén</surname> 
+         </persName>
+         <affiliation>Umeå lottakår</affiliation>
+         <note>Uppgifter inom kåren som kunnat fastställas: tåglotta</note>
+         <birth notAfter="1939"></birth>
+         <sex>Kvinna</sex>
+      </person>
+      <person xml:id="S12">
+         <persName>
+            <forename>Amy</forename><surname>Sandström</surname> 
+         </persName>
+         <affiliation>Umeå lottakår</affiliation>
+         <note>Uppgifter inom kåren som kunnat fastställas: utspisningslotta</note>
+         <birth notAfter="1939"></birth>
+         <sex>Kvinna</sex>
+      </person>
+
+      <person xml:id="T1">
+         <persName>
+            <forename>Greta</forename><surname>Thulin</surname> 
+         </persName>
+         <affiliation>Umeå lottakår</affiliation>
+         <note>Uppgifter inom kåren som kunnat fastställas: tåglotta </note>
+         <birth notAfter="1939"></birth>
+         <sex>Kvinna</sex>
+      </person>
+
       <person xml:id="V1">
          <persName>
             <forename>Karin</forename><surname>Wästfelt</surname> 
@@ -286,7 +919,7 @@
          <birth notAfter="1939"></birth>
          <sex>Kvinna</sex>
       </person>
-      <person xml:id="V3">
+      <person xml:id="V2">
          <persName>
             <forename>Görel</forename><surname>Wikholm</surname> 
          </persName>
@@ -295,9 +928,87 @@
          <birth notAfter="1939"></birth>
          <sex>Kvinna</sex>
       </person>
+
+      <person xml:id="V3">
+         <persName>
+            <forename>Elsa</forename><surname>Welander</surname> 
+         </persName>
+         <affiliation>Umeå lottakår</affiliation>
+         <note>Uppgifter inom kåren som kunnat fastställas: tågchef, tåglotta</note>
+         <birth notAfter="1939"></birth>
+         <sex>Kvinna</sex>
+         </person>
+
+       
+         <person xml:id="V4">
+            <persName>
+               <forename>Ulla</forename><surname>Wästfelt</surname> 
+            </persName>
+            <affiliation>Umeå lottakår</affiliation>
+            <note>Uppgifter inom kåren som kunnat fastställas: tåglotta, utspisningslotta</note>
+            <birth notAfter="1939"></birth>
+            <sex>Kvinna</sex>
+         </person>
+         <person xml:id="V5">
+            <persName>
+               <forename>Elsa</forename><surname>Widerlund</surname> 
+            </persName>
+            <affiliation>Umeå lottakår</affiliation>
+            <note>Uppgifter inom kåren som kunnat fastställas: utspisninglotta, tåglotta </note>
+            <birth notAfter="1939"></birth>
+            <sex>Kvinna</sex>
+         </person>
+
+         <person xml:id="V6">
+            <persName>
+               <forename>Britta</forename><surname>Wretling</surname> 
+            </persName>
+            <affiliation>Umeå lottakår</affiliation>
+            <note>Uppgifter inom kåren som kunnat fastställas: utspisningslotta</note>
+            <birth notAfter="1939"></birth>
+            <sex>Kvinna</sex>
+         </person>
+
+         <person xml:id="V7">
+            <persName>
+               <forename>Thyra</forename><surname>Waller</surname> 
+            </persName>
+            <affiliation>Umeå lottakår</affiliation>
+            <note>Uppgifter inom kåren som kunnat fastställas: tåglotta</note>
+            <birth notAfter="1939"></birth>
+            <sex>Kvinna</sex>
+         </person>
+
+         <person xml:id="Å1">
+            <persName>
+               <forename>Edit</forename><surname>Åhgren</surname> 
+            </persName>
+            <affiliation>Umeå lottakår</affiliation>
+            <note>Uppgifter inom kåren som kunnat fastställas: tåglotta, köksarbetare, utspisningslotta</note>
+            <birth notAfter="1939"></birth>
+            <sex>Kvinna</sex>
+         </person>
+
+         <person xml:id="Å2">
+            <persName>
+               <forename>Eva</forename><surname>Åkerlund</surname> 
+            </persName>
+            <affiliation>Umeå lottakår</affiliation>
+            <note>Uppgifter inom kåren som kunnat fastställas: tåglotta</note>
+            <birth notAfter="1939"></birth>
+            <sex>Kvinna</sex>
+         </person>
+
+       
       
+       
+
       
-               </listPerson>
+       
+       
+       
+      </listPerson>
+     
 
    <listPlace>
       <place xml:id="umea" type="city">
@@ -328,9 +1039,9 @@
       <surface xml:id="sida_85_1a_resan"> 
 
    <figure>
-      <label>21 juli-18 sep. Första resan</label>
-      <figDesc>Sidor ur dagboken som beskriver delar av lottornas arbete under hösten 1944, däribland första resan
-      för transport av finska flyktingbarn.</figDesc>
+      <label>21 juli–18 sep. Första resan</label>
+      <figDesc>Sidor ur dagboken som beskriver delar av lottornas arbete under hösten 1944, däribland första
+	      transporten ("resan") av finska flyktingbarn.</figDesc>
       <graphic url="https://github.com/linnsofia/mall/blob/main/docs/assets/img/documents/sida_085_1a_resan.jpg"></graphic>
       <graphic url="https://github.com/linnsofia/mall/blob/main/collection/img/sida_085.tiff"/>
    </figure>
@@ -339,7 +1050,7 @@
          <figure>
             <label>Andra, tredje och början på fjärde resan</label>
             <figDesc>
-               Sida ur dagboken som beskriver andra till och med början på fjärde resan.
+               Sidor ur dagboken som beskriver andra till och med början på fjärde resan.
             </figDesc>
             <graphic url="assets/img/documents/sida_086_2-3-4e_resan.jpg"/>
             <graphic url="https://github.com/linnsofia/mall/blob/main/collection/img/sida_086.tiff"></graphic>
@@ -348,9 +1059,9 @@
       
       <surface xml:id="sida_087_5-6e_resan.jpg">
          <figure>
-            <label>Femte, sjätte resan</label>
+            <label>Femte och sjätte resan</label>
             <figDesc>
-               Sida ur dagboken som beskriver femte och sjätte resan.
+               Sidor ur dagboken som beskriver femte och sjätte resan.
             </figDesc>
             <graphic url="https://github.com/linnsofia/mall/blob/main/docs/assets/img/documents/sida_087_5-6e_resan.jpg"/>
             <graphic url="https://github.com/linnsofia/mall/blob/main/collection/img/sida_087.tiff"></graphic>
@@ -361,7 +1072,7 @@
          <figure>
             <label>Sjunde, åttonde och nionde resan</label>
             <figDesc>
-               Sida ur dagboken som beskriver sjunde, åttonde och nionde resan.
+               Sidor ur dagboken som beskriver sjunde, åttonde och nionde resan.
             </figDesc>
             <graphic url="https://github.com/linnsofia/mall/blob/main/docs/assets/img/documents/sida_088_7-8-9e_resan.jpg"/>
             <graphic url="https://github.com/linnsofia/mall/blob/main/collection/img/sida_088.tiff"></graphic>
@@ -372,7 +1083,7 @@
          <figure>
             <label>Tionde resan</label>
             <figDesc>
-               Sida ur dagboken som beskriver tionde resan.
+               Sidor ur dagboken som beskriver tionde resan.
             </figDesc>
             <graphic url="https://github.com/linnsofia/mall/blob/main/docs/assets/img/documents/sida_089_10e_resan.jpg"/>
             <graphic url="https://github.com/linnsofia/mall/blob/main/collection/img/sida_089.tiff"></graphic>
@@ -403,66 +1114,49 @@
          <div type="rapport" n="1">
          <div n="1" type="page" facs="#sida_85_1a_resan"> 
 
-               <p><hi rend="u"> Under tiden 21 juli - 18 sept pågingo transporter av finska barn över <name type="place">Umeå</name></hi>
+               <p><hi rend="u"> Under tiden 21 juli-18 sept på-<lb/>gingo transporter av finska barn över <name type="place">Umeå</name></hi>
              </p>
             <p>
-               Barnen kommo med båt till 
-<name type="place">Holmsund</name>, varifrån de fördes 
-till <ref target="https://sv.wikipedia.org/wiki/Umeå"> <name type="place" ref="#umea">Umeå</name> </ref>   där de badades och 
-undersöktes. Under tiden rök-
-tes deras kläder. <ref target="https://sv.wikipedia.org/wiki/Svenska_Lottak%C3%A5ren"><name type="org" ref="#lotta">Umeå Lottakår</name></ref>. 
-hjälpte under denna tid till med både utspisning och 
-transport. Maten lagades i 
+               Barnen kommo med båt till<lb/> 
+<name type="place">Holmsund</name>, varifrån de fördes<lb/>
+till <ref target="https://sv.wikipedia.org/wiki/Umeå"> <name type="place" ref="#umea">Umeå</name> </ref> där de badades och<lb/>
+undersöktes. Under tiden rök-<lb/>
+tes deras kläder. <ref target="https://sv.wikipedia.org/wiki/Svenska_Lottak%C3%A5ren"><name type="org" ref="#lotta">Umeå Lotta-<lb/>kår</name></ref>. 
+hjälpte under denna tid<lb/> till med både utspisning och<lb/> 
+transport. Maten lagades i<lb/>
 ordning på <ref target="https://sv.wikipedia.org/wiki/Ume%C3%A5_garnison"><name type="place" ref="#I20">I 20</name></ref>. 
-Första utspis-
-ningen för dagen skedde om-
-bord på båten i <ref target="https://sv.wikipedia.org/wiki/Holmsund"><name type="place" ref="#holmsund">Holmsund</name></ref>. 
-Sedan utspisades de två gång
-er på <name type="place">Nya folkskolan</name>. Transpor-
-terna gångo vanligen tidigt 
-under morgonen därpå eller sent 
-på kvällen samma dag. Varje
+Första utspis-<lb/>
+ningen för dagen skedde om-<lb/>
+bord på båten i <ref target="https://sv.wikipedia.org/wiki/Holmsund"><name type="place" ref="#holmsund">Holmsund</name></ref>.<lb/>
+Sedan utspisades de två gång-<lb/>
+er på <name type="place">Nya folkskolan</name>. Transpor-<lb/>
+terna gingo vanligen tidigt<lb/>
+under morgonen därpå eller sent<lb/>
+på kvällen samma dag. Varje<lb/>
 transport omfattade mellan 
-650-750 barn. Barnen transpor-
-terades på militära sjuktåg. 
-Utspisningen under transporter
+650–750 barn. Barnen transpor-<lb/>
+terades på militära sjuktåg.<lb/>
+Utspisningen under transporter-</p>
 
-               
-na sköttes av lottorna. Med tåget
-följde en köksvagn där maten la-
-gades. Sedan bars den ut i de
-olika vagnarna. 10 sådana trans-
-porter gångo över <name type="place" ref="#umea">Umeå</name> . 
+     <p>          
+na sköttes av lottorna. Med tåget<lb/>
+följde en köksvagn där maten la-<lb/>
+gades. Sedan bars den ut i de<lb/>
+olika vagnarna. 10 sådana trans-<lb/>
+porter gingo över <name type="place" ref="#umea">Umeå</name>.<lb/> 
 
 
-            </p>
+            
             
              
-            <p> <hi rend="u">Första resan:</hi>
+            <hi rend="u">Första resan:
           
-            Utspisningslottor:
+            Utspisningslottor:</hi>
                <name type="person" ref="#F1">Gurli Forsberg</name>,
                <name type="person" ref="#V1">Karin Wästfelt</name>,
-               <name type="person" ref="#H1"> Lilian Hellberg</name>,
-               <name type="person" ref="#N1"> Thyra Nilsson</name> ,
-               <name type="person" ref="#S1"> Jenny Sundström</name>, 
-               <name type="person" ref="#N2"> Elisabet Nilson</name>, 
-               <name type="person" ref="#J1"> Sigrid Jonsson</name>,
-               <name type="person" ref="#S2"> Lisa Sundqvist</name>, 
-               <name type="person" ref="#V3"> Görel Wikholm</name>, 
-               <name type="person" ref="#E1"> Kerstin Engman</name>, 
-               <name type="person" ref="#K1"> Greta Krikortz </name>, 
-               <name type="person" ref="#M1"> Sigrid Malmlund </name>, 
-               <name type="person" ref="#F2"> Aina Forsgren </name>, 
-               <name type="person" ref="#B1"> Ester Berg</name> , 
-               <name type="person" ref="#L1"> Hanna Lundbladh</name>, 
-               <name type="person" ref="#C1"> Margit Carleborg</name>, 
-               <name type="person" ref="#E2">Elsa Edstedt</name>  
-               och <name type="person" ref="#E3">Märta Edsteldt</name>.  
-=======
                <name type="person" ref="#H1">Lilian Hellberg</name>,
                <name type="person" ref="#N1">Thyra Nilsson</name> ,
-               <name type="person" ref="#S1">Jenny Sandström</name>, 
+               <name type="person" ref="#S1">Jenny Sundström</name>, 
                <name type="person" ref="#N2">Elisabet Nilson</name>, 
                <name type="person" ref="#J1">Sigrid Jonsson</name>,
                <name type="person" ref="#S2">Lisa Sundqvist</name>, 
@@ -471,477 +1165,422 @@ porter gångo över <name type="place" ref="#umea">Umeå</name> .
                <name type="person" ref="#K1">Greta Krikortz</name>, 
                <name type="person" ref="#M1">Sigrid Malmlund</name>, 
                <name type="person" ref="#F2">Aina Forsgren</name>, 
-               <name type="person" ref="#B1">Ester Berg</name> , 
-               <name type="person" ref="#L1">Hanna Lundbladh</name>, 
-               <name type="person" ref="#C1">Margit Cederberg</name>, 
-               <name type="person" ref="#E2">Elsa Edefeldt</name>  
-               och <name type="person" ref="#E3">Märta Edefeldt</name>.  
->>>>>>> b2743f4b671f258ea138483d478f2b431c894134
-              Tågchef: 
-              <name type="person" ref="#N2">Elisabet Nilson</name>
+               <name type="person" ref="#B1">Ester Berg</name>, 
+               <name type="person" ref="#L1"> Hanna Lindbladh</name>, 
+               <name type="person" ref="#C1">Margit Carleborg</name>, 
+               <name type="person" ref="#E2">Elsa Edstedt</name>  
+               och <name type="person" ref="#E3">Märta Edstedt</name>.<lb/>
 
-               v. chef: <name type="person" ref="#S3">Jenny Sundström</name>  
-               Tåglottor: 
-                  <name type="person" ref="#V3"> Elsa Welander</name>, 
-                  <name type="person" ref="#S4"> Rut Sand- ström</name> , 
-                  <name type="person" ref="A1"> Elsa Andersson</name> ,  
-               <name type="person" ref="#V1"> Karin Wäst- felt</name>, 
-               <name type="person" ref="#B1"> Ester Berg</name>, 
-               <name type="person" ref="#L1"> Hanna Lundbladh</name>, 
-              <unclear reason="illegible">Hilma</unclear> Berg, 
-               <name type="person" ref="#T1"> Greta Thålin</name> , 
-               <name type="person" ref="#V4"> Ulla Wästfelt</name>   </p>
- <p>
+               <hi rend="u"> Tågchef: </hi>
+              <name type="person" ref="#N2">Elisabet Nilson</name><lb/>
+
+              <hi rend="u">V. chef:</hi> <name type="person" ref="#S1">Jenny Sundström</name>  
+               <hi rend="u">Tåglottor: </hi>
+                  <name type="person" ref="#V3">Elsa Welander</name>, 
+                  <name type="person" ref="#S3">Rut Sand-<lb/>ström</name>, 
+                  <name type="person" ref="A1">Elsa Andersson</name>,
+               <name type="person" ref="#V1">Karin Wäst-<lb/>felt</name>, 
+               <name type="person" ref="#B1">Ester Berg</name>,
+               <name type="person" ref="#L1"> Hanna Lindbladh</name>, 
+              <unclear reason="illegible">Hilma Berg</unclear>,
+               <name type="person" ref="#T1">Greta Thålin</name>,
+	     <name type="person" ref="#E2">Elsa Ed-<lb/>stedt</name> 
+               <name type="person" ref="#V4">Ulla Wästfelt</name>.<lb/>
+	     
                   <name type="person" ref="#V3">Elsa Welander</name>
                   <name type="person" ref="#S4">Rut Sand- ström</name> 
-                  <name type="person" ref="A1">Elsa Andersson</name> ,  
+                  <name type="person" ref="A1">Elsa Andersson</name>,  
                <name type="person" ref="#V1">Karin Wäst- felt</name>, 
                <name type="person" ref="#B1">Ester Berg</name>, 
                <name type="person" ref="#L1">Hanna Lundbladh</name>
-              <unclear reason="illegible">Maria? Hilma</unclear> Berg
-               <name type="person" ref="#T1">Greta Thulin</name> 
-               <name type="person" ref="#V4">Ulla Wästfelt</name> 
- </p>
-                  <p>
-                     Tjänstgöringstid: 1244 tim
+              <name type="person" ref="#B2"> <unclear reason="illegible"> 
+               <choice><supplied cert="medium" resp="Clara Berndes">Hilma</supplied> <supplied>Maria</supplied></choice> 
+            </unclear>Berg </name>,
+               <name type="person" ref="#T1">Greta Thulin</name>, 
+               <name type="person" ref="#V4">Ulla Wästfelt</name>, 
+ 
+               
+               <hi rend="u">Tjänstgöringstid: 1244 tim.</hi>
 
                   </p> 
                   
                </div>
              
               <div type="page" n="2" facs="#sida_086_2-3-4e_resan">
-               <p><hi>Andra resan:</hi> Utspisningslottor: Elsa Widerlund, 
+               <p><hi rend="u">Andra resan: 
+                  Utspisningslottor: </hi>
+                  <name type="person" ref="#V5">Elsa Widerlund</name>, 
            <name type="person" ref="#F1">Gurli Forsberg</name>, 
-       Märta Beckman, 
-       Thyra Lindvall, 
-       <name type="person" ref="#H1"> Lilian Hellberg</name> och 4 st. unglottor.
-       Tåglottor, köket: Sigrid Jansson, 
-       Kerstin Stenberg, 
-       <name type="person" ref="#N1"> Thyra Nilsson</name>, 
-       Ida Eriksson. 
-=======
-               <p><hi>Andra resan:</hi> Utspisningslottor: <name type="person" ref="#V5">Elsa Widerlund</name> , 
-           <name type="person" ref="#F1">Gurli Forsberg</name> , 
-       <name type="person" ref="#B2">Märta Beckman</name> , 
-<<<<<<< HEAD
-       <name type="person" ref= "#L2">Thyra Lindvall</name> , 
-=======
-       <name type="person" ref="#L2">Thyra Lindwall</name> , 
->>>>>>> 562095b5bb649acba19b4f8bd8c1b68551ef22ed
-       <name type="person" ref="#H1">Lilian Hellberg</name> och 4 st. unglottor.
-       Tåglottor, köket: <name type="person" ref="#J2">Sigrid Jansson</name> , 
-       <name type="person" ref="#S5">Kerstin Stenberg</name> , 
+           <name type="person" ref="#B3">Märta Beckman</name>, 
+           <name type="person" ref="#L2">Thyra Lindvall</name>, 
+       <name type="person" ref="#H1"> Lilian Hellberg</name> och 4 st. unglottor.<lb/>
+       <hi rend="u"> Tåglottor, köket: </hi>
+       <name type="person" ref="#J1">Sigrid Jonsson</name> , 
+       <name type="person" ref="#S5">Kerstin Stenberg</name>, 
        <name type="person" ref="#N1">Thyra Nilsson</name>, 
-       <name type="person" ref="#E4">Ida Eriksson</name> . 
-<<<<<<< HEAD
->>>>>>> b2743f4b671f258ea138483d478f2b431c894134
-=======
->>>>>>> 562095b5bb649acba19b4f8bd8c1b68551ef22ed
-       Tjänstgöringstid: 478 tim. 
-          </p> 
+       <name type="person" ref="#E4">Ida Eriksson</name>.<lb/>
+
+       Tjänstgöringstid: 478 tim. </p>
+          
           
 
-
-
-           <p> Tredje resan. Utspisningslottor: <name type="person" ref="#F1">Gurli Forsberg</name>, 
-            <name type="person" ref="#B3">Göta Bergman</name> , 
-            <name type="person" ref="#S3">Jenny Sundström</name>, 
-            <name type="person" ref="#M1">Sig- rid Malmlund</name>, 
-            Gunnel Jörlén 
-            Jonsson, 
-            Teres Westin
-		Gustafsson 
-      och Margit
-      Carleborg samt 3 unglottor. 
-Tågchef: Elisabet Nilson 
-v. chef: <name type="person" ref="#K1"> Greta Krikortz </name>, 
-<name type="person" ref="#S3"> Jenny Sundström</name>. 
-Tåglottor: Barbro Hedlund
-Marta Hedlund, 
-Barbro Boström
-Karin Ekesthål, 
-Magda Eriksson
-Edit Lundberg, 
-Hildur (Ester?) Lundmark
+           <p> Tredje resan.<lb/> Utspisningslottor: <name type="person" ref="#F1">Gurli Forsberg</name>, 
+            <name type="person" ref="#B4">Göta Beckman</name>, 
+            <name type="person" ref="#S1">Jenny Sundström</name>, 
+            <name type="person" ref="#M1">Sig-<lb/>rid Malmlund</name>, 
+            <name type="person" ref="#J2">Gunnel Jörlén Jonsson</name>, 
+            <name type="person" ref="#G1">Teres Westin Gustafsson</name> och 
+            <name type="person" ref="#C1">Margit Carleborg </name>samt 3 unglottor.<lb/>
+            <hi rend="u">Tågchef:</hi> <name type="person" ref="#N2">Elisabet Nilson</name><lb/>
+            <hi rend="u">V. chef:</hi> <name type="person" ref="#K1">Greta Krikortz</name>, 
+<name type="person" ref="#S1">Jenny Sundström</name>. 
+Tåglottor: <name type="person" ref="#H2">Barbro Hedlund</name>,
+<name type="person" ref="#H3">Marta Hedlund</name>, 
+<name type="person" ref="#B5">Barbro Boström</name>
+<name type="person" ref="#E5">Karin Ekesthål</name>, 
+<name type="person" ref="#E6">Magda Eriksson</name>
+<name type="person" ref="#L3">Edit Lundberg</name>, 
+<name type="person" ref="#L4">Hildur Lundmark</name>
  
 </p>
+<p>
                   
-Agda Holmgren, 
+<name type="person" ref="#H4">Agda Holmgren</name>, 
 <name type="person" ref="#V5"> Elsa Widerlund</name> .
-Irene Gustafsson, 
-Linnea Haldin, 
-Hilma Berg, 
-Agda Malmgren, 
-Karin Fhalén
-Köket: 
+<name type="person" ref="#G2">Irene Gustafsson</name>, 
+<name type="person" ref="#H5">Linnea Haldin</name>, 
+<name type="person" ref="B2">Hilma Berg</name>, 
+<name type="person" ref="M2">Agda Malmgren</name>, 
+<name type="person" ref="F3">Karin Fhalén</name>
+<hi rend="u"> Tåglottor:</hi> 
 <name type="person" ref="#B1"> Ester Berg</name>, 
-<name type="person" ref="#L1"> Hanna Lundbladh</name>,
-Anna Forsgren 
-och Anna-Greta Johansson. 
+<name type="person" ref="#L1"> Hanna Lindbladh</name>,
+<name type="person" ref="#F4">Anna Forsgren</name>  
+och <name type="person" ref="#J3">Anna- Greta Johansson</name>. 
 Smörgåsberedning: 
             <name type="person" ref="#F1">Gurli Forsberg</name>, 
-            Märta Forsberg, 
+            <name type="person" ref="#F5">Märta Forsberg</name>, 
             <name type="person" ref="#K1"> Greta Krikortz </name> 
             och <name type="person" ref="#F2"> Aina Forsgren </name>. 
-            Tjänstgöringstid: 1914 tim. </p>
-
+            <hi rend="u">Tjänstgöringstid: 1914 tim.</hi> 
+         
+            <hi rend="u">Fjärde resan:
+            Utspisningslottor:</hi>
+            <name type="person" ref="#B1"> Ester Berg</name>, 
+            <name type="person" ref="#C1">Margit Carleborg</name>, 
+            <name type="person" ref="#B4">Göta Beckman</name>, 
+            <name type="person" ref="#V6">Britta Wretling</name>, 
+            <name type="person" ref="#L6">Kerstin Lanlund</name>, 
+            <name type="person" ref="#O1">Maud Olsson</name>, 
+            <name type="person" ref="#L2"> Thyra Lindvall </name>, 
+            <name type="person" ref="#F1">Gurli Forsberg</name>
+            <name type="person" ref="#R1">Margit Rotelius</name>. 
+Tåglottor, köket: 
+<name type="person" ref="#J1"> Sigrid Jonsson</name>, 
+<name type="person" ref="#S5">Gunvor Stenberg</name>, 
+<name type="person" ref="#S4">Kerstin Stenberg</name>, 
+<name type="person" ref="#S6">Siv Strandberg</name>, 
+<name type="person" ref="#Å1">Edit Åhgren</name>. 
+<name type="person" ref="#N1"> Thyra Nilsson</name>. 
+Smörgåsberedning: <name type="person" ref="#B4">Göta Beckman</name>
+         
+         </p>
 
             
-           <p>Fjärde resan:
-            Utspisningslottor: 
-            <name type="person" ref="#B1"> Ester Berg</name>, 
-            Margit Carleborg, 
-            Göta Beckman, 
-            Britta Wretling, 
-            Kerstin Lundblad, 
-            Maud Olsson, 
-            Thyra Lindvall,
-            <name type="person" ref="#F1">Gurli Forsberg</name>, 
-            Margit Rotelius. 
-            Tåglottor, köket: <name type="person" ref="#J1"> Sigrid Jonsson</name>, 
-            Gunvor Stenberg, 
-            <name type="person" ref="#S5"> Kerstin Stenberg </name> , 
-            Siv Strandberg, 
-            Edit Åhgren. 
-            <name type="person" ref="#N1"> Thyra Nilsson</name>. 
-            Smörgåsberedning: Göta Backman, </p>
-         </div>
+        </div>
 
          <div type="page" n="3" facs="#sida_087_5-6e_resan.jpg">
-            <p> <name type="person" ref="#F2"> Aina Forsgren </name>, 
-            Thyra Lindvall, 
-            Vera Stjernvall, 
-            Rut Ringqvist 
-            Tjänstgöringstid: 737 tim. </p> 
+            <p> 
+             <name type="person" ref="#F2"> Aina Forsgren </name>, 
+             <name type="person" ref="#L2"> Thyra Lindvall </name>, 
+             <name type="person" ref="#S7">Vera Stjernvall</name>, 
+             <name type="person" ref="#R2">Rut Ringqvist</name> 
+            <hi rend="u"> Tjänstgöringstid: 737 tim. </hi> </p> 
 
-            <p>Femte Resan. 
-            Utspisningslottor: 
+            <p> <hi rend="u">Femte Resan. 
+            Utspisningslottor:</hi>
             <name type="person" ref="#B1"> Ester Berg</name>, 
-            Margit Carleborg, 
-            Göta Backman, 
-            Kerstin Lanlund, 
-            Thyra Lindvall, 
-            <name type="person" ref="#M1"> Sigrid Malmlund </name>, 
-            <name type="person" ref="#F2"> Aina Forsgren </name>, 
-            Hilma Berg, 
-            Märta Sundqvist, 
-            Maud Olsson och unglottor 
-            Tågchef: <name type="person" ref="#V2"> Elisabet Nilson</name> 
-            v. chef: Vera Stjernvall 
-            Tåglottor: Inga- Maj Gripenstam, 
-            Linnéa Svensson, 
-            Margit Rotelius, 
-            <name type="person" ref="#H1"> Lilian Hellberg</name>, 
-            Ida Andersson, 
-            Ragnhild Säfström, 
-            Estrid Gustafsson, 
+            <name type="person" ref="#C1">Margit Carleborg</name>, 
+            <name type="person" ref="#B4">Göta Beckman</name>, 
+            <name type="person" ref="#L6">Kerstin Lanlund</name>, 
+            <name type="person" ref="#L2">Thyra Lindvall</name>, 
+            <name type="person" ref="#M1">Sigrid Malmlund</name>, 
+            <name type="person" ref="#F2">Aina Forsgren</name>, 
+            <name type="person" ref="#B2">Hilma Berg</name>, 
+            <name type="person" ref="#S8">Märta Sundqvist</name>, 
+            <name type="person" ref="#O1">Maud Olsson</name> och unglottor 
+            <hi rend="u">Tågchef:</hi> <name type="person" ref="#V2"> Elisabet Nilson</name> 
+            <hi rend="u">v. chef:</hi> 
+            <name type="person" ref="#S7">Vera Stjernvall</name> 
+            <hi rend="u">Tåglottor:</hi> 
+            <name type="person" ref="#G4">Inga- Maj Gripenstam</name>, 
+            <name type="person" ref="#S9">Linnéa Svensson</name>, 
+            <name type="person" ref="#R1">Margit Rotelius</name>, 
+            <name type="person" ref="#H1">Lilian Hellberg</name>, 
+            <name type="person" ref="#A2">Ida Andersson</name>, 
+            <name type="person" ref="#S10">Ragnhild Säfström</name>, 
+            <name type="person" ref="#G2">Estrid Gustafsson</name>, 
             <name type="person" ref="#V1">Karin Wästfelt</name>, 
-            Rut Hellgren, 
-            Ulla Wästfelt, 
-            Gunnel Jörlen, 
-            Lilly Bäckman, 
-            Elsa Edstedt 
+            <name type="person" ref="#H6">Rut Hellgren</name>, 
+            <name type="person" ref="#V4">Ulla Wästfelt</name>, 
+            <name type="person" ref="#J4">Gunnel Jörlen</name>, 
+            <name type="person" ref="#B6">Lilly Bäckman</name>, 
+            <name type="person" ref="#E2">Elsa Edstedt</name> 
             Köket: 
             <name type="person" ref="#B1"> Ester Berg</name>, 
-            Dagmar Stocksén, 
-            Hanna Lindbladh. 
+            <name type="person" ref="#S11">Dagmar Stocksén</name>, 
+            <name type="person" ref="#L1"> Hanna Lindbladh</name>. 
             Smörgåsberedning: <name type="person" ref="#F2"> Aina Forsgren </name>, 
-            Vera Stjernvall, 
+            <name type="person" ref="#S7">Vera Stjernvall</name>, 
             <name type="person" ref="#M1"> Sigrid Malmlund </name>, 
-            Göta Backman. 
-            Tjänstgöringstid:1618 tim </p>
+            <name type="person" ref="#B4">Göta Beckman</name>. 
+            <hi rend="u"> Tjänstgöringstid:1618 tim </hi></p>
             
            <p>Sjätte resan: 
             Utspisningslottor: 
             <name type="person" ref="#B1"> Ester Berg</name>, 
-            Margit Carleborg, 
+            <name type="person" ref="#C1">Margit Carleborg</name>, 
+
             <name type="person" ref="#S3"> Jenny Sundström</name>, 
-<<<<<<< HEAD
-            <name type="person" ref= "#P1"> Gusti Pettersson </name> , 
-=======
-            <name type="person" ref="#P1"> Gusti Pettersson </name> , 
->>>>>>> 562095b5bb649acba19b4f8bd8c1b68551ef22ed
-            Rut Hellgren, 
-            Thyra Lindvall, 
+            <name type="person" ref="#P1"> Gusti Pettersson </name>, 
+
+            <name type="person" ref="#H6">Rut Hellgren</name>, 
+            <name type="person" ref="#L2"> Thyra Lindvall </name>, 
             <name type="person" ref="#F1">Gurli Forsberg</name>, 
-            Vilma Persson, 
-            Märta Sundqvist, 
-            Inga Birath 
-            Tågchef: <name type="person" ref="#K1"> Greta Krikortz </name> 
-            Tåglottor: Gerd Lundgren, 
-            <name type="person" ref="#M1"> Sigrid Malmlund </name> 
+            <name type="person" ref="#P2">Vilma Persson</name>, 
+            <name type="person" ref="#S8">Märta Sundqvist</name>, 
+            <name type="person" ref="#B7">Inga Birath</name> 
+            <hi rend="u">Tågchef:</hi> <name type="person" ref="#K1">Greta Krikortz</name> 
+            <hi rend="u"> Tåglottor:</hi> <name type="person" ref="#L8">Gerd Lundgren</name>, 
+            <name type="person" ref="#M1">Sigrid Malmlund</name> 
             Köket: 
             <name type="person" ref="#B1"> Ester Berg</name>, 
-            Hilma Berg, 
-            Britta Eriksson, 
-            Astrid Lundgren 
+            <name type="person" ref="B2">Hilma Berg</name>, 
+            <name type="person" ref="#E7">Britta Eriksson</name>, 
+            <name type="person" ref="#L9">Astrid Lundgren</name> 
             Smörgåsberedning: <name type="person" ref="#F1">Gurli Forsberg</name>, 
-            <name type="person" ref="#S3"> Jenny Sundström</name>, 
+            <name type="person" ref="#S1"> Jenny Sundström</name>, 
             <name type="person" ref="#F2"> Aina Forsgren </name>, 
-<<<<<<< HEAD
-            Thyra Lindvall, 
-            Gusti Pettersson, 
-            <name type="person" ref="#L2"> Thyra Lindwall </name> , 
-            <name type="person" ref="#P1"> Gusti Pettersson </name> , 
-
-=======
-            <name type="person" ref="#L2"> Thyra Lindwall </name> , 
-            <name type="person" ref="#P1"> Gusti Pettersson </name> , 
->>>>>>> 562095b5bb649acba19b4f8bd8c1b68551ef22ed
+            <name type="person" ref="#L2"> Thyra Lindvall </name>, 
+            <name type="person" ref="#P1"> Gusti Pettersson </name>, 
             <name type="person" ref="#K1"> Greta Krikortz </name> 
-            Tjänstgöringstid: 816 tim 
+            <hi rend="u"> Tjänstgöringstid: 816 tim</hi> 
             (Ordet smörgåsberedning var inte understruket på den 6:e resan men på alla andra) </p> 
          </div>
          <div type="page" n="4" facs="#sida_088_7-8-9e_resan">
-            
+            <p> 
 
-            <p>Sjunde resan. <lb/> <hi>Utspisningslottor:</hi> Göta Backman, 
-            Thyra Lindvall, 
-            <name type="person" ref="#S3"> Jenny Sundström</name>, 
-            Gusti Pettersson, 
-            Elsa Modig, 
-            Amy Sandström, 
-            <name type="person" ref="#V2"> Elisabet Nilson</name>, 
-            <name type="person" ref="#F1">Gurli Forsberg</name>, 
-            Vivi Engqvist, 
-            <name type="person" ref="#E4"> Ida Eriksson </name> , 
-            Lilly Johansson. 
-            Tågchef: <name type="person" ref="#V2"> Elisabet Nilson</name> 
-            v. chef: Inga- Maj Gripenstam 
-            Köket: Hanna Lindbladh, 
-            Dagmar Stocksén, 
-            Hilma Berg, 
-            Elsie Forsgren 
-            Tåglottor: Thyra Waller, 
-            Ragnhild Säfström, 
-            Edit Åhgren, 
-            Eva Åkerlund, 
-            Lulu Julin, 
-            Märta Öhlund, 
-            Birgit Jonsson. 
-            Smörgåsberedning: 
-            Thyra Lindvall, 
-            <name type="person" ref="#F2"> Aina Forsgren </name>, 
-            <name type="person" ref="#V2"> Elisabet Widén Nilsson</name>, 
-            Gudrun Backman, 
-            Göta Backman 
-            Tjänstgöringstid: 1264 tim. </p>
+<!-- Undertill är en dublettt av åttonde - tionde resan som ska tas bort, men än så länge står det kvar för de visar väl var sidbrytningarna sitter-->
+
+
+
+(två
+               tomma rader) 
+         
             
-            <p>Åttonde resan: 
-            Utspisningslottor. <name type="person" ref="#J1"> Sigrid Jonsson</name>, 
-            Amy Sundström, 
+              Hilma Berg, Elsi Fors-
+               gren. 
+               Tåglottor: Thyra Waller, Ragnhild
+               Säfström, Edit Åhgren, Eva Åker-
+               lund, Lulu Juhlin, Märtha Åhlund
+               Birgit Jansson. 
+               Smörgåsberedning: Thyra Lindvall
+               Aina Forsgren, Elisabet Nilson 
+               Gurli Forsberg, Gudrun Beckman, 
+               Göta Beckman
+               Tjänstgöringstid: 1264 tim.  
+               Nästa sida, samma uppslag: 
+            
+               Åttonde resan: 
+               Utspisningslottor: Sigrid Jonsson, 
+               Amy Sundström, Karin Wästfelt,
+               Märta Forsberg, Göta Beckman
+               Gudrun Beckman, Gunnel Jörlen
+               Jenny Sundström, Gurli Forsberg
+               Alma Bylund, Ida Eriksson, Sigrid
+               Jonsson, Edit Åhgren, Anna-Greta 
+               Johansson, Anna Forsgren. 
+               Tågchef: Elsa Welander
+               v. chef: Ingrid Lundström.
+               Smörgåsberedning: Elsa Edefelt, Anna-
+               Lisa dahl, Ann-Mari Hedman, Dagmar
+               Mark, Margi Svedbäck, Gertrud Såg-
+               ström
+               Tjänstgöringstid: 312 tim. 
+               
+               Nionde resan:
+               Utspisningslottor: Sigrid Jonsson, 
+               Märta Hedlund, Lilian Hellberg, Ingrid
+               Lindfors, Göta Beckman, Gudrun
+               Beckman, Jenny Sundström, Ida
+               Andersson, Aina Forsgren, Märta 
+               nästa sida/samma blad:
+               Forsberg, Gurli Forsberg, Vivvi Engqvist,
+               Alma Bylund, Teres Westin, Lilly
+               Beckman, Edit Åhgren, Anna-Mari
+               Hedlund.
+               Tågchef: Elisabet Nilson
+               v. chef. Ingrid Lundström
+               Margareta Svensson
+               Tåglottor: Elsa Modig 
+               Smörgåsberedning: Märta Forsberg
+               Gurli Forsberg, Aina Forsgren, Jen-
+               ny Sundström, Rut Ringqvist
+               Tjänstgöringstid: 673 tim. </p>
+               <!-- Slut på dubbletter-->
+               <p>
+                  <hi rend="u">Sjunde resan. <lb/> Utspisningslottor:</hi> 
+               <name type="person" ref="#B4">Göta Beckman</name>, 
+               <name type="person" ref="#L2">Thyra Lindvall</name>, 
+            <name type="person" ref="#S1">Jenny Sundström</name>, 
+            <name type="person" ref="#P1">Gusti Pettersson</name>, 
+            <name type="person" ref="#M3">Elsa Modig</name>, 
+            <name type="person" ref="#S12">Amy Sandström</name>, 
+            <name type="person" ref="#V2">Elisabet Nilson</name>, 
+            <name type="person" ref="#F1">Gurli Forsberg</name>, 
+            <name type="person" ref="#E8">Vivi Engqvist</name>, 
+            <name type="person" ref="#E4">Ida Eriksson</name>, 
+            <name type="person" ref="#J5">Lilly Johansson</name>. 
+            <hi rend="u">Tågchef:</hi> <name type="person" ref="#V2"> Elisabet Nilson</name> 
+            <hi rend="u">V. chef:</hi> <name type="person" ref="#G4">Inga- Maj Gripenstam</name> 
+            Köket: <name type="person" ref="#L1"> Hanna Lindbladh</name>, 
+            <name type="person" ref="#S11">Dagmar Stocksén</name>, 
+            <name type="person" ref="#B2">Hilma Berg</name>, 
+            <name type="person" ref="#F6">Elsie Fors- gren</name> 
+            <hi rend="u"> Tåglottor:</hi> <name type="person" ref="#V7">Thyra Waller</name>, 
+            <name type="person" ref="#S10">Ragnhild Säfström</name>, 
+            <name type="person" ref="#Å1">Edit Åhgren</name>, 
+            <name type="person" ref="#Å2">Eva Åkerlund</name>, 
+            <name type="person" ref="#J6">Lulu Julin</name>, 
+            Märta Öhlund, 
+            <name type="person" ref="#J7">Birgit Jonsson</name>. 
+            Smörgåsberedning: 
+            <name type="person" ref="#L2"> Thyra Lindvall </name>, 
+            <name type="person" ref="#F2"> Aina Forsgren </name>, 
+            <name type="person" ref="#V2"> Elisabet Nilson</name>, 
+            <name type="person" ref="#B8">Gudrun Beckman</name>, 
+            <name type="person" ref="#B4">Göta Beckman</name> 
+            <hi rend="u">Tjänstgöringstid: 1264 tim.</hi> </p>
+            
+            <p><hi rend="u">Åttonde resan: 
+            Utspisningslottor:</hi> <name type="person" ref="#J1"> Sigrid Jonsson</name>, 
+            <name type="person" ref="#S12">Amy Sandström</name>, 
             <name type="person" ref="#V1">Karin Wästfelt</name>, 
-            Märta Forsberg,
-            Göta Backman, 
-             Gudrun Backman, 
-             Gunnel Jörlen, 
-             <name type="person" ref="#S3"> Jenny Sundström</name>, 
-             <name type="person" ref="#F1">Carli Forsberg</name>, 
-             Alma Bylund, 
+            <name type="person" ref="#F5">Märta Forsberg</name>,
+            <name type="person" ref="#B4">Göta Beckman</name>, 
+            <name type="person" ref="#B8">Gudrun Beckman</name>, 
+             <name type="person" ref="#J4">Gunnel Jörlen</name>, 
+             <name type="person" ref="#S1"> Jenny Sundström</name>, 
+             <name type="person" ref="#F1">Gurli Forsberg</name>, 
+             <name type="person" ref="#B9">Alma Bylund</name>, 
              <name type="person" ref="#E4"> Ida Eriksson </name> , 
              <name type="person" ref="#J1"> Sigrid Jonsson</name>, 
-             Edit Åhgren, 
-             Anna- Greta Johansson, 
-             Anna Forsgren 
-             Tågchef: <name type= "person" ref="#V3">Elsa Welander</name>  v.chef: 
-             Ingrid Lundström 
-             Smörgåsberedning: Elsa Edstedt, 
+             <name type="person" ref="#Å1">Edit Åhgren</name>, 
+             <name type="person" ref="#J3">Anna- Greta Johansson</name>, 
+             <name type="person" ref="#F4">Anna Forsgren</name>.
+             <hi rend="u">Tågchef:</hi> <name type= "person" ref="#V3">Elsa Welander</name> 
+             <hi rend="u">V. chef:</hi> <name type="person" ref="#L10">Ingrid Lundström</name>. 
+             Smörgåsberedning: 
+             <name type="person" ref="#E2">Elsa Edstedt</name>, 
              Anna- Lisa Dahl, 
              Ann- Mari Hedman, 
              Dagmar Mark, 
              Margit Svedbäck, 
-             Gertrud Kågström 
-             Tjänstgöringstid: 312 tim. </p>
+             Gertrud Kågs- tröm 
+             Tjänstgöringstid: 312 tim. 
+            
+            
+       Gertrud Såg-
+             ström
+             
+            
+      
+            </p>
+
              
              <p>Nionde resan: 
              Utspisningslottor: <name type="person" ref="#J1"> Sigrid Jonsson</name>, 
-             Marta Hedlund, 
+             <name type="person" ref="H3">Marta Hedlund</name>, 
              <name type="person" ref="#H1"> Lilian Hellberg</name>, 
              Ingrid Lindfors, 
-             Göta Backman, 
-             <name type="person" ref="#S3"> Jenny Sundström</name>, 
-             Ida Andersson, 
+             <name type="person" ref="#B4">Göta Beckman</name>, 
+             <name type="person" ref="#B8">Gudrun Beckman</name>,
+             <name type="person" ref="#S1"> Jenny Sundström</name>, 
+             <name type="person" ref="A1">Elsa Andersson</name>, 
              <name type="person" ref="#F2"> Aina Forsgren </name>, 
-             Märta </p>
+             <name type="person" ref="#F5">Märta</name></p>
             </div>
 
             <div type="page" n="5" facs="#sida_089_10e_resan"> 
-             <p>Forsberg, 
-             <name type="person" ref="#F1">Carli Forsberg</name>, 
-             Vivi Engqvist, 
-             Alma Bylund, 
+             <p>  <name type="person" ref="#F5">Forsberg</name>
+             <name type="person" ref="#F1">Gurli Forsberg</name>, 
+             <name type="person" ref="#E8">Vivi Engqvist</name>, 
+             <name type="person" ref="#B9">Alma Bylund</name>, 
              Teres Westin, 
-             Lilly Backman, 
-             Edit Åhgren, 
+             Lilly Beckman, 
+             <name type="person" ref="#Å1">Edit Åhgren</name>, 
              Ann- Mari Hedman. 
-             Tågchef: <name type="person" ref="#V2">Elisabet Nilson</name> 
-             v.chef: Ingrid Lundström, 
+             <hi rend="u">Tågchef:</hi> <name type="person" ref="#V2">Elisabet Nilson</name> 
+             <hi rend="u">V. chef:</hi> <name type="person" ref="#L10">Ingrid Lundström</name>, 
              Margareta Svensson 
-             Tåglottor: Elsa Modig
-            Smörgåsberedning: Märta Forsberg, 
+             Tåglottor: <name type="person" ref="#M3">Elsa Modig</name>
+            Smörgåsberedning: <name type="person" ref="#F5">Märta Forsberg</name>, 
             <name type="person" ref="#F1">Gurli Forsberg</name>, 
             <name type="person" ref="#F2"> Aina Forsgren </name>, 
-            <name type="person" ref="#S3"> Jenny Sundström</name>, 
-            Rut Ringqvist 
-            Tjänstgöringstid: 673 tim </p>
-            
-            <p><hi>Tionde resan:</hi> 
-            <hi>Utspisningslottor:</hi> <name type="person" ref="#J1"> Sigrid Jonsson</name>, 
-            Göta Backman, 
-            Gudrun Backman, 
-            <name type="person" ref="#V1">Karin Wästfelt</name>, 
-            <name type="person" ref="#S3"> Jenny Sundström</name>, 
-            <name type="person" ref="#H1"> Lilian Hellberg</name>, 
-            Marta Hedlund, 
-            Ulla Wästfelt, 
-            Edit Åhgren, 
-            Alma Bylund Ester Berg Margit
-            Carleborg, Jenny Sundström, Gusti
-            Pettersson, Rut Hellgren, Thyra 
-            Lindvall, Gurli Forsberg, Vilma
-            Persson, Märta Sundqvist, Inga
-            Birath
-            Tågchef: Greta Krikortz
-            Tåglottor: Gerd Lundgren, Sigrid
-            Malmlund.
-            Köket: Ester Berg, Hilma Berg
-            Britta Eriksson, Astrid Lundgren
-            Smörgåsberedning: Gurli Forsberg
-            Jenny Sundström, Aina Forsgren,
-            Thyra Lindvall, Gusti Pettersson
-            Greta Krikortz. 
-            Tjänstgöringstid: 816 tim. 
-            (två
-            tomma rader) 
-            Nästa uppslag/nästa sid/ny fil 88:
-            Sjunde resan: 
-            Utspisningslottor: Göta Beckman
-            Thyra Lindvall, Jenny Sundström, 
-            Gusti Pettersson, Elsa Modig,
-            Amy Sandström, Elisabet Nilson, 
-            Gurli Forsberg, Vivvi Sundqvist, Ida 
-            Eriksson, Lilly Johansson. 
-            Tågchef: Elisabet Nilson
-            v. chef: Inga-Maj Gripenstam
-            Köket: Hanna Lindbladh, Dagmar
-            Stocksén, Hilma Berg, Elsi Fors-
-            gren. 
-            Tåglottor: Thyra Waller, Ragnhild
-            Säfström, Edit Åhgren, Eva Åker-
-            lund, Lulu Juhlin, Märtha Åhlund
-            Birgit Jansson. 
-            Smörgåsberedning: Thyra Lindvall
-            Aina Forsgren, Elisabet Nilson 
-            Gurli Forsberg, Gudrun Beckman, 
-            Göta Beckman
-            Tjänstgöringstid: 1264 tim.  
-            Nästa sida, samma uppslag: 
-            Åttonde resan: 
-            Utspisningslottor: Sigrid Jonsson, 
-            Amy Sundström, Karin Wästfelt,
-            Märta Forsberg, Göta Beckman
-            Gudrun Beckman, Gunnel Jörlen
-            Jenny Sundström, Gurli Forsberg
-            Alma Bylund, Ida Eriksson, Sigrid
-            Jonsson, Edit Åhgren, Anna-Greta 
-            Johansson, Anna Forsgren. 
-            Tågchef: Elsa Welander
-            v. chef: Ingrid Lundström.
-            Smörgåsberedning: Elsa Edefelt, Anna-
-            Lisa dahl, Ann-Mari Hedman, Dagmar
-            Mark, Margi Svedbäck, Gertrud Såg-
-            ström
-            Tjänstgöringstid: 312 tim. 
-            
-            Nionde resan:
-            Utspisningslottor: Sigrid Jonsson, 
-            Märta Hedlund, Lilian Hellberg, Ingrid
-            Lindfors, Göta Beckman, Gudrun
-            Beckman, Jenny Sundström, Ida
-            Andersson, Aina Forsgren, Märta 
-            nästa sida/samma blad:
-            Forsberg, Gurli Forsberg, Vivvi Engqvist,
-            Alma Bylund, Teres Westin, Lilly
-            Beckman, Edit Åhgren, Anna-Mari
-            Hedlund.
-            Tågchef: Elisabet Nilson
-            v. chef. Ingrid Lundström
-            Margareta Svensson
-            Tåglottor: Elsa Modig 
-            Smörgåsberedning: Märta Forsberg
-            Gurli Forsberg, Aina Forsgren, Jen-
-            ny Sundström, Rut Ringqvist
-            Tjänstgöringstid: 673 tim. 
-            
-            Tionde resan:
-            Utspisningslottor: Sigrid Jonsson
-            Göta Beckman, Gudrun Beckman
-            Karin Wästfelt, Jenny Sund-
-            ström, Lilian Hellberg, Marta
-            Helund, Ulla Wästfelt, Edit
-            Åhgren, Alma Bylund
-            Smörgåsberedning: Märta Almqvist,
-            Märta Sundqvist, Sigrid Jonsson
-            Aina Forsgren, Anna-Greta Johans
-            nästa sida/annat blad: 
-            son, Gudrun Beckman, Göta Beck
-            man. 
-            Tjänstgöringstid: 410 tim. 
-            (två tomma rader) 
-            
-            Under tiden 
-            15 juli - 10 okt. tjänst-
-            gjorde Ester Berg som husmor vid 
-            finska barnkarantänförläggningen
-            i Vännäs. 
-            Tjänstgöringstid: 2064 tim. 
-            
-            
-            (två tomma rader) 
-            Under tiden 12 juli - 13 juli tjänstgjorde
-            följande lottor som karantäns-
-            lottor vid I20: Ragnhild Lundgren 
-            Ingrid Westin, Lilly Lagerdahl
-            Hilma Berg, Sally Lundin, Elna 
-            Swahn, Tekla Bengtsson, Sigrid
-            Jonsson, Ester Berg, Siv Strandberg 
+            <name type="person" ref="#S1"> Jen- ny Sundström</name>, 
+            <name type="person" ref="#R2">Rut Ringqvist</name> 
+            Tjänstgöringstid: 673 tim 
+         
+          
            
-            Smörgåsberedning: Märta Ahnqvist, 
-            Märta Sundqvist, 
+         </p>
+            
+            <p><hi rend="u">Tionde resan:
+          Utspisningslottor:</hi> <name type="person" ref="#J1"> Sigrid Jonsson</name>, 
+            <name type="person" ref="#B4">Göta Beckman</name>, 
+            <name type="person" ref="#B8">Gudrun Beckman</name>, 
+            <name type="person" ref="#V1">Karin Wästfelt</name>, 
+            <name type="person" ref="#S1"> Jenny Sund- ström</name>, 
+            <name type="person" ref="#H1"> Lilian Hellberg</name>, 
+            <name type="person" ref="H3">Marta Hedlund</name>, 
+            <name type="person" ref="#V4">Ulla Wästfelt</name>, 
+            <name type="person" ref="#Å1">Edit Åhgren</name>, 
+            <name type="person" ref="#B9">Alma Bylund</name>
+
+            Smörgåsberedning: Märta Almqvist,
+            <name type="person" ref="#S8">Märta Sundqvist</name>,
             <name type="person" ref="#J1"> Sigrid Jonsson</name>, 
             <name type="person" ref="#F2"> Aina Forsgren </name>, 
-            Anna- Greta Johansson, 
-            Gudrun Backman, 
+            <name type="person" ref="#J3">Anna- Greta Johansson</name>, 
+            <name type="person" ref="#B8">Gudrun Beckman</name>, 
+            <name type="person" ref="#B4">Göta Beckman</name>. 
+            <hi rend="u">Tjänstgöringstid: 410 tim.</hi> 
+
+           
+
+         
+           
             
-            Göta Backman.
-            <hi>Tjänstgöringstid: 410 tim.</hi> 
             <lb/>
             <lb/>
-               
                <!-- (två tomma rader) ovan --> 
-               
             Under tiden <lb/>
             15 juli - 10 okt. tjänst-
-            gjorde Ester Berg som husmor vid 
+            gjorde <name type="person" ref="#B1">Ester Berg</name> som husmor vid 
             finska barnkarantänförläggningen
             i Vännäs. 
             Tjänstgöringstid: 2064 tim. 
-            
-            
-            (två tomma rader) 
+            <lb/>
+            <lb/>
             Under tiden 12 juli - 13 juli tjänstgjorde
             följande lottor som karantäns-
             lottor vid I20: Ragnhild Lundgren 
             Ingrid Westin, Lilly Lagerdahl
             Hilma Berg, Sally Lundin, Elna 
             Swahn, Tekla Bengtsson, Sigrid
-            Jonsson, Ester Berg, Siv Strandberg 
+            Jonsson, <name type="person" ref="#B1">Ester Berg</name>, <name type="person" ref="#S6">Siv Strandberg</name> 
             
             Tjänstgöringstid: 144 tim.
-            
-
-            Göta Backman. 
-            Tjänstgöringstid: 410 tim. 
          </p>
       </div>
       </div>
@@ -978,13 +1617,14 @@ Vid detta tillfälle arbetade 501 lottor under 743 timmar.</p>
 
 <p>Även under detta arbetsår ha lottorna varit anlitade av <name type="org" ref="https://riksarkivet.se/motkallorna/hjalpkommitten-for-finlands-barn"><hi rend="u">Hjälpkommitten för Finlands barn.</hi> </name>
    Lottorna ha skött utspisning och transporter. 
-Barnen kom-mo med båt till <name type="place" ref="#holmsund">Holmsund</name>. Härifrån fördes de sedan till <name type="place" ref="#umea">Umeå</name> där de badades och undersöktes av läkare.  
-Inte mindre an(korrigering än) 10 sådåna(korrigering sådana) trans - porter över <name type="place" ref="#umea">Umeå</name>. Varje trans-port bestod av mellan 650 - 800 barn. 
+Barnen kom- mo med båt till <name type="place" ref="#holmsund">Holmsund</name>. 
+Härifrån fördes de sedan till <name type="place" ref="#umea">Umeå</name> där de badades och undersöktes av läkare.  
+Inte mindre <choice> <sic>an</sic> <corr>än</corr></choice> 10 <choice> <sic>sådåna</sic> <corr>sådana</corr></choice>  trans - porter över <name type="place" ref="#umea">Umeå</name>. Varje trans-port bestod av mellan 650 - 800 barn. 
 Barnen anlände i allmänhet på kvällen, men de fingo stanna ombord på båtenöver natten. Första mål serverades <add place="above">på båten</add> tidigt på morgonen följande dag. 
 <del>De andra målen</del> Middag och kväll serverades på <name type="place"> Nya folk-skolan</name>. 
 På kvällen överför-des barnen till det militära sjuktåget, som ställts till förfogande. Utspisningen under resan ombesörgdes av lottorna. Med tåget följde nämligen en köksvagn. 
-Under den tid transporterna pågingo var ett kara-tänläger anordnat i Vännäs. Här tjänstgjorde en lotta som förplägg-ningschef och en som husmor. 
-Under en del hemtransporter av(korrigering de) finska barnen har även lot-torna tjänstgjort.</p>
+Under den tid transporterna pågingo var ett kara-tänläger anordnat i <name type="place">Vännäs</name>. Här tjänstgjorde en lotta som förplägg-ningschef och en som husmor. 
+Under en del hemtransporter av <choice> <supplied>de</supplied></choice> finska barnen har även lot-torna tjänstgjort.</p>
 
 <p> <hi rend="u">278 lottor ha tjänstgjort med 14890 tim.</hi></p>
 
@@ -1001,15 +1641,16 @@ Under den kurs som hölls för hemvärnsområdesbefälhavarna tiden 6, 7 och 8 a
 Matlagning och servering sköttes av lottorna. Vid övningen den 27 maj bjödo lottorna Hem-värnet på kaffe i <name type="place" ref="#I20">I 20 matsal</name>. 
 För Hemvärnet ha således <hi rend="u">37 lottor arbetat 328 tim.</hi></p>
 
-<p>Under den tid då <hi rend="u">finnarna evakuerades </hi>över till Sverige, hjälpte lottorna till med utspisning vid deras ankomst. 
-   Vid de <hi rend="u">evakuerings-läger </hi>som inrättades bl.a. i Böleå - Teg, Röbäck, Stöcke och Alabböle tjänstgjorde även lottor.
+<p>Under den tid då <hi rend="u">finnarna evakuerades </hi>över till <name type="place">Sverige</name>, hjälpte lottorna till med utspisning vid deras ankomst. 
+   Vid de <hi rend="u">evakuerings-läger </hi>som inrättades bl.a. i 
+   <name type="place">Böleå - Teg</name>, <name type="place">Röbäck</name>, <name type="place">Stöcke</name> och <name type="place">Alabböle</name> tjänstgjorde även lottor.
 
    <hi rend="u">82 lottor med 9873 tjänstgöringstim.</hi></p>
 
 <p>På <hi rend="u">Luciadagens morgon </hi>bjödo lottorna krigsinvaliderna på kaffe och “lussebullar”. 
-   På <hi rend="u">jul-aftonen </hi>besökte lottorna ett beredskapskompani på Gimo-näs samt de evakueringsläger där lottor tjänstgjorde. 
+   På <hi rend="u">jul-aftonen </hi>besökte lottorna ett beredskapskompani på <name type="place">Gimo-näs</name> samt de evakueringsläger där lottor tjänstgjorde. 
 Alla bjödos på kaffe, gott bröd och <hi rend="u">tårta. 18 lottor 64 tim.</hi></p>
-<p>För <hi rend="u">insamling av pengar </hi> ha lottorna anordnat en bridgeafton, två danser på <name type="place" ref="#I20">I 20</name>, 1 dans på Stora Hotellet och 1 dans i <name type="place" ref="#I20">I:20</name>.
+<p>För <hi rend="u">insamling av pengar </hi> ha lottorna anordnat en bridgeafton, två danser på <name type="place" ref="#I20">I 20</name>, 1 dans på <name type="place">Stora Hotellet</name> och 1 dans i <name type="place" ref="#I20">I:20</name>.
 Dessutom ha lottorna haft den sedvanliga </p>
 </div>
 <div type="page" n="9">
