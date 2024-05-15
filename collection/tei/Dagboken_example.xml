@@ -1324,10 +1324,7 @@ porter gingo över <name type="place" ref="#umea">Umeå</name>.<lb/>
             </unclear>Berg </name>,
                <name type="person" ref="#T1">Greta Thulin</name>, 
                <name type="person" ref="#V4">Ulla Wästfelt</name>, 
- 
-               
                <hi rend="u">Tjänstgöringstid: 1244 tim.</hi>
-
                   </p> 
                   
                </div>
@@ -1410,7 +1407,6 @@ och <name type="person" ref="#J3">Anna- Greta Johansson</name>.
 <name type="person" ref="#N1"> Thyra Nilsson</name>. 
 <hi rend="u">Smörgåsberedning:</hi>  
 <name type="person" ref="#B4">Göta Beckman</name>
-         
          </p>
 
             
@@ -1464,8 +1460,8 @@ och <name type="person" ref="#J3">Anna- Greta Johansson</name>.
             <name type="person" ref="#B4">Göta Beckman</name>. 
             <hi rend="u"> Tjänstgöringstid:1618 tim </hi></p>
             
-           <p>Sjätte resan: 
-            Utspisningslottor: 
+           <p> <hi rend="u"> Sjätte resan: 
+            Utspisningslottor:</hi>
             <name type="person" ref="#B1"> Ester Berg</name>, 
             <name type="person" ref="#C1">Margit Carleborg</name>, 
 
