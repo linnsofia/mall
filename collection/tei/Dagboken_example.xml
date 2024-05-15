@@ -157,7 +157,6 @@ En lista på person, plats och organisationsnamn förekommer i ett <gi>offisde</
   <standOff>
    <listPerson>
 
-
       <person xml:id="A1">
             <persName>
                <forename>Elsa</forename><surname>Andersson</surname> 
@@ -238,7 +237,6 @@ En lista på person, plats och organisationsnamn förekommer i ett <gi>offisde</
          <birth notAfter="1939"></birth>
          <sex>Kvinna</sex>
       </person>
-
       <person xml:id="B7">
          <persName>
             <forename>Inga</forename><surname>Birath</surname> 
@@ -325,11 +323,10 @@ En lista på person, plats och organisationsnamn förekommer i ett <gi>offisde</
             <forename>Ida</forename><surname>Eriksson</surname> 
          </persName>
          <affiliation>Umeå lottakår</affiliation>
-         <note>Uppgifter inom kåren som kunnat fastställas: </note>
+         <note>Uppgifter inom kåren som kunnat fastställas: utspisningslotta, köksarbetare</note>
          <birth notAfter="1939"></birth>
          <sex>Kvinna</sex>
       </person>
-
       <person xml:id="E5">
          <persName>
             <forename>Karin</forename><surname>Ekesthål</surname> 
@@ -339,7 +336,6 @@ En lista på person, plats och organisationsnamn förekommer i ett <gi>offisde</
          <birth notAfter="1939"></birth>
          <sex>Kvinna</sex>
       </person>
-
       <person xml:id="E6">
          <persName>
             <forename>Magda</forename><surname>Eriksson</surname> 
@@ -349,13 +345,12 @@ En lista på person, plats och organisationsnamn förekommer i ett <gi>offisde</
          <birth notAfter="1939"></birth>
          <sex>Kvinna</sex>
       </person>
-
       <person xml:id="E7">
          <persName>
             <forename>Britta</forename><surname>Eriksson</surname> 
          </persName>
          <affiliation>Umeå lottakår</affiliation>
-         <note>Uppgifter inom kåren som kunnat fastställas: </note>
+         <note>Uppgifter inom kåren som kunnat fastställas: köksarbetare</note>
          <birth notAfter="1939"></birth>
          <sex>Kvinna</sex>
       </person>
@@ -373,7 +368,7 @@ En lista på person, plats och organisationsnamn förekommer i ett <gi>offisde</
 <forename>Gurli</forename><surname>Forsberg</surname>
         </persName>
         <affiliation>Umeå lottakår</affiliation>
-        <note>Uppgifter inom kåren som kunnat fastställas: </note>
+        <note>Uppgifter inom kåren som kunnat fastställas: utspisningslotta, smörgåsberedare</note>
         <birth notAfter="1939"></birth>
         <sex>Kvinna</sex>
       </person>
@@ -386,7 +381,6 @@ En lista på person, plats och organisationsnamn förekommer i ett <gi>offisde</
          <birth notAfter="1939"></birth>
          <sex>Kvinna</sex>
       </person>
-
       <person xml:id="F3">
          <persName>
             <forename>Karin</forename><surname>Fhalén</surname> 
@@ -396,7 +390,6 @@ En lista på person, plats och organisationsnamn förekommer i ett <gi>offisde</
          <birth notAfter="1939"></birth>
          <sex>Kvinna</sex>
       </person>
-
       <person xml:id="F4">
          <persName>
             <forename>Anna</forename><surname>Forsgren</surname> 
@@ -406,7 +399,6 @@ En lista på person, plats och organisationsnamn förekommer i ett <gi>offisde</
          <birth notAfter="1939"></birth>
          <sex>Kvinna</sex>
       </person>
-
       <person xml:id="F5">
          <persName>
             <forename>Märta</forename><surname>Forsberg</surname> 
@@ -416,7 +408,6 @@ En lista på person, plats och organisationsnamn förekommer i ett <gi>offisde</
          <birth notAfter="1939"></birth>
          <sex>Kvinna</sex>
       </person>
-
       <person xml:id="F6">
          <persName>
             <forename>Elsie</forename><surname>Forgren</surname> 
@@ -426,7 +417,6 @@ En lista på person, plats och organisationsnamn förekommer i ett <gi>offisde</
          <birth notAfter="1939"></birth>
          <sex>Kvinna</sex>
       </person>
-
       <person xml:id="G1">
          <persName>
             <forename>Teres</forename><surname>Westin Gustafsson</surname> 
@@ -436,7 +426,6 @@ En lista på person, plats och organisationsnamn förekommer i ett <gi>offisde</
          <birth notAfter="1939"></birth>
          <sex>Kvinna</sex>
       </person>
-     
       <person xml:id="G2">
          <persName>
             <forename>Irene</forename><surname>Gustafsson</surname> 
@@ -455,7 +444,6 @@ En lista på person, plats och organisationsnamn förekommer i ett <gi>offisde</
          <birth notAfter="1939"></birth>
          <sex>Kvinna</sex>
       </person>
-
       <person xml:id="G4">
          <persName>
             <forename>Inga-Maj</forename><surname>Gripenstam</surname> 
@@ -465,17 +453,15 @@ En lista på person, plats och organisationsnamn förekommer i ett <gi>offisde</
          <birth notAfter="1939"></birth>
          <sex>Kvinna</sex>
       </person>
-
       <person xml:id="H1">
          <persName>
  <forename>Lilian</forename><surname>Hellberg</surname>
          </persName>
          <affiliation>Umeå lottakår</affiliation>
-         <note>Uppgifter inom kåren som kunnat fastställas: </note>
+         <note>Uppgifter inom kåren som kunnat fastställas: utspisningslotta, tåglotta</note>
          <birth notAfter="1939"></birth>
          <sex>Kvinna</sex>
        </person>
-
        <person xml:id="H2">
          <persName>
             <forename>Barbro</forename><surname>Hedlund</surname> 
@@ -512,7 +498,6 @@ En lista på person, plats och organisationsnamn förekommer i ett <gi>offisde</
          <birth notAfter="1939"></birth>
          <sex>Kvinna</sex>
       </person>
-
       <person xml:id="H6">
          <persName>
             <forename>Rut</forename><surname>Hellgren</surname> 
@@ -522,7 +507,6 @@ En lista på person, plats och organisationsnamn förekommer i ett <gi>offisde</
          <birth notAfter="1939"></birth>
          <sex>Kvinna</sex>
       </person>
-
       <person xml:id="H7">
          <persName>
             <forename>Ann-Mari</forename><surname>Hedman</surname> 
@@ -532,8 +516,6 @@ En lista på person, plats och organisationsnamn förekommer i ett <gi>offisde</
          <birth notAfter="1939"></birth>
          <sex>Kvinna</sex>
       </person>
-
-     
        <person xml:id="J1">
          <persName>
             <forename>Sigrid</forename><surname>Jonsson</surname> 
@@ -543,7 +525,6 @@ En lista på person, plats och organisationsnamn förekommer i ett <gi>offisde</
          <birth notAfter="1939"></birth>
          <sex>Kvinna</sex>
       </person>
-
       <person xml:id="J2">
          <persName>
             <forename>Gunnel</forename><surname> Jörlén Jonsson</surname> 
@@ -553,7 +534,6 @@ En lista på person, plats och organisationsnamn förekommer i ett <gi>offisde</
          <birth notAfter="1939"></birth>
          <sex>Kvinna</sex>
       </person>
-
       <person xml:id="J3">
          <persName>
             <forename>Anna- Greta</forename><surname>Johansson</surname> 
@@ -563,7 +543,6 @@ En lista på person, plats och organisationsnamn förekommer i ett <gi>offisde</
          <birth notAfter="1939"></birth>
          <sex>Kvinna</sex>
       </person>
-
       <person xml:id="J4">
          <persName>
             <forename>Gunnel</forename><surname>Jörlen</surname> 
@@ -573,7 +552,6 @@ En lista på person, plats och organisationsnamn förekommer i ett <gi>offisde</
          <birth notAfter="1939"></birth>
          <sex>Kvinna</sex>
       </person>
-
       <person xml:id="J5">
          <persName>
             <forename>Lilly</forename><surname>Johansson</surname> 
@@ -583,7 +561,6 @@ En lista på person, plats och organisationsnamn förekommer i ett <gi>offisde</
          <birth notAfter="1939"></birth>
          <sex>Kvinna</sex>
       </person>
-
       <person xml:id="J6">
          <persName>
             <forename>Lulu</forename><surname>Julin</surname> 
@@ -593,7 +570,6 @@ En lista på person, plats och organisationsnamn förekommer i ett <gi>offisde</
          <birth notAfter="1939"></birth>
          <sex>Kvinna</sex>
       </person>
-
       <person xml:id="J7">
          <persName>
             <forename>Birgit</forename><surname>Jonsson</surname> 
@@ -603,8 +579,6 @@ En lista på person, plats och organisationsnamn förekommer i ett <gi>offisde</
          <birth notAfter="1939"></birth>
          <sex>Kvinna</sex>
       </person>
-
-
       <person xml:id="K1">
          <persName>
             <forename>Greta</forename><surname>Krikortz</surname> 
@@ -614,7 +588,15 @@ En lista på person, plats och organisationsnamn förekommer i ett <gi>offisde</
          <birth notAfter="1939"></birth>
          <sex>Kvinna</sex>
       </person>
-       
+      <person xml:id="K2">
+         <persName>
+            <forename>Gertrud</forename><surname>Kågström</surname> 
+         </persName>
+         <affiliation>Umeå lottakår</affiliation>
+         <note>Uppgifter inom kåren som kunnat fastställas: smörgåsberedare</note>
+         <birth notAfter="1939"></birth>
+         <sex>Kvinna</sex>
+      </person>
       <person xml:id="L1">
          <persName>
             <forename>Hanna</forename><surname>Lindbladh</surname> 
@@ -759,7 +741,6 @@ En lista på person, plats och organisationsnamn förekommer i ett <gi>offisde</
          <birth notAfter="1939"></birth>
          <sex>Kvinna</sex>
       </person>
-
       <person xml:id="M4">
          <persName>
             <forename>Dagmar</forename><surname>Mark</surname> 
@@ -774,7 +755,7 @@ En lista på person, plats och organisationsnamn förekommer i ett <gi>offisde</
             <forename>Thyra</forename><surname>Nilsson</surname> 
          </persName>
          <affiliation>Umeå lottakår</affiliation>
-         <note>Uppgifter inom kåren som kunnat fastställas: </note>
+         <note>Uppgifter inom kåren som kunnat fastställas: utspisningslotta, köksarbetare</note>
          <birth notAfter="1939"></birth>
          <sex>Kvinna</sex>
       </person>
@@ -783,7 +764,7 @@ En lista på person, plats och organisationsnamn förekommer i ett <gi>offisde</
             <forename>Elisabet</forename><surname>Nilson</surname> 
          </persName>
          <affiliation>Umeå lottakår</affiliation>
-         <note>Uppgifter inom kåren som kunnat fastställas: </note>
+         <note>Uppgifter inom kåren som kunnat fastställas: förplägnadschef, tågchef, utspisningslotta, smörgåsberedare</note>
          <birth notAfter="1939"></birth>
          <sex>Kvinna</sex>
       </person>
@@ -846,7 +827,7 @@ En lista på person, plats och organisationsnamn förekommer i ett <gi>offisde</
             <forename>Lisa</forename><surname>Sundqvist</surname> 
          </persName>
          <affiliation>Umeå lottakår</affiliation>
-         <note>Uppgifter inom kåren som kunnat fastställas: </note>
+         <note>Uppgifter inom kåren som kunnat fastställas: utspisningslotta</note>
          <birth notAfter="1939"></birth>
          <sex>Kvinna</sex>
       </person>
@@ -982,7 +963,7 @@ En lista på person, plats och organisationsnamn förekommer i ett <gi>offisde</
             <forename>Karin</forename><surname>Wästfelt</surname> 
          </persName>
          <affiliation>Umeå lottakår</affiliation>
-         <note>Uppgifter inom kåren som kunnat fastställas: </note>
+         <note>Uppgifter inom kåren som kunnat fastställas: utspisningslotta, tåglotta</note>
          <birth notAfter="1939"></birth>
          <sex>Kvinna</sex>
       </person>
@@ -995,7 +976,6 @@ En lista på person, plats och organisationsnamn förekommer i ett <gi>offisde</
          <birth notAfter="1939"></birth>
          <sex>Kvinna</sex>
       </person>
-
       <person xml:id="V3">
          <persName>
             <forename>Elsa</forename><surname>Welander</surname> 
@@ -1005,8 +985,6 @@ En lista på person, plats och organisationsnamn förekommer i ett <gi>offisde</
          <birth notAfter="1939"></birth>
          <sex>Kvinna</sex>
          </person>
-
-       
          <person xml:id="V4">
             <persName>
                <forename>Ulla</forename><surname>Wästfelt</surname> 
@@ -1025,7 +1003,6 @@ En lista på person, plats och organisationsnamn förekommer i ett <gi>offisde</
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
          </person>
-
          <person xml:id="V6">
             <persName>
                <forename>Britta</forename><surname>Wretling</surname> 
@@ -1035,7 +1012,6 @@ En lista på person, plats och organisationsnamn förekommer i ett <gi>offisde</
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
          </person>
-
          <person xml:id="V7">
             <persName>
                <forename>Thyra</forename><surname>Waller</surname> 
@@ -1045,8 +1021,6 @@ En lista på person, plats och organisationsnamn förekommer i ett <gi>offisde</
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
          </person>
-
-
          <person xml:id="V8">
             <persName>
                <forename>Ingrid</forename><surname>Westin</surname> 
@@ -1056,8 +1030,6 @@ En lista på person, plats och organisationsnamn förekommer i ett <gi>offisde</
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
          </person>
-       
-      
          <person xml:id="Å1">
             <persName>
                <forename>Edit</forename><surname>Åhgren</surname> 
@@ -1067,7 +1039,6 @@ En lista på person, plats och organisationsnamn förekommer i ett <gi>offisde</
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
          </person>
-
          <person xml:id="Å2">
             <persName>
                <forename>Eva</forename><surname>Åkerlund</surname> 
@@ -1077,11 +1048,17 @@ En lista på person, plats och organisationsnamn förekommer i ett <gi>offisde</
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
          </person>
-       
+         <person xml:id="Ö1">
+         <persName>
+            <forename>Märta</forename><surname>Öhlund</surname> 
+         </persName>
+         <affiliation>Umeå lottakår</affiliation>
+         <note>Uppgifter inom kåren som kunnat fastställas: tåglotta</note>
+         <birth notAfter="1939"></birth>
+         <sex>Kvinna</sex>
+      </person>
       </listPerson>
-     
-
-   <listPlace>
+       <listPlace>
       <place xml:id="umea" type="city">
          <settlement>Umeå</settlement>
          <location> <geo>63°49 42″N 20°16 14″Ö</geo></location>
@@ -1194,6 +1171,43 @@ En lista på person, plats och organisationsnamn förekommer i ett <gi>offisde</
             </figDesc>
             <graphic url="assets/img/documents/sida_089_10e_resan.jpg"/>
             <graphic url="../collection/img/sida_089.tiff"></graphic>
+         </figure>
+      </surface>
+      <surface xml:id="sida_099_Översikt_arbetsåret">
+         <figure>
+            <label>Tionde resan</label>
+            <figDesc>
+               Översikten i slutet av fältdagboken.
+            </figDesc>
+            <graphic url="assets/img/documents/sida_099_Översikt_arbetsåret.jpg"/>
+            <graphic url="../collection/img/sida_099.tiff"></graphic>
+         </figure>
+      </surface>
+      <surface xml:id="sida_100">
+         <figure>
+            <label>Tionde resan</label>
+            <figDesc>
+               Översikten i slutet av fältdagboken.
+            </figDesc>
+            <graphic url="assets/img/documents/sida_100.jpg"> </graphic>
+         </figure>
+      </surface>
+      <surface xml:id="sida_101">
+         <figure>
+            <label>Tionde resan</label>
+            <figDesc>
+               Översikten i slutet av fältdagboken.
+            </figDesc>
+            <graphic url="assets/img/documents/sida_101.jpg"> </graphic>
+         </figure>
+      </surface>
+      <surface xml:id="sida_102">
+         <figure>
+            <label>Tionde resan</label>
+            <figDesc>
+               Översikten i slutet av fältdagboken.
+            </figDesc>
+            <graphic url="assets/img/documents/sida_102.jpg"> </graphic>
          </figure>
       </surface>
       </facsimile>
@@ -1556,7 +1570,7 @@ och <name type="person" ref="#J3">Anna- Greta Johansson</name>.
             <name type="person" ref="#Å1">Edit Åhgren</name>, 
             <name type="person" ref="#Å2">Eva Åkerlund</name>, 
             <name type="person" ref="#J6">Lulu Julin</name>, 
-            Märta Öhlund, 
+            <name type="person" ref="#Ö1">Märta Öhlund</name>, 
             <name type="person" ref="#J7">Birgit Jonsson</name>. 
             <hi rend="u">Smörgåsberedning:</hi>  
             <name type="person" ref="#L2"> Thyra Lindvall </name>, 
@@ -1590,11 +1604,11 @@ och <name type="person" ref="#J3">Anna- Greta Johansson</name>.
              <name type="person" ref="#H">Ann- Mari Hedman</name>, 
              <name type="person" ref="#M4">Dagmar Mark</name>, 
              <name type="person" ref="#S13">Margit Svedbäck</name>, 
-             Gertrud Kågs- tröm 
+             <name type="person" ref="#K2">Gertrud Kågs- tröm</name> 
              <hi rend="u">Tjänstgöringstid: 312 tim.</hi> 
          
             </p>
-
+           
              
              <p><hi rend="u"> Nionde resan: 
              Utspisningslottor:</hi> <name type="person" ref="#J1"> Sigrid Jonsson</name>, 
@@ -1685,7 +1699,7 @@ och <name type="person" ref="#J3">Anna- Greta Johansson</name>.
       </div>
 
       <div type="rapport" n="2">
-         <div type="page" n="6">
+         <div type="page" n="6" facs="#sida_099_Översikt_arbetsåret">
          <p>
             <hi rend="u2">Översikt av arbetsåret 1/7 1944 - 30/6 1945 </hi> </p>
 
@@ -1712,7 +1726,7 @@ Vid detta tillfälle arbetade 501 lottor under 743 timmar.</p>
 
    <hi rend="u">52 lottor 250 tim.</hi></p>
 </div>
-<div type="page" n="7">
+<div type="page" n="7" facs="#sida_100">
 
 <p>Även under detta arbetsår ha lottorna varit anlitade av <ref target="https://riksarkivet.se/motkallorna/hjalpkommitten-for-finlands-barn"> <name type="org" ref="#hjalp"><hi rend="u">Hjälpkommitten för Finlands barn.</hi> </name></ref>
    Lottorna ha skött utspisning och transporter. 
@@ -1732,7 +1746,7 @@ Två lottor skötte expeditionsar-betet. För att få in pengar till julklapparn
 
 <hi rend="u">16 lottor med 372 tim.</hi></p>
 </div>
-<div type="page" n="8">
+<div type="page" n="8" facs="#sida_101">
 
 <p>Vid de övningar <hi rend="u">Hemvär-net</hi> anordnat i <name type="place" ref="#umea">Umeå</name> den 11 och 12 mars serverade lottorna kaffe, bröd och varm mjölk uppe på paviljongen. 
 Andra dagen var middag anordnad i <name type="place" ref="#I20">I 20 matsal</name>, där lottorna skötte serveringen. 
@@ -1752,7 +1766,7 @@ Alla bjödos på kaffe, gott bröd och <hi rend="u">tårta. 18 lottor 64 tim.</h
 <p>För <hi rend="u">insamling av pengar </hi> ha lottorna anordnat en bridgeafton, två danser på <name type="place" ref="#I20">I 20</name>, 1 dans på <name type="place">Stora Hotellet</name> och 1 dans i <name type="place" ref="#I20">I:20</name>.
 Dessutom ha lottorna haft den sedvanliga </p>
 </div>
-<div type="page" n="9">
+<div type="page" n="9" facs="#sida_102">
 
 <p>julförsäljningen. Denna gång hölls den i kyrksalen. Kaffe-serveringen sköttes då av <name type="org" ref="#lc">L-c lottorna</name> . 
 Vid alla dessa till-ställnignar ha lottorna en <hi rend="u">ar-betstid av 1012 tim.</hi></p>
