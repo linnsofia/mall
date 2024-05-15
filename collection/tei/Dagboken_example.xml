@@ -19,7 +19,10 @@
          <publicationStmt>
             <publisher>Högskolan i Borås</publisher>
             <date>2024</date>
-            <authority>Sofia Larsson, Katherine Knox Beler, Malin Färdig, Clara Berndes</authority>
+            <authority><persName>Sofia Larsson</persName>
+               <persName>Katherine Knox Beler</persName>
+               <persName>Malin Färdig</persName>
+               <persName>Clara Berndes</persName></authority>
             <date>Maj 2024</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.sv"> 
@@ -30,28 +33,38 @@
             <msDesc> 
                <msIdentifier>
 <!-- Kommentar: Kan vi lägga till mer info här? Hur benämns dagboken av arkivet? Finns någon numrering etc? -->
-                  <msName>Fälttjänst U.S.L.K Oktober 1939—</msName>
-                  <objectName>Tjänstgöringsdagbok</objectName>
 
-                
+<institution>
+
+   <address><country>Sverige</country>
+      <settlement>Umeå</settlement>
+      <addrLine></addrLine>
+   </address>
+</institution>
+
+<msName> <name> Fälttjänst U.S.L.K Oktober 1939—</name>
+                    
+</msName>
+<objectName>Tjänstgöringsdagbok</objectName>
+
+                  
                </msIdentifier>
                <physDesc>
                   <objectDesc>
-                    
+               
                      <p>
                         <abbr>
                            U.S.L.K
                         </abbr>Tjänstgöringsdagbok från Folkrörelsearkivet i Västerbotten. Mått: 17x20,5 cm och 1,2 cm tjock.</p>
 
                   </objectDesc>
-
-                  
+ 
                </physDesc>
 
                <msContents>
                   <p>Innehåller bland annat delar om lottornas arbete med 
                   flyktingmottagandet av finska barn hösten 1944. Består av totalt XX sidor inklusive tomma blad. 
-                  Antal uppslag i dagboken: XX, varav tio transkriberats. 
+                  Antal uppslag i dagboken: XX, varav tio transkriberats. Varje uppslag utgör två handskrivna sidor i dagboken
 
                   Innehåller namn på lottor som tjänstgjorde under denna tid, platser och datum. 
 
@@ -69,16 +82,18 @@
 		   biblioteks- och informationsvetenskap vid Högskolan i Borås. Bilderna ska också användas till
          ett projekt organiserat av hembygdsföreningen i Umeå, med mål att belysa och informera om 
            flyktingmottagandet under andra världskriget.</p>
-           <p>Dagboken har skannats med upplösning på 300 dpi, 8-bit. Bilderna har sparats som TIFF-filer i enlighet med gängse standarder. 
-
-           </p>
+           <p>Dagboken har skannats med upplösning på 300 dpi, 8-bit. Bilderna har sparats som TIFF-filer i enlighet med gängse standarder. </p>
         </projectDesc>
         <samplingDecl><p>
-         Urvalet har gjorts utifrån önskemål från Folkrörelseakrivet i Västerbotten samt de delar av fältdagboken
-		som berör mottagandet av finska flyktingbarn under hösten 1944 
-         och består av tio bilder som representerar ett uppslag vardera. Varje uppslag utgör två handskrivna sidor i dagboken.
+         Främst de delar av fältdagboken
+		som berör mottagandet av finska flyktingbarn under hösten 1944. Urvalet har gjorts utifrån vad som ansets relevant för projektet planerat av hembygdsföreningen i Umeå, 
+         och består av tio bilder som representerar ett uppslag vardera.
    </p></samplingDecl>
    <editorialDecl>
+      <interpretation> <p>Där namnet på en person, plats eller organisation förekommit flera gånger har vi utgått från att det refererar till samma individ eller sak.
+Även namn med mindre stavningskillnader har tolkats som att de refererar till samma. 
+En lista på person, plats och organisationsnamn förekommer i ett <gi>offisde</gi> segment.
+      </p></interpretation>
       <correction> <p> Stavfel i orginalmanuskriptet har vi markerat med <gi>sic</gi> 
          och inkluderat i ett <gi>choice</gi>element tillsammans med transkriberarens rättning <gi>corr</gi>. 
          Där transkriberaren lagt till ett ord som saknats i orginalmanuskripetet har <gi>choice</gi> använts tillsammans med <gi>supplement</gi>.
@@ -86,8 +101,9 @@
          <gi>choice</gi> och <gi>supplement</gi> har i de fallen använts för att presentera ett eller flera tolkningsförslag.  
       </p></correction>
       <normalization><p>
-         Transkriberingen har gjorts med dagboken som källunderlag. Eventuella stav- eller slarvfel har inte korrigerats.
-	      Dessa är markerade med "sic".
+         Transkriberingen har gjorts med dagboken som källunderlag. I möjligaste mån har eventuella stav- eller slarvfel.
+	      Dessa är markerade med <gi>sic</gi>
+         Välkända abbrivationer för timmar och månader, har behållits som de är utan markering. 
       </p></normalization>
       <segmentation> <p> Sektioner av texten anges genom <gi>div</gi> med <gi>type</gi> attributet "rapport". 
          Olika uppslag anges genom <gi>div</gi> med <gi>type</gi> attributet "page".
@@ -98,11 +114,10 @@
          I orginalmanuskriptet förekommer både talstreck i samband med att ett ord bryts vid radbrytningar
          och bindestreck mellan namn. Streck används också för att beteckna mängder. Vi har valt att behålla båda tecknen, och beteckna genom <gi>lb</gi> 
          om talstrecket finns där på grund av radbrytning. 
-
       </p></hyphenation>
    </editorialDecl>
    <tagsDecl>
-      <namespace name="http://www.tei-c.org/ns/1.0"><tagUsage gi="hi" occurs="26" withId="26">
+      <namespace name="http://www.tei-c.org/ns/1.0"><tagUsage gi="hi" occurs="41" withId="41">
 
       </tagUsage></namespace>
    </tagsDecl>
@@ -115,8 +130,6 @@
      <!-- manuscript description -->
       <moduleRef key="transcr"/>
      <!-- transcription of primary sources -->
-      <moduleRef key="figures"/>
-     <!-- figures and tables -->
       <moduleRef key="namesdates"/>
      <!-- names, dates, people, and places -->
      </schemaSpec>
@@ -1073,13 +1086,53 @@
          <settlement>Umeå</settlement>
          <location> <geo>63°49 42″N 20°16 14″Ö</geo></location>
       </place>
+      <place xml:id="bolea" type="city">
+         <settlement>Böleå</settlement>
+         <location> <geo>63°49 42″N 20°16 14″Ö</geo></location>
+      </place> 
+      <place xml:id="roback" type="city">
+         <settlement>Röbäck</settlement>
+         <location> <geo>63°49 42″N 20°16 14″Ö</geo></location>
+      </place> 
+      <place xml:id="stocke" type="city">
+         <settlement>Stöcke</settlement>
+         <location> <geo>63°49 42″N 20°16 14″Ö</geo></location>
+      </place> 
+      <place xml:id="alabolle" type="city">
+         <settlement>Alabböle</settlement>
+         <location> <geo>63°49 42″N 20°16 14″Ö</geo></location>
+      </place> 
+      <place xml:id="V20" type="stadsdel">
+         <settlement>V:20</settlement>
+         <location> <geo>63°49 42″N 20°16 14″Ö</geo></location>
+         <note><p>Stadsdel i Umneå som användes av svenska militären</p></note>
+      </place> 
+
    </listPlace>
 
    <listOrg>
       <org xml:id="lotta">
          <orgName type="voluntary"><settlement> Umeå</settlement> Lottakår</orgName>
-         
+         <note><p>Militäriskt, icke-stridande kvinnoförband. 
+            Lottakårens medlemmar understödde beväpnade förband och ägnade sig åt diverse samhäliga insattser.</p></note>
       </org>
+<org xml:id="orgK4">
+
+   <orgName>K 4</orgName>
+</org>
+
+<org xml:id="hjalp">
+
+   <orgName ref="https://riksarkivet.se/motkallorna/hjalpkommitten-for-finlands-barn">Hjälpkommitten för Finlands barn</orgName>
+   
+</org>
+
+<org xml:id="lc">
+
+   <orgName>L-c lottorna</orgName>
+</org>
+
+
 </listOrg>
 </standOff>
 
@@ -1154,6 +1207,7 @@
   <text>
 
    <front>
+
       
       <div type="omslag" facs="#dagbok_cover_omslag">
          <head>
@@ -1175,7 +1229,7 @@
              </p>
             <p>
                Barnen kommo med båt till<lb/> 
-<name type="place">Holmsund</name>, varifrån de fördes<lb/>
+<name type="place" ref="holmsund">Holmsund</name>, varifrån de fördes<lb/>
 till <ref target="https://sv.wikipedia.org/wiki/Umeå"> <name type="place" ref="#umea">Umeå</name> </ref> där de badades och<lb/>
 undersöktes. Under tiden rök-<lb/>
 tes deras kläder. <ref target="https://sv.wikipedia.org/wiki/Svenska_Lottak%C3%A5ren"><name type="org" ref="#lotta">Umeå Lotta-<lb/>kår</name></ref>. 
@@ -1278,7 +1332,7 @@ porter gingo över <name type="place" ref="#umea">Umeå</name>.<lb/>
           
           
 
-           <p> Tredje resan.<lb/> Utspisningslottor: <name type="person" ref="#F1">Gurli Forsberg</name>, 
+           <p> <hi rend="u">Tredje resan.<lb/> Utspisningslottor:</hi><name type="person" ref="#F1">Gurli Forsberg</name>, 
             <name type="person" ref="#B4">Göta Beckman</name>, 
             <name type="person" ref="#S1">Jenny Sundström</name>, 
             <name type="person" ref="#M1">Sig-<lb/>rid Malmlund</name>, 
@@ -1380,7 +1434,7 @@ och <name type="person" ref="#J3">Anna- Greta Johansson</name>.
             <name type="person" ref="#J4">Gunnel Jörlen</name>, 
             <name type="person" ref="#B6">Lilly Beckman</name>, 
             <name type="person" ref="#E2">Elsa Edstedt</name> 
-            Köket: 
+            <hi rend="u">Köket:</hi> 
             <name type="person" ref="#B1"> Ester Berg</name>, 
             <name type="person" ref="#S11">Dagmar Stocksén</name>, 
             <name type="person" ref="#L1"> Hanna Lindbladh</name>. 
@@ -1408,7 +1462,7 @@ och <name type="person" ref="#J3">Anna- Greta Johansson</name>.
             <hi rend="u">Tågchef:</hi> <name type="person" ref="#K1">Greta Krikortz</name> 
             <hi rend="u"> Tåglottor:</hi> <name type="person" ref="#L8">Gerd Lundgren</name>, 
             <name type="person" ref="#M1">Sigrid Malmlund</name> 
-            Köket: 
+            <hi rend="u">Köket:</hi>  
             <name type="person" ref="#B1"> Ester Berg</name>, 
             <name type="person" ref="B2">Hilma Berg</name>, 
             <name type="person" ref="#E7">Britta Eriksson</name>, 
@@ -1420,7 +1474,7 @@ och <name type="person" ref="#J3">Anna- Greta Johansson</name>.
             <name type="person" ref="#P1"> Gusti Pettersson </name>, 
             <name type="person" ref="#K1"> Greta Krikortz </name> 
             <hi rend="u"> Tjänstgöringstid: 816 tim</hi> 
-            (Ordet smörgåsberedning var inte understruket på den 6:e resan men på alla andra) </p> 
+            ¨</p> 
          </div>
          <div type="page" n="4" facs="#sida_088_7-8-9e_resan">
             <p> 
@@ -1498,7 +1552,7 @@ och <name type="person" ref="#J3">Anna- Greta Johansson</name>.
             <name type="person" ref="#J5">Lilly Johansson</name>. 
             <hi rend="u">Tågchef:</hi> <name type="person" ref="#V2"> Elisabet Nilson</name> 
             <hi rend="u">V. chef:</hi> <name type="person" ref="#G4">Inga- Maj Gripenstam</name> 
-            Köket: <name type="person" ref="#L1"> Hanna Lindbladh</name>, 
+            <hi rend="u">Köket:</hi>  <name type="person" ref="#L1"> Hanna Lindbladh</name>, 
             <name type="person" ref="#S11">Dagmar Stocksén</name>, 
             <name type="person" ref="#B2">Hilma Berg</name>, 
             <name type="person" ref="#F6">Elsie Fors- gren</name> 
@@ -1543,13 +1597,12 @@ och <name type="person" ref="#J3">Anna- Greta Johansson</name>.
              <name type="person" ref="#S13">Margit Svedbäck</name>, 
              Gertrud Kågs- tröm 
              <hi rend="u">Tjänstgöringstid: 312 tim.</hi> 
-            
-      
+         
             </p>
 
              
-             <p>Nionde resan: 
-             Utspisningslottor: <name type="person" ref="#J1"> Sigrid Jonsson</name>, 
+             <p><hi rend="u"> Nionde resan: 
+             Utspisningslottor:</hi> <name type="person" ref="#J1"> Sigrid Jonsson</name>, 
              <name type="person" ref="H3">Marta Hedlund</name>, 
              <name type="person" ref="#H1"> Lilian Hellberg</name>, 
              <name type="person" ref="#L11">Ingrid Lindfors,</name> 
@@ -1614,17 +1667,18 @@ och <name type="person" ref="#J3">Anna- Greta Johansson</name>.
             <lb/>
             <lb/>
                <!-- (två tomma rader) ovan --> 
-            Under tiden <lb/>
+               <hi rendition="u">Under tiden <lb/>
             15 juli - 10 okt. tjänst-
             gjorde <name type="person" ref="#B1">Ester Berg</name> som husmor vid 
-            finska barnkarantänförläggningen
+            finska barnkarantänförläggningen </hi>
             i <name type="place">Vännäs</name>. 
             <hi rendition="u">Tjänstgöringstid: 2064 tim.</hi>  
             <lb/>
             <lb/>
-            Under tiden 12 juli - 13 juli tjänstgjorde
+            <hi rendition="u">Under tiden 12 juli - 13 juli tjänstgjorde
             följande lottor som karantäns-
-            lottor vid <name type="place">I20:</name> <name type="person" ref="#L12">Ragnhild Lundgren</name> 
+            lottor vid <name type="place">I20:</name></hi>
+            <name type="person" ref="#L12">Ragnhild Lundgren</name> 
             <name type="person" ref="#V8">Ingrid Westin</name>, <name type="person" ref="#L13">Lilly Lagerdahl</name>
             <name type="person" ref="#B2">Hilma Berg</name>, <name type="person" ref="#L14">Sally Lundin</name>, 
             <name type="person" ref="#S16">Elna <lb/>Swahn</name>, <name type="person" ref="#B10">Tekla Bengtsson</name>, 
@@ -1656,7 +1710,7 @@ Under sept och halva okt tjänstgjorde en lotta kokinstruktris vid
 
 <hi rend="u"><unclear reason="covered" cert="high" resp="Clara Berndes">12</unclear> lottor ha tjänstgjort med 97 tim.</hi></p>
 
-<p>Under <hi rend="u">riksskyttedagarna 30 januari, 1 och 2 juli </hi>skötte lottorna utspis-ning och marketenteri (vi bör nog använda orddefinitioner här) uppe på paviljongen och ute vid kon-trollerna i Brattby och Vännäs by. 
+<p>Under <hi rend="u">riksskyttedagarna 30 januari, 1 och 2 juli </hi>skötte lottorna utspis-ning och marketenteri uppe på paviljongen och ute vid kon-trollerna i <name type="place" ref="#brattby">Brattby</name> och <name type="place" ref="#vannas">Vännäs</name> by. 
 Vid detta tillfälle arbetade 501 lottor under 743 timmar.</p>
 
 <p>Vid den <hi rend="u">middag </hi>som <hi rend="u">lant-bruksmötet</hi> anordnade för de kungliga gester <del> na</del>som besökte <name type="place" ref="#umea">Umeå</name>  hjälpte lottorna till med serveringen.
@@ -1665,7 +1719,7 @@ Vid detta tillfälle arbetade 501 lottor under 743 timmar.</p>
 </div>
 <div type="page" n="7">
 
-<p>Även under detta arbetsår ha lottorna varit anlitade av <name type="org" ref="https://riksarkivet.se/motkallorna/hjalpkommitten-for-finlands-barn"><hi rend="u">Hjälpkommitten för Finlands barn.</hi> </name>
+<p>Även under detta arbetsår ha lottorna varit anlitade av <ref target="https://riksarkivet.se/motkallorna/hjalpkommitten-for-finlands-barn"> <name type="org" ref="#hjalp"><hi rend="u">Hjälpkommitten för Finlands barn.</hi> </name></ref>
    Lottorna ha skött utspisning och transporter. 
 Barnen kom- mo med båt till <name type="place" ref="#holmsund">Holmsund</name>. 
 Härifrån fördes de sedan till <name type="place" ref="#umea">Umeå</name> där de badades och undersöktes av läkare.  
@@ -1673,7 +1727,7 @@ Inte mindre <choice> <sic>an</sic> <corr>än</corr></choice> 10 <choice> <sic>s�
 Barnen anlände i allmänhet på kvällen, men de fingo stanna ombord på båtenöver natten. Första mål serverades <add place="above">på båten</add> tidigt på morgonen följande dag. 
 <del>De andra målen</del> Middag och kväll serverades på <name type="place"> Nya folk-skolan</name>. 
 På kvällen överför-des barnen till det militära sjuktåget, som ställts till förfogande. Utspisningen under resan ombesörgdes av lottorna. Med tåget följde nämligen en köksvagn. 
-Under den tid transporterna pågingo var ett kara-tänläger anordnat i <name type="place">Vännäs</name>. Här tjänstgjorde en lotta som förplägg-ningschef och en som husmor. 
+Under den tid transporterna pågingo var ett kara-tänläger anordnat i <name type="place" ref="#vannas">Vännäs</name>. Här tjänstgjorde en lotta som förplägg-ningschef och en som husmor. 
 Under en del hemtransporter av <choice> <supplied>de</supplied></choice> finska barnen har även lot-torna tjänstgjort.</p>
 
 <p> <hi rend="u">278 lottor ha tjänstgjort med 14890 tim.</hi></p>
@@ -1693,19 +1747,19 @@ För Hemvärnet ha således <hi rend="u">37 lottor arbetat 328 tim.</hi></p>
 
 <p>Under den tid då <hi rend="u">finnarna evakuerades </hi>över till <name type="place">Sverige</name>, hjälpte lottorna till med utspisning vid deras ankomst. 
    Vid de <hi rend="u">evakuerings-läger </hi>som inrättades bl.a. i 
-   <name type="place">Böleå - Teg</name>, <name type="place">Röbäck</name>, <name type="place">Stöcke</name> och <name type="place">Alabböle</name> tjänstgjorde även lottor.
+   <name type="place" ref="#bolea">Böleå - Teg</name>, <name type="place" ref="#roback">Röbäck</name>, <name type="place" ref="#stocke">Stöcke</name> och <name type="place" ref="#alabbole">Alabböle</name> tjänstgjorde även lottor.
 
    <hi rend="u">82 lottor med 9873 tjänstgöringstim.</hi></p>
 
 <p>På <hi rend="u">Luciadagens morgon </hi>bjödo lottorna krigsinvaliderna på kaffe och “lussebullar”. 
-   På <hi rend="u">jul-aftonen </hi>besökte lottorna ett beredskapskompani på <name type="place">Gimo-näs</name> samt de evakueringsläger där lottor tjänstgjorde. 
+   På <hi rend="u">jul-aftonen </hi>besökte lottorna ett beredskapskompani på <name type="place" ref="#gimonas">Gimo-näs</name> samt de evakueringsläger där lottor tjänstgjorde. 
 Alla bjödos på kaffe, gott bröd och <hi rend="u">tårta. 18 lottor 64 tim.</hi></p>
 <p>För <hi rend="u">insamling av pengar </hi> ha lottorna anordnat en bridgeafton, två danser på <name type="place" ref="#I20">I 20</name>, 1 dans på <name type="place">Stora Hotellet</name> och 1 dans i <name type="place" ref="#I20">I:20</name>.
 Dessutom ha lottorna haft den sedvanliga </p>
 </div>
 <div type="page" n="9">
 
-<p>julförsäljningen. Denna gång hölls den i kyrksalen. Kaffe-serveringen sköttes då av <name type="org">L-c lottorna</name> . 
+<p>julförsäljningen. Denna gång hölls den i kyrksalen. Kaffe-serveringen sköttes då av <name type="org" ref="#lc">L-c lottorna</name> . 
 Vid alla dessa till-ställnignar ha lottorna en <hi rend="u">ar-betstid av 1012 tim.</hi></p>
 <p><hi rend="u">Summa tjänstgöringstid för arbetsåret 1/7 1944 - 30/6 1945 är 28133 tim.</hi></p>
 <p><name type="place" ref="#umea">Umeå</name> i nov 1945</p>
