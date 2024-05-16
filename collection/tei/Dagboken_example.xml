@@ -1175,9 +1175,9 @@ En lista på person, plats och organisationsnamn förekommer i ett <gi>offisde</
       </surface>
       <surface xml:id="sida_099_Översikt_arbetsåret">
          <figure>
-            <label>Tionde resan</label>
+            <label>Översikt av arbetsåret 1/7 1944 - 30/6 1945</label>
             <figDesc>
-               Översikten i slutet av fältdagboken.
+               Summering av fältdagbokens innehåll.
             </figDesc>
             <graphic url="assets/img/documents/sida_099_Översikt_arbetsåret.jpg"/>
             <graphic url="../collection/img/sida_099.tiff"></graphic>
@@ -1185,52 +1185,63 @@ En lista på person, plats och organisationsnamn förekommer i ett <gi>offisde</
       </surface>
       <surface xml:id="sida_100">
          <figure>
-            <label>Tionde resan</label>
-            <figDesc>
-               Översikten i slutet av fältdagboken.
-            </figDesc>
+            <label>Översikt av arbetsåret 1/7 1944 - 30/6 1945</label>
             <graphic url="assets/img/documents/sida_100.jpg"> </graphic>
          </figure>
       </surface>
       <surface xml:id="sida_101">
          <figure>
-            <label>Tionde resan</label>
-            <figDesc>
-               Översikten i slutet av fältdagboken.
-            </figDesc>
+            <label>Översikt av arbetsåret 1/7 1944 - 30/6 1945</label>
             <graphic url="assets/img/documents/sida_101.jpg"> </graphic>
          </figure>
       </surface>
-      <surface xml:id="sida_102">
+
+      <surface ulx="0" uly="0" lrx="500" lry="321" xml:id="x">
          <figure>
-            <label>Tionde resan</label>
+            <label>Översikt av arbetsåret 1/7 1944 - 30/6 1945</label>
             <figDesc>
-               Översikten i slutet av fältdagboken.
+               Slutet av fältdagboken och signering.
             </figDesc>
-            <graphic url="assets/img/documents/sida_102.jpg"> </graphic>
+            <graphic url="assets/img/documents/sida_102.jpg"> </graphic>     
          </figure>
       </surface>
+
+      <surface xml:id="sida_102" ulx="0" uly="0" lrx="500" lry="321">
+         <figure>
+            <label>Översikt av arbetsåret 1/7 1944 - 30/6 1945</label>
+            <graphic url="assets/img/documents/sida_101.jpg"> </graphic>
+         </figure>
+      </surface>
+      <surface ulx="0" uly="0" lrx="500" lry="321" xml:id="sida_102">
+         <zone ulx="0" uly="0" lrx="500" lry="321">
+            <graphic url="assets/img/documents/sida_102.jpg"> </graphic>     
+        </zone>
+      <zone ulx="50" uly="20" lrx="210" lry="280">
+         <!-- left hand page -->
+           </zone>
+           <zone ulx="240" uly="25" lrx="400"
+            lry="280">
+         <!-- right hand page -->
+           </zone>
+           <zone ulx="90" uly="40" lrx="200" lry="225">
+         <!--- written part of left hand page -->
+           </zone>
+      </surface>
       </facsimile>
-   
+
+     
+    
    
   <text>
 
-   <front>
-
-      
+   <front> 
       <div type="omslag" facs="#dagbok_cover_omslag">
          <head>
             <hi rend="u">Tjänstgöringsdagbokens omslag</hi>
             </head>
       </div>
-
    </front>
-    
-    
       <body>
-
-   
-        
          <div type="rapport" n="1">
          <div n="1" type="page" facs="#sida_85_1a_resan"> 
 
@@ -1486,66 +1497,7 @@ och <name type="person" ref="#J3">Anna- Greta Johansson</name>.
             ¨</p> 
          </div>
          <div type="page" n="4" facs="#sida_088_7-8-9e_resan">
-            <p> 
-
-<!-- Undertill är en dublettt av åttonde - tionde resan som ska tas bort, men än så länge står det kvar för de visar nog var sidbrytningarna sitter-->
-
-
-
-(två
-               tomma rader) 
-         
-            
-              Hilma Berg, Elsi Fors-
-               gren. 
-               Tåglottor: Thyra Waller, Ragnhild
-               Säfström, Edit Åhgren, Eva Åker-
-               lund, Lulu Juhlin, Märtha Åhlund
-               Birgit Jansson. 
-               Smörgåsberedning: Thyra Lindvall
-               Aina Forsgren, Elisabet Nilson 
-               Gurli Forsberg, Gudrun Beckman, 
-               Göta Beckman
-               Tjänstgöringstid: 1264 tim.  
-               Nästa sida, samma uppslag: 
-            
-               Åttonde resan: 
-               Utspisningslottor: Sigrid Jonsson, 
-               Amy Sundström, Karin Wästfelt,
-               Märta Forsberg, Göta Beckman
-               Gudrun Beckman, Gunnel Jörlen
-               Jenny Sundström, Gurli Forsberg
-               Alma Bylund, Ida Eriksson, Sigrid
-               Jonsson, Edit Åhgren, Anna-Greta 
-               Johansson, Anna Forsgren. 
-               Tågchef: Elsa Welander
-               v. chef: Ingrid Lundström.
-               Smörgåsberedning: Elsa Edefelt, Anna-
-               Lisa dahl, Ann-Mari Hedman, Dagmar
-               Mark, Margi Svedbäck, Gertrud Såg-
-               ström
-               Tjänstgöringstid: 312 tim. 
-               
-               Nionde resan:
-               Utspisningslottor: Sigrid Jonsson, 
-               Märta Hedlund, Lilian Hellberg, Ingrid
-               Lindfors, Göta Beckman, Gudrun
-               Beckman, Jenny Sundström, Ida
-               Andersson, Aina Forsgren, Märta 
-               nästa sida/samma blad:
-               Forsberg, Gurli Forsberg, Vivvi Engqvist,
-               Alma Bylund, Teres Westin, Lilly
-               Beckman, Edit Åhgren, Anna-Mari
-               Hedlund.
-               Tågchef: Elisabet Nilson
-               v. chef. Ingrid Lundström
-               <name type="person" ref="#S15">Margareta Svensson</name>
-               Tåglottor: Elsa Modig 
-               Smörgåsberedning: Märta Forsberg
-               Gurli Forsberg, Aina Forsgren, Jen-
-               ny Sundström, Rut Ringqvist
-               Tjänstgöringstid: 673 tim. </p>
-               <!-- Slut på dubbletter-->
+          
                <p>
                   <hi rend="u">Sjunde resan. <lb/> Utspisningslottor:</hi> 
                <name type="person" ref="#B4">Göta Beckman</name>, 
@@ -1675,7 +1627,7 @@ och <name type="person" ref="#J3">Anna- Greta Johansson</name>.
             
             <lb/>
             <lb/>
-               <!-- (två tomma rader) ovan --> 
+              
                <hi rendition="u">Under tiden <lb/>
             15 juli - 10 okt. tjänst-
             gjorde <name type="person" ref="#B1">Ester Berg</name> som husmor vid 
