@@ -1244,6 +1244,7 @@
 
       </listPlace>
 
+<<<<<<< Updated upstream
       <listOrg>
          <org xml:id="lotta">
             <orgName type="voluntary"><settlement> Umeå</settlement>Lottakår</orgName>
@@ -1259,6 +1260,21 @@
             <link
                target="https://www.forsvarsmakten.se/sv/organisation/norrlands-dragonregemente-k-4/"></link>
          </org>
+=======
+   <listOrg>
+      <org xml:id="lotta">
+         <orgName type="voluntary"><settlement> Umeå</settlement>Lottakår</orgName>
+         <note><p>Militäriskt, icke-stridande kvinnoförband. 
+            Lottakårens medlemmar understödde beväpnade förband och ägnade sig åt diverse samhälleliga insattser.</p></note>
+            <link target="https://sv.wikipedia.org/wiki/Svenska_Lottak%C3%A5ren"></link>
+         <ptr target="https://www.forsvarsmakten.se/sv/organisation/norrlands-dragonregemente-k-4/"/>
+      </org>
+<org xml:id="orgK4">
+   <orgName>K 4</orgName>
+   <note>Norrlands dragonregemente</note>
+   <link target="https://www.forsvarsmakten.se/sv/organisation/norrlands-dragonregemente-k-4/"></link>
+</org>
+>>>>>>> Stashed changes
 
          <org xml:id="hjalp">
             <orgName>Hjälpkommitten för Finlands barn</orgName>
