@@ -1091,23 +1091,22 @@ En lista på person, plats och organisationsnamn förekommer i ett <gi>offisde</
 
    <listOrg>
       <org xml:id="lotta">
-         <orgName type="voluntary"><settlement> Umeå</settlement> Lottakår</orgName>
+         <orgName type="voluntary"><settlement> Umeå</settlement>Lottakår</orgName>
          <note><p>Militäriskt, icke-stridande kvinnoförband. 
             Lottakårens medlemmar understödde beväpnade förband och ägnade sig åt diverse samhäliga insattser.</p></note>
+            <link target="https://sv.wikipedia.org/wiki/Svenska_Lottak%C3%A5ren"></link>
       </org>
 <org xml:id="orgK4">
-
    <orgName>K 4</orgName>
+   <link target="https://www.forsvarsmakten.se/sv/organisation/norrlands-dragonregemente-k-4/"></link>
 </org>
 
 <org xml:id="hjalp">
-
-   <orgName ref="https://riksarkivet.se/motkallorna/hjalpkommitten-for-finlands-barn">Hjälpkommitten för Finlands barn</orgName>
-   
+   <orgName>Hjälpkommitten för Finlands barn</orgName>
+   <link target="https://riksarkivet.se/motkallorna/hjalpkommitten-for-finlands-barn"></link>
 </org>
 
 <org xml:id="lc">
-
    <orgName>L-c lottorna</orgName>
 </org>
 
@@ -1254,7 +1253,7 @@ En lista på person, plats och organisationsnamn förekommer i ett <gi>offisde</
 <name type="place" ref="holmsund">Holmsund</name>, varifrån de fördes<lb/>
 till <ref target="https://sv.wikipedia.org/wiki/Umeå"> <name type="place" ref="#umea">Umeå</name> </ref> där de badades och<lb/>
 undersöktes. Under tiden rök-<lb/>
-tes deras kläder. <ref target="https://sv.wikipedia.org/wiki/Svenska_Lottak%C3%A5ren"><name type="org" ref="#lotta">Umeå Lotta-<lb/>kår</name></ref> 
+tes deras kläder. <name type="org" ref="https://sv.wikipedia.org/wiki/Svenska_Lottak%C3%A5ren">Umeå Lotta-<lb/>kår</name> 
 hjälpte under denna tid<lb/> till med både utspisning och<lb/> 
 transport. Maten lagades i<lb/>
 ordning på <ref target="https://sv.wikipedia.org/wiki/Ume%C3%A5_garnison"><name type="place" ref="#I20">I 20</name></ref>. 
@@ -1651,7 +1650,7 @@ och <name type="person" ref="#J3">Anna- Greta Johansson</name>.
          <p>
             <hi rend="u2">Översikt av arbetsåret 1/7 1944 - 30/6 1945 </hi> </p>
            
-<p rend="indent">Första delen av det gångna<lb/>arbetsåret har varit rätt be- <lb/>tungande för medlemmarna <lb/>i <name type="org">Umeå Lottakår</name>. 
+<p rend="indent">Första delen av det gångna<lb/>arbetsåret har varit rätt be- <lb/>tungande för medlemmarna <lb/>i <name type="org" ref="#lotta">Umeå Lottakår</name>. 
    Senare halv <lb/>året <choice> <sic> här </sic> <corr> har</corr> </choice> däremot varit lugnt <lb/>och stilla. </p>
 
 <p rend="indent">Först och främst ha lottorna <lb/>skött förplägnaden under <hi rend="u">in- <lb/>och utryckningsdagarna </hi>vid <lb/>olika förband. 
@@ -1659,7 +1658,7 @@ och <name type="person" ref="#J3">Anna- Greta Johansson</name>.
 Den 24 - 27 juli 7 lottor med 200 tim.<lb/>Den 2 - 3 okt 2 lottor 32 tim. Den <lb/>19 - 21 nov. 
 7 lottor 96 tim. Den 15- <lb/>16 jan 2 lottor 32 tim. 
 Under sept <lb/>och halva okt tjänstgjorde <lb/>en lotta kokinstruktris vid
-<ref target="https://www.forsvarsmakten.se/sv/organisation/norrlands-dragonregemente-k-4/"><name type="org" ref="#orgK4">K 4</name></ref><lb/>
+<name type="org" ref="#orgK4">K 4</name><lb/>
 
 <hi rend="u">Sammanlagt 29 lottor och 504 tim.</hi></p>
 
