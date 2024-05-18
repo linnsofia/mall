@@ -1264,16 +1264,13 @@
             </location>
             <note>Stadsdel i Sydöstra Umeå</note>
          </place>
-         <place xml:id="V20" type="settlement">
-            <settlement>V:20</settlement>
+         <place xml:id="I20" type="settlement">
+            <settlement>I:20</settlement>
             <location>
-               <geo>63°49 42″N 20°16 14″Ö</geo>
+               <geo>63°50 15.51″N 20°15 14.11″Ö</geo>
             </location>
-            <ptr target="https://sv.wikipedia.org/wiki/Ume%C3%A5_garnison">
-            </ptr>
-            <note>Både namnet på Västerbottens regemente och stadsdelen i Umeå 
-               Stadsdel i Umneå som användes av svenska militären.
-              
+            <note>Både namnet på Västerbottens regemente inom militären samt namnet på det område i Umeå som blev dem tilldelade då de flyttades till staden år 1909. 
+               Området I:20 har numera blivit en företagspark kallad Umestad. Vid tiden 1944-45 bestod den huvudsakligen av kasernbyggnader som huserade regementet.
             </note>
          </place>
 
@@ -1282,19 +1279,24 @@
       <listOrg>
          <org xml:id="lotta">
             <orgName type="voluntary"><settlement> Umeå</settlement>Lottakår</orgName>
+            <ptr target="https://www.svenskalottakaren.se/lottakarer/umea-lottakar" />
             <note>
                <p>Försvarsorganisation för kvinnor grundat 1924.
-                  Under tiden för andra världskriget bestod lottakåren av icke-beväpnade förband, som understödde totalförsvaret, 
-                  utbildade sina medlemmar i krisberedskap och bidrog med olika
-                  samhälleliga insattser.</p>
+                  Under tiden för andra världskriget bestod lottakåren av icke-beväpnade förband 
+                  som hade i uppdrag att bedriva olika former av hjälpsinsatser inom kommunen de var verksamma. 
+                  Vanliga aktiviteter kunde vara att sköta utbespisningen vid militäriska övningar, utbilda medlemmar i krisberedskap 
+                  och samla in pengar.</p> 
+                  <p>Under andra världskriget ökade antalet lottor markant och de blev för en tid därefter 
+                     den enda sättet för kvinnor att kunna arbeta inom försvarsmakten</p>
             </note>
-            <ptr target="https://www.svenskalottakaren.se/lottakarer/umea-lottakar" />
+            
          </org>
          <org xml:id="orgK4">
             <orgName>K 4</orgName>
             <note>Norrlands dragonregemente</note>
             <ptr
                target="https://www.forsvarsmakten.se/sv/organisation/norrlands-dragonregemente-k-4/" />
+               <note>Detta regemente flyttade till Umeå år 1901, därmed blev detta samhälle till en garnisionsstad.</note>
          </org>
          <org xml:id="hjalp">
             <orgName>Hjälpkommitten för Finlands barn</orgName>
@@ -1920,41 +1922,41 @@
             </div>
             <div type="page" n="8" facs="#sida_101">
 
-               <p rend="indent">Vid de övningar <hi rend="u">Hemvär-net</hi> anordnat i <name
-                     type="place" ref="#umea">Umeå</name> den 11 och 12 mars serverade lottorna
-                  kaffe, bröd och varm mjölk uppe på paviljongen. Andra dagen var middag anordnad i <name
-                     type="place" ref="#I20">I 20 matsal</name>, där lottorna skötte serveringen.
-                  Under den kurs som hölls för hemvärnsområdesbefälhavarna tiden 6, 7 och 8 april
-                  intogo kursdeltagarna sina måltider å lottalokalen. Matlagning och servering
-                  sköttes av lottorna. Vid övningen den 27 maj bjödo lottorna Hem-värnet på kaffe i <name
-                     type="place" ref="#I20">I 20 matsal</name>. För Hemvärnet ha således <hi
+               <p rend="indent">Vid de övningar <hi rend="u">Hemvär-<lb/>net</hi> anordnat i <name
+                     type="place" ref="#umea">Umeå</name> den 11 <lb/>och 12 mars serverade lottorna<lb/>
+                  kaffe, bröd och varm mjölk <lb/>uppe på paviljongen. Andra <lb/>dagen var middag anordnad <lb/>i <name
+                     type="place" ref="#I20">I 20 matsal</name>, där lottorna <lb/>skötte serveringen.
+                  Under <lb/>den kurs som hölls för <lb/>hemvärnsområdesbefälhavarna <lb/>tiden 6, 7 och 8 april
+                  intogo <lb/>kursdeltagarna sina måltider <lb/>å lottalokalen. Matlagning <lb/>och servering
+                  sköttes av <lb/>lottorna. Vid övningen den <lb/>27 maj bjödo lottorna <name type="org" ref="#hemvarn"> Hem-<lb/>värnet</name> på kaffe i <name
+                     type="place" ref="#I20">I 20 mat- <lb/>sal</name>. För <name type="org" ref="#hemvarn"> Hemvärnet</name> ha således <lb/><hi
                      rend="u">37 lottor arbetat 328 tim.</hi></p>
 
-               <p rend="indent">Under den tid då <hi rend="u">finnarna evakuerades </hi>över till <name
-                     type="place">Sverige</name>, hjälpte lottorna till med utspisning vid deras
-                  ankomst. Vid de <hi rend="u">evakuerings-läger </hi>som inrättades bl.a. i <name
+               <p rend="indent">Under den tid då <lb/><hi rend="u">finnarna evakuerades </hi>över <lb/>till <name
+                     type="place">Sverige</name>, hjälpte lottorna <lb/>till med utspisning vid deras <lb/>
+                  ankomst. Vid de <hi rend="u">evakuerings- <lb/>läger </hi>som inrättades <abbr>bl.a.</abbr> i <name
                      type="place" ref="#bolea">Böleå-Teg</name>, <name type="place" ref="#roback">
-                  Röbäck</name>, <name type="place" ref="#stocke">Stöcke</name> och <name
-                     type="place" ref="#klabbole">Klabböle</name> tjänstgjorde även lottor. <hi
+                  Röbäck</name>, <name type="place" ref="#stocke">Stöcke</name> och <lb/><name
+                     type="place" ref="#klabbole">Klabböle</name> tjänstgjorde även lottor. <lb/><hi
                      rend="u">82 lottor med 9873 tjänstgöringstim.</hi></p>
 
-               <p rend="indent">På <hi rend="u">Luciadagens morgon </hi>bjödo lottorna
-                  krigsinvaliderna på kaffe och “lussebullar”. På <hi rend="u">jul-aftonen </hi>besökte
-                  lottorna ett beredskapskompani på <name type="place" ref="#gimonas">Gimonäs</name>
-                  samt de evakueringsläger där lottor tjänstgjorde. Alla bjödos på kaffe, gott bröd
-                  och <hi rend="u">tårta. 18 lottor 64 tim.</hi></p>
-               <p rend="indent">För <hi rend="u">insamling av pengar </hi> ha lottorna anordnat en
-                  bridgeafton, två danser på <name type="place" ref="#I20">I 20</name>, 1 dans på <name
-                     type="place">Stora Hotellet</name> och 1 dans i <name type="place" ref="#I20">
-                  I:20</name>. Dessutom ha lottorna haft den sedvanliga </p>
+               <p rend="indent">På <hi rend="u">Luciadagens morgon </hi>bjödo <lb/>lottorna
+                  krigsinvaliderna på <lb/>kaffe och “lussebullar”. På <hi rend="u">jul- <lb/>aftonen </hi>besökte
+                  lottorna ett <lb/>beredskapskompani på <name type="place" ref="#gimonas">Gimonäs</name>
+                  samt de evakueringsläger <lb/>där lottor tjänstgjorde. Alla <lb/>bjödos på kaffe, gott bröd
+                  och <lb/><hi rend="u">tårta. 18 lottor 64 tim.</hi></p>
+               <p rend="indent">För <hi rend="u">insamling av pengar <lb/></hi> ha lottorna anordnat en <lb/>
+                  bridgeafton, två danser på <lb/><name type="place" ref="#I20">I 20</name>, 1 dans på <name
+                     type="place">Stora Hotellet</name> <lb/>och 1 dans i <name type="place" ref="#I20">
+                  I:20</name>. Dessutom <lb/>ha lottorna haft den sedvanliga </p>
             </div>
             <div type="page" n="9" facs="#sida_102">
 
-               <p>julförsäljningen. Denna gång hölls den i kyrksalen. Kaffe-serveringen sköttes då
-                  av <name type="org" ref="#lc">L-c lottorna</name> . Vid alla dessa
-                  till-ställnignar ha lottorna en <hi rend="u">ar-betstid av 1012 tim.</hi></p>
+               <p>julförsäljningen. Denna gång <lb/>hölls den i kyrksalen. Kaffe- <lb/>serveringen sköttes då
+                  av <name type="org">L-c <lb/>lottorna</name> . Vid alla dessa
+                  till- <lb/>ställnignar ha lottorna en <hi rend="u">ar- <lb/>betstid av 1012 tim.</hi></p>
                <p>
-                  <hi rend="u">Summa tjänstgöringstid för arbetsåret 1/7 1944 - 30/6 1945 är 28133
+                  <hi rend="u">Summa tjänstgöringstid <lb/>för arbetsåret 1/7 1944 - 30/6 1945 är <lb/>28133
                      tim.</hi>
                </p>
                <p><name type="place" ref="#umea">Umeå</name> i nov 1945</p>
