@@ -102,6 +102,7 @@
                TIFF-filer i enlighet med gängse standarder. </p>
          </projectDesc>
          <samplingDecl>
+
             <p> Främst de delar av fältdagboken som berör mottagandet av finska flyktingbarn under
                hösten 1944. Urvalet har gjorts utifrån vad som ansetts relevant för projektet
                planerat av hembygdsföreningen i Umeå, och består av tio bilder som representerar ett
@@ -199,7 +200,7 @@
                <surname>Andersson</surname>
             </persName>
             <affiliation>Umeå lottakår</affiliation>
-            <note>Uppgifter inom kåren som kunnat fastställas: tåglotta</note>
+            <note>Uppgifter inom kåren:: tåglotta</note>
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
          </person>
@@ -209,7 +210,7 @@
                <surname>Andersson</surname>
             </persName>
             <affiliation>Umeå lottakår</affiliation>
-            <note>Uppgifter inom kåren som kunnat fastställas: tåglotta, utspisningslotta</note>
+            <note>Uppgifter inom kåren:: tåglotta, utspisningslotta</note>
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
          </person>
@@ -219,7 +220,7 @@
                <surname>Almqvist</surname>
             </persName>
             <affiliation>Umeå lottakår</affiliation>
-            <note>Uppgifter inom kåren som kunnat fastställas: smörgåsberedare</note>
+            <note>Uppgifter inom kåren:: smörgåsberedare</note>
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
          </person>
@@ -229,7 +230,7 @@
                <surname>Berg</surname>
             </persName>
             <affiliation>Umeå lottakår</affiliation>
-            <note>Uppgifter inom kåren som kunnat fastställas: utspisningslotta, köksarbetare,
+            <note>Uppgifter inom kåren:: utspisningslotta, köksarbetare,
                tåglotta, husmor i barnkarantänförläggning i <placeName> Vännäs</placeName></note>
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
@@ -240,7 +241,7 @@
                <surname>Berg</surname>
             </persName>
             <affiliation>Umeå lottakår</affiliation>
-            <note>Uppgifter inom kåren som kunnat fastställas: utspisninglotta, tåglotta,
+            <note>Uppgifter inom kåren:: utspisninglotta, tåglotta,
                köksarbetare </note>
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
@@ -251,7 +252,7 @@
                <surname>Beckman</surname>
             </persName>
             <affiliation>Umeå lottakår</affiliation>
-            <note>Uppgifter inom kåren som kunnat fastställas: utspisningslotta</note>
+            <note>Uppgifter inom kåren:: utspisningslotta</note>
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
          </person>
@@ -261,7 +262,7 @@
                <surname>Beckman</surname>
             </persName>
             <affiliation>Umeå lottakår</affiliation>
-            <note>Uppgifter inom kåren som kunnat fastställas: utspisningslotta, smörgåsberedning</note>
+            <note>Uppgifter inom kåren:: utspisningslotta, smörgåsberedning</note>
             <birth notAfter="1939"></birth>
          </person>
          <person xml:id="B5">
@@ -270,7 +271,7 @@
                <surname>Boström</surname>
             </persName>
             <affiliation>Umeå lottakår</affiliation>
-            <note>Uppgifter inom kåren som kunnat fastställas: tåglotta</note>
+            <note>Uppgifter inom kåren:: tåglotta</note>
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
          </person>
@@ -280,7 +281,7 @@
                <surname>Beckman</surname>
             </persName>
             <affiliation>Umeå lottakår</affiliation>
-            <note>Uppgifter inom kåren som kunnat fastställas: tåglotta, utspisningslotta</note>
+            <note>Uppgifter inom kåren:: tåglotta, utspisningslotta</note>
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
          </person>
@@ -290,7 +291,7 @@
                <surname>Birath</surname>
             </persName>
             <affiliation>Umeå lottakår</affiliation>
-            <note>Uppgifter inom kåren som kunnat fastställas: utspisningslotta</note>
+            <note>Uppgifter inom kåren:: utspisningslotta</note>
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
          </person>
@@ -300,7 +301,7 @@
                <surname>Beckman</surname>
             </persName>
             <affiliation>Umeå lottakår</affiliation>
-            <note>Uppgifter inom kåren som kunnat fastställas: utspisningslotta, smörgåsberedare</note>
+            <note>Uppgifter inom kåren:: utspisningslotta, smörgåsberedare</note>
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
          </person>
@@ -310,7 +311,7 @@
                <surname>Bylund</surname>
             </persName>
             <affiliation>Umeå lottakår</affiliation>
-            <note>Uppgifter inom kåren som kunnat fastställas: utspisningslotta</note>
+            <note>Uppgifter inom kåren:: utspisningslotta</note>
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
          </person>
@@ -320,7 +321,7 @@
                <surname>Bengtsson</surname>
             </persName>
             <affiliation>Umeå lottakår</affiliation>
-            <note>Uppgifter inom kåren som kunnat fastställas: karantänlotta</note>
+            <note>Uppgifter inom kåren:: karantänlotta</note>
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
          </person>
@@ -330,7 +331,7 @@
                <surname>Carleborg</surname>
             </persName>
             <affiliation>Umeå lottakår</affiliation>
-            <note>Uppgifter inom kåren som kunnat fastställas: utspisninglotta</note>
+            <note>Uppgifter inom kåren:: utspisninglotta</note>
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
          </person>
@@ -340,7 +341,7 @@
                <surname>Dahl</surname>
             </persName>
             <affiliation>Umeå lottakår</affiliation>
-            <note>Uppgifter inom kåren som kunnat fastställas: smörgåsberedare</note>
+            <note>Uppgifter inom kåren:: smörgåsberedare</note>
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
          </person>
@@ -350,7 +351,7 @@
                <surname>Engman</surname>
             </persName>
             <affiliation>Umeå lottakår</affiliation>
-            <note>Uppgifter inom kåren som kunnat fastställas: utspisninglotta</note>
+            <note>Uppgifter inom kåren:: utspisninglotta</note>
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
          </person>
@@ -360,7 +361,7 @@
                <surname>Edstedt</surname>
             </persName>
             <affiliation>Umeå lottakår</affiliation>
-            <note>Uppgifter inom kåren som kunnat fastställas: utspisninglotta</note>
+            <note>Uppgifter inom kåren:: utspisninglotta</note>
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
          </person>
@@ -370,7 +371,7 @@
                <surname>Edstedt</surname>
             </persName>
             <affiliation>Umeå lottakår</affiliation>
-            <note>Uppgifter inom kåren som kunnat fastställas: utspisninglotta</note>
+            <note>Uppgifter inom kåren:: utspisninglotta</note>
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
          </person>
@@ -380,7 +381,7 @@
                <surname>Eriksson</surname>
             </persName>
             <affiliation>Umeå lottakår</affiliation>
-            <note>Uppgifter inom kåren som kunnat fastställas: utspisningslotta, köksarbetare</note>
+            <note>Uppgifter inom kåren:: utspisningslotta, köksarbetare</note>
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
          </person>
@@ -390,7 +391,7 @@
                <surname>Ekesthål</surname>
             </persName>
             <affiliation>Umeå lottakår</affiliation>
-            <note>Uppgifter inom kåren som kunnat fastställas: tåglotta</note>
+            <note>Uppgifter inom kåren:: tåglotta</note>
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
          </person>
@@ -400,7 +401,7 @@
                <surname>Eriksson</surname>
             </persName>
             <affiliation>Umeå lottakår</affiliation>
-            <note>Uppgifter inom kåren som kunnat fastställas: tåglotta</note>
+            <note>Uppgifter inom kåren:: tåglotta</note>
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
          </person>
@@ -410,7 +411,7 @@
                <surname>Eriksson</surname>
             </persName>
             <affiliation>Umeå lottakår</affiliation>
-            <note>Uppgifter inom kåren som kunnat fastställas: köksarbetare</note>
+            <note>Uppgifter inom kåren:: köksarbetare</note>
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
          </person>
@@ -420,7 +421,7 @@
                <surname>Engqvist</surname>
             </persName>
             <affiliation>Umeå lottakår</affiliation>
-            <note>Uppgifter inom kåren som kunnat fastställas: utspisningslotta</note>
+            <note>Uppgifter inom kåren:: utspisningslotta</note>
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
          </person>
@@ -430,7 +431,7 @@
                <surname>Forsberg</surname>
             </persName>
             <affiliation>Umeå lottakår</affiliation>
-            <note>Uppgifter inom kåren som kunnat fastställas: utspisningslotta, smörgåsberedare</note>
+            <note>Uppgifter inom kåren:: utspisningslotta, smörgåsberedare</note>
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
          </person>
@@ -440,7 +441,7 @@
                <surname>Forsgren</surname>
             </persName>
             <affiliation>Umeå lottakår</affiliation>
-            <note>Uppgifter inom kåren som kunnat fastställas: utspisninglotta, smörgåsberedning</note>
+            <note>Uppgifter inom kåren:: utspisninglotta, smörgåsberedning</note>
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
          </person>
@@ -450,7 +451,7 @@
                <surname>Fhalén</surname>
             </persName>
             <affiliation>Umeå lottakår</affiliation>
-            <note>Uppgifter inom kåren som kunnat fastställas: tåglotta</note>
+            <note>Uppgifter inom kåren:: tåglotta</note>
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
          </person>
@@ -460,7 +461,7 @@
                <surname>Forsgren</surname>
             </persName>
             <affiliation>Umeå lottakår</affiliation>
-            <note>Uppgifter inom kåren som kunnat fastställas: köksarbetare, utspisningslotta</note>
+            <note>Uppgifter inom kåren:: köksarbetare, utspisningslotta</note>
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
          </person>
@@ -470,7 +471,7 @@
                <surname>Forsberg</surname>
             </persName>
             <affiliation>Umeå lottakår</affiliation>
-            <note>Uppgifter inom kåren som kunnat fastställas: köksarbetare, utspisningslotta</note>
+            <note>Uppgifter inom kåren:: köksarbetare, utspisningslotta</note>
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
          </person>
@@ -480,7 +481,7 @@
                <surname>Forgren</surname>
             </persName>
             <affiliation>Umeå lottakår</affiliation>
-            <note>Uppgifter inom kåren som kunnat fastställas: utspisningslotta</note>
+            <note>Uppgifter inom kåren:: utspisningslotta</note>
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
          </person>
@@ -490,7 +491,7 @@
                <surname>Westin Gustafsson</surname>
             </persName>
             <affiliation>Umeå lottakår</affiliation>
-            <note>Uppgifter inom kåren som kunnat fastställas: utspisningslotta</note>
+            <note>Uppgifter inom kåren:: utspisningslotta</note>
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
          </person>
@@ -500,7 +501,7 @@
                <surname>Gustafsson</surname>
             </persName>
             <affiliation>Umeå lottakår</affiliation>
-            <note>Uppgifter inom kåren som kunnat fastställas: tåglotta</note>
+            <note>Uppgifter inom kåren:: tåglotta</note>
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
          </person>
@@ -510,7 +511,7 @@
                <surname>Gustafsson</surname>
             </persName>
             <affiliation>Umeå lottakår</affiliation>
-            <note>Uppgifter inom kåren som kunnat fastställas: tåglotta</note>
+            <note>Uppgifter inom kåren:: tåglotta</note>
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
          </person>
@@ -520,7 +521,7 @@
                <surname>Gripenstam</surname>
             </persName>
             <affiliation>Umeå lottakår</affiliation>
-            <note>Uppgifter inom kåren som kunnat fastställas: v.tågchef, tåglotta</note>
+            <note>Uppgifter inom kåren:: v.tågchef, tåglotta</note>
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
          </person>
@@ -530,7 +531,7 @@
                <surname>Hellberg</surname>
             </persName>
             <affiliation>Umeå lottakår</affiliation>
-            <note>Uppgifter inom kåren som kunnat fastställas: utspisningslotta, tåglotta</note>
+            <note>Uppgifter inom kåren:: utspisningslotta, tåglotta</note>
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
          </person>
@@ -540,7 +541,7 @@
                <surname>Hedlund</surname>
             </persName>
             <affiliation>Umeå lottakår</affiliation>
-            <note>Uppgifter inom kåren som kunnat fastställas: tåglotta</note>
+            <note>Uppgifter inom kåren:: tåglotta</note>
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
          </person>
@@ -550,7 +551,7 @@
                <surname>Hedlund</surname>
             </persName>
             <affiliation>Umeå lottakår</affiliation>
-            <note>Uppgifter inom kåren som kunnat fastställas: tåglotta, utspisningslotta</note>
+            <note>Uppgifter inom kåren:: tåglotta, utspisningslotta</note>
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
          </person>
@@ -560,7 +561,7 @@
                <surname>Holmgren</surname>
             </persName>
             <affiliation>Umeå lottakår</affiliation>
-            <note>Uppgifter inom kåren som kunnat fastställas: tåglotta</note>
+            <note>Uppgifter inom kåren:: tåglotta</note>
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
          </person>
@@ -570,7 +571,7 @@
                <surname>Haldin</surname>
             </persName>
             <affiliation>Umeå lottakår</affiliation>
-            <note>Uppgifter inom kåren som kunnat fastställas: tåglotta</note>
+            <note>Uppgifter inom kåren:: tåglotta</note>
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
          </person>
@@ -580,7 +581,7 @@
                <surname>Hellgren</surname>
             </persName>
             <affiliation>Umeå lottakår</affiliation>
-            <note>Uppgifter inom kåren som kunnat fastställas: tåglotta, utspisningslotta</note>
+            <note>Uppgifter inom kåren:: tåglotta, utspisningslotta</note>
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
          </person>
@@ -590,7 +591,7 @@
                <surname>Hedman</surname>
             </persName>
             <affiliation>Umeå lottakår</affiliation>
-            <note>Uppgifter inom kåren som kunnat fastställas: smörgåsberedare, utspisningslotta</note>
+            <note>Uppgifter inom kåren:: smörgåsberedare, utspisningslotta</note>
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
          </person>
@@ -600,7 +601,7 @@
                <surname>Jonsson</surname>
             </persName>
             <affiliation>Umeå lottakår</affiliation>
-            <note>Uppgifter inom kåren som kunnat fastställas: köksarbetare</note>
+            <note>Uppgifter inom kåren:: köksarbetare</note>
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
          </person>
@@ -610,7 +611,7 @@
                <surname> Jörlén Jonsson</surname>
             </persName>
             <affiliation>Umeå lottakår</affiliation>
-            <note>Uppgifter inom kåren som kunnat fastställas: utspisningslotta</note>
+            <note>Uppgifter inom kåren:: utspisningslotta</note>
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
          </person>
@@ -620,7 +621,7 @@
                <surname>Johansson</surname>
             </persName>
             <affiliation>Umeå lottakår</affiliation>
-            <note>Uppgifter inom kåren som kunnat fastställas: köksarbetare, utspisningslotta,
+            <note>Uppgifter inom kåren:: köksarbetare, utspisningslotta,
                smörgåsberedare</note>
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
@@ -631,7 +632,7 @@
                <surname>Jörlen</surname>
             </persName>
             <affiliation>Umeå lottakår</affiliation>
-            <note>Uppgifter inom kåren som kunnat fastställas: tåglotta, utspisningslotta</note>
+            <note>Uppgifter inom kåren:: tåglotta, utspisningslotta</note>
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
          </person>
@@ -641,7 +642,7 @@
                <surname>Johansson</surname>
             </persName>
             <affiliation>Umeå lottakår</affiliation>
-            <note>Uppgifter inom kåren som kunnat fastställas: utspisningslotta,</note>
+            <note>Uppgifter inom kåren:: utspisningslotta,</note>
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
          </person>
@@ -651,7 +652,7 @@
                <surname>Julin</surname>
             </persName>
             <affiliation>Umeå lottakår</affiliation>
-            <note>Uppgifter inom kåren som kunnat fastställas: tåglotta</note>
+            <note>Uppgifter inom kåren:: tåglotta</note>
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
          </person>
@@ -661,7 +662,7 @@
                <surname>Jonsson</surname>
             </persName>
             <affiliation>Umeå lottakår</affiliation>
-            <note>Uppgifter inom kåren som kunnat fastställas: tåglotta</note>
+            <note>Uppgifter inom kåren:: tåglotta</note>
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
          </person>
@@ -671,7 +672,7 @@
                <surname>Krikortz</surname>
             </persName>
             <affiliation>Umeå lottakår</affiliation>
-            <note>Uppgifter inom kåren som kunnat fastställas: utspisningslotta, smörgåsberedning,
+            <note>Uppgifter inom kåren:: utspisningslotta, smörgåsberedning,
                Tågchef, v. tågchef</note>
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
@@ -682,7 +683,7 @@
                <surname>Kågström</surname>
             </persName>
             <affiliation>Umeå lottakår</affiliation>
-            <note>Uppgifter inom kåren som kunnat fastställas: smörgåsberedare</note>
+            <note>Uppgifter inom kåren:: smörgåsberedare</note>
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
          </person>
@@ -692,7 +693,7 @@
                <surname>Lindbladh</surname>
             </persName>
             <affiliation>Umeå lottakår</affiliation>
-            <note>Uppgifter inom kåren som kunnat fastställas: utspisningslotta, köksarbetare,
+            <note>Uppgifter inom kåren:: utspisningslotta, köksarbetare,
                tåglotta</note>
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
@@ -703,7 +704,7 @@
                <surname>Lindvall</surname>
             </persName>
             <affiliation>Umeå lottakår</affiliation>
-            <note>Uppgifter inom kåren som kunnat fastställas: utspisninglotta, smörgåsberedare</note>
+            <note>Uppgifter inom kåren:: utspisninglotta, smörgåsberedare</note>
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
          </person>
@@ -713,7 +714,7 @@
                <surname>Lundberg</surname>
             </persName>
             <affiliation>Umeå lottakår</affiliation>
-            <note>Uppgifter inom kåren som kunnat fastställas: tåglotta</note>
+            <note>Uppgifter inom kåren:: tåglotta</note>
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
          </person>
@@ -723,7 +724,7 @@
                <surname>Lundmark</surname>
             </persName>
             <affiliation>Umeå lottakår</affiliation>
-            <note>Uppgifter inom kåren som kunnat fastställas: tåglotta</note>
+            <note>Uppgifter inom kåren:: tåglotta</note>
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
          </person>
@@ -733,7 +734,7 @@
                <surname>Lanlund</surname>
             </persName>
             <affiliation>Umeå lottakår</affiliation>
-            <note>Uppgifter inom kåren som kunnat fastställas: utspisningslotta</note>
+            <note>Uppgifter inom kåren:: utspisningslotta</note>
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
          </person>
@@ -743,7 +744,7 @@
                <surname>Lanlund</surname>
             </persName>
             <affiliation>Umeå lottakår</affiliation>
-            <note>Uppgifter inom kåren som kunnat fastställas: utspisningslotta</note>
+            <note>Uppgifter inom kåren:: utspisningslotta</note>
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
          </person>
@@ -753,7 +754,7 @@
                <surname>Lundgren</surname>
             </persName>
             <affiliation>Umeå lottakår</affiliation>
-            <note>Uppgifter inom kåren som kunnat fastställas: tåglotta</note>
+            <note>Uppgifter inom kåren:: tåglotta</note>
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
          </person>
@@ -763,7 +764,7 @@
                <surname>Lundgren</surname>
             </persName>
             <affiliation>Umeå lottakår</affiliation>
-            <note>Uppgifter inom kåren som kunnat fastställas: tåglotta</note>
+            <note>Uppgifter inom kåren:: tåglotta</note>
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
          </person>
@@ -773,7 +774,7 @@
                <surname>Lundström</surname>
             </persName>
             <affiliation>Umeå lottakår</affiliation>
-            <note>Uppgifter inom kåren som kunnat fastställas: v.tågchef</note>
+            <note>Uppgifter inom kåren:: v.tågchef</note>
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
          </person>
@@ -783,7 +784,7 @@
                <surname>Lindfors</surname>
             </persName>
             <affiliation>Umeå lottakår</affiliation>
-            <note>Uppgifter inom kåren som kunnat fastställas: utspisningslotta</note>
+            <note>Uppgifter inom kåren:: utspisningslotta</note>
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
          </person>
@@ -793,7 +794,7 @@
                <surname>Lundgren</surname>
             </persName>
             <affiliation>Umeå lottakår</affiliation>
-            <note>Uppgifter inom kåren som kunnat fastställas: karantänlotta</note>
+            <note>Uppgifter inom kåren:: karantänlotta</note>
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
          </person>
@@ -803,7 +804,7 @@
                <surname>Lagerdahl</surname>
             </persName>
             <affiliation>Umeå lottakår</affiliation>
-            <note>Uppgifter inom kåren som kunnat fastställas: karantänlotta</note>
+            <note>Uppgifter inom kåren:: karantänlotta</note>
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
          </person>
@@ -813,7 +814,7 @@
                <surname>Lundin</surname>
             </persName>
             <affiliation>Umeå lottakår</affiliation>
-            <note>Uppgifter inom kåren som kunnat fastställas: karantänlotta</note>
+            <note>Uppgifter inom kåren:: karantänlotta</note>
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
          </person>
@@ -823,7 +824,7 @@
                <surname>Malmlund</surname>
             </persName>
             <affiliation>Umeå lottakår</affiliation>
-            <note>Uppgifter inom kåren som kunnat fastställas: utspisninglotta, tåglotta,
+            <note>Uppgifter inom kåren:: utspisninglotta, tåglotta,
                smörgåsberedning </note>
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
@@ -834,7 +835,7 @@
                <surname>Malmgren</surname>
             </persName>
             <affiliation>Umeå lottakår</affiliation>
-            <note>Uppgifter inom kåren som kunnat fastställas: tåglotta</note>
+            <note>Uppgifter inom kåren:: tåglotta</note>
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
          </person>
@@ -844,7 +845,7 @@
                <surname>Modig</surname>
             </persName>
             <affiliation>Umeå lottakår</affiliation>
-            <note>Uppgifter inom kåren som kunnat fastställas: tåglotta, utspisningslotta</note>
+            <note>Uppgifter inom kåren:: tåglotta, utspisningslotta</note>
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
          </person>
@@ -854,7 +855,7 @@
                <surname>Mark</surname>
             </persName>
             <affiliation>Umeå lottakår</affiliation>
-            <note>Uppgifter inom kåren som kunnat fastställas: smörgåsberedare</note>
+            <note>Uppgifter inom kåren:: smörgåsberedare</note>
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
          </person>
@@ -864,7 +865,7 @@
                <surname>Nilsson</surname>
             </persName>
             <affiliation>Umeå lottakår</affiliation>
-            <note>Uppgifter inom kåren som kunnat fastställas: utspisningslotta, köksarbetare</note>
+            <note>Uppgifter inom kåren:: utspisningslotta, köksarbetare</note>
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
          </person>
@@ -874,7 +875,7 @@
                <surname>Nilson</surname>
             </persName>
             <affiliation>Umeå lottakår</affiliation>
-            <note>Uppgifter inom kåren som kunnat fastställas: förplägnadschef, tågchef,
+            <note>Uppgifter inom kåren:: förplägnadschef, tågchef,
                utspisningslotta, smörgåsberedare</note>
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
@@ -885,7 +886,7 @@
                <surname>Olsson</surname>
             </persName>
             <affiliation>Umeå lottakår</affiliation>
-            <note>Uppgifter inom kåren som kunnat fastställas: utspisningslotta</note>
+            <note>Uppgifter inom kåren:: utspisningslotta</note>
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
          </person>
@@ -895,7 +896,7 @@
                <surname>Pettersson</surname>
             </persName>
             <affiliation>Umeå lottakår</affiliation>
-            <note>Uppgifter inom kåren som kunnat fastställas: utspisningslotta, smörgåsberedare</note>
+            <note>Uppgifter inom kåren:: utspisningslotta, smörgåsberedare</note>
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
          </person>
@@ -905,7 +906,7 @@
                <surname>Persson</surname>
             </persName>
             <affiliation>Umeå lottakår</affiliation>
-            <note>Uppgifter inom kåren som kunnat fastställas: utspisningslotta</note>
+            <note>Uppgifter inom kåren:: utspisningslotta</note>
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
          </person>
@@ -915,7 +916,7 @@
                <surname>Rotelius</surname>
             </persName>
             <affiliation>Umeå lottakår</affiliation>
-            <note>Uppgifter inom kåren som kunnat fastställas: utspisningslotta, tåglotta</note>
+            <note>Uppgifter inom kåren:: utspisningslotta, tåglotta</note>
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
          </person>
@@ -925,7 +926,7 @@
                <surname>Ringqvist</surname>
             </persName>
             <affiliation>Umeå lottakår</affiliation>
-            <note>Uppgifter inom kåren som kunnat fastställas: smörgåsberedare</note>
+            <note>Uppgifter inom kåren:: smörgåsberedare</note>
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
          </person>
@@ -935,7 +936,7 @@
                <surname>Sundström</surname>
             </persName>
             <affiliation>Umeå lottakår</affiliation>
-            <note>Uppgifter inom kåren som kunnat fastställas: v. tågchef, smörgåsberedare,
+            <note>Uppgifter inom kåren:: v. tågchef, smörgåsberedare,
                utspisningslotta </note>
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
@@ -946,7 +947,7 @@
                <surname>Sundqvist</surname>
             </persName>
             <affiliation>Umeå lottakår</affiliation>
-            <note>Uppgifter inom kåren som kunnat fastställas: utspisningslotta</note>
+            <note>Uppgifter inom kåren:: utspisningslotta</note>
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
          </person>
@@ -957,7 +958,7 @@
                <surname>Sandström</surname>
             </persName>
             <affiliation>Umeå lottakår</affiliation>
-            <note>Uppgifter inom kåren som kunnat fastställas: tåglotta</note>
+            <note>Uppgifter inom kåren:: tåglotta</note>
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
          </person>
@@ -967,7 +968,7 @@
                <surname>Stenberg</surname>
             </persName>
             <affiliation>Umeå lottakår</affiliation>
-            <note>Uppgifter inom kåren som kunnat fastställas: köksarbetare</note>
+            <note>Uppgifter inom kåren:: köksarbetare</note>
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
          </person>
@@ -977,7 +978,7 @@
                <surname>Stenberg</surname>
             </persName>
             <affiliation>Umeå lottakår</affiliation>
-            <note>Uppgifter inom kåren som kunnat fastställas: köksarbetare</note>
+            <note>Uppgifter inom kåren:: köksarbetare</note>
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
          </person>
@@ -987,7 +988,7 @@
                <surname>Strandberg</surname>
             </persName>
             <affiliation>Umeå lottakår</affiliation>
-            <note>Uppgifter inom kåren som kunnat fastställas: köksarbetare, karantänspecialist </note>
+            <note>Uppgifter inom kåren:: köksarbetare, karantänspecialist </note>
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
          </person>
@@ -997,7 +998,7 @@
                <surname>Stjernvall</surname>
             </persName>
             <affiliation>Umeå lottakår</affiliation>
-            <note>Uppgifter inom kåren som kunnat fastställas: v.tågchef, smörgåsberedare </note>
+            <note>Uppgifter inom kåren:: v.tågchef, smörgåsberedare </note>
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
          </person>
@@ -1007,7 +1008,7 @@
                <surname>Sundqvist</surname>
             </persName>
             <affiliation>Umeå lottakår</affiliation>
-            <note>Uppgifter inom kåren som kunnat fastställas: smörgåsberedare</note>
+            <note>Uppgifter inom kåren:: smörgåsberedare</note>
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
          </person>
@@ -1017,7 +1018,7 @@
                <surname>Svensson</surname>
             </persName>
             <affiliation>Umeå lottakår</affiliation>
-            <note>Uppgifter inom kåren som kunnat fastställas: tåglotta</note>
+            <note>Uppgifter inom kåren:: tåglotta</note>
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
          </person>
@@ -1027,7 +1028,7 @@
                <surname>Säfström</surname>
             </persName>
             <affiliation>Umeå lottakår</affiliation>
-            <note>Uppgifter inom kåren som kunnat fastställas: tåglotta, köksarbetare</note>
+            <note>Uppgifter inom kåren:: tåglotta, köksarbetare</note>
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
          </person>
@@ -1037,7 +1038,7 @@
                <surname>Stocksén</surname>
             </persName>
             <affiliation>Umeå lottakår</affiliation>
-            <note>Uppgifter inom kåren som kunnat fastställas: tåglotta</note>
+            <note>Uppgifter inom kåren:: tåglotta</note>
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
          </person>
@@ -1047,7 +1048,7 @@
                <surname>Sandström</surname>
             </persName>
             <affiliation>Umeå lottakår</affiliation>
-            <note>Uppgifter inom kåren som kunnat fastställas: utspisningslotta</note>
+            <note>Uppgifter inom kåren:: utspisningslotta</note>
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
          </person>
@@ -1057,7 +1058,7 @@
                <surname>Svedbäck</surname>
             </persName>
             <affiliation>Umeå lottakår</affiliation>
-            <note>Uppgifter inom kåren som kunnat fastställas: smörgåsberedare</note>
+            <note>Uppgifter inom kåren:: smörgåsberedare</note>
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
          </person>
@@ -1067,7 +1068,7 @@
                <surname>Svensson</surname>
             </persName>
             <affiliation>Umeå lottakår</affiliation>
-            <note>Uppgifter inom kåren som kunnat fastställas: v.tågchef</note>
+            <note>Uppgifter inom kåren:: v.tågchef</note>
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
          </person>
@@ -1077,7 +1078,7 @@
                <surname>Swahn</surname>
             </persName>
             <affiliation>Umeå lottakår</affiliation>
-            <note>Uppgifter inom kåren som kunnat fastställas: karantänlotta</note>
+            <note>Uppgifter inom kåren:: karantänlotta</note>
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
          </person>
@@ -1087,7 +1088,7 @@
                <surname>Thulin</surname>
             </persName>
             <affiliation>Umeå lottakår</affiliation>
-            <note>Uppgifter inom kåren som kunnat fastställas: tåglotta </note>
+            <note>Uppgifter inom kåren:: tåglotta </note>
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
          </person>
@@ -1097,7 +1098,7 @@
                <surname>Wästfelt</surname>
             </persName>
             <affiliation>Umeå lottakår</affiliation>
-            <note>Uppgifter inom kåren som kunnat fastställas: utspisningslotta, tåglotta</note>
+            <note>Uppgifter inom kåren:: utspisningslotta, tåglotta</note>
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
          </person>
@@ -1107,7 +1108,7 @@
                <surname>Wikholm</surname>
             </persName>
             <affiliation>Umeå lottakår</affiliation>
-            <note>Uppgifter inom kåren som kunnat fastställas: utspisningslotta</note>
+            <note>Uppgifter inom kåren:: utspisningslotta</note>
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
          </person>
@@ -1117,7 +1118,7 @@
                <surname>Welander</surname>
             </persName>
             <affiliation>Umeå lottakår</affiliation>
-            <note>Uppgifter inom kåren som kunnat fastställas: tågchef, tåglotta</note>
+            <note>Uppgifter inom kåren:: tågchef, tåglotta</note>
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
          </person>
@@ -1127,7 +1128,7 @@
                <surname>Wästfelt</surname>
             </persName>
             <affiliation>Umeå lottakår</affiliation>
-            <note>Uppgifter inom kåren som kunnat fastställas: tåglotta, utspisningslotta</note>
+            <note>Uppgifter inom kåren:: tåglotta, utspisningslotta</note>
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
          </person>
@@ -1137,7 +1138,7 @@
                <surname>Widerlund</surname>
             </persName>
             <affiliation>Umeå lottakår</affiliation>
-            <note>Uppgifter inom kåren som kunnat fastställas: utspisninglotta, tåglotta </note>
+            <note>Uppgifter inom kåren:: utspisninglotta, tåglotta </note>
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
          </person>
@@ -1147,7 +1148,7 @@
                <surname>Wretling</surname>
             </persName>
             <affiliation>Umeå lottakår</affiliation>
-            <note>Uppgifter inom kåren som kunnat fastställas: utspisningslotta</note>
+            <note>Uppgifter inom kåren:: utspisningslotta</note>
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
          </person>
@@ -1157,7 +1158,7 @@
                <surname>Waller</surname>
             </persName>
             <affiliation>Umeå lottakår</affiliation>
-            <note>Uppgifter inom kåren som kunnat fastställas: tåglotta</note>
+            <note>Uppgifter inom kåren:: tåglotta</note>
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
          </person>
@@ -1167,7 +1168,7 @@
                <surname>Westin</surname>
             </persName>
             <affiliation>Umeå lottakår</affiliation>
-            <note>Uppgifter inom kåren som kunnat fastställas: karantänlotta</note>
+            <note>Uppgifter inom kåren:: karantänlotta</note>
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
          </person>
@@ -1177,7 +1178,7 @@
                <surname>Åhgren</surname>
             </persName>
             <affiliation>Umeå lottakår</affiliation>
-            <note>Uppgifter inom kåren som kunnat fastställas: tåglotta, köksarbetare,
+            <note>Uppgifter inom kåren:: tåglotta, köksarbetare,
                utspisningslotta</note>
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
@@ -1188,7 +1189,7 @@
                <surname>Åkerlund</surname>
             </persName>
             <affiliation>Umeå lottakår</affiliation>
-            <note>Uppgifter inom kåren som kunnat fastställas: tåglotta</note>
+            <note>Uppgifter inom kåren:: tåglotta</note>
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
          </person>
@@ -1198,7 +1199,7 @@
                <surname>Öhlund</surname>
             </persName>
             <affiliation>Umeå lottakår</affiliation>
-            <note>Uppgifter inom kåren som kunnat fastställas: tåglotta</note>
+            <note>Uppgifter inom kåren:: tåglotta</note>
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
          </person>
@@ -1210,55 +1211,65 @@
                <geo>63°49 42″N 20°16 14″Ö</geo>
             </location>
             <ptr target="https://sv.wikipedia.org/wiki/Umeå"></ptr>
+            <note>Tätort i Västrebotten. Beläget vid Umeälven.</note>
          </place>
 
          <place xml:id="holmsund" type="city">
             <settlement>Holmsund</settlement>
             <location>
-               <geo>63°49 42″N 20°16 14″Ö</geo>
+               <geo>63°42 1″N 20°21 9″Ö</geo>
             </location>
-            <ptr target="https://sv.wikipedia.org/wiki/Holmsund" />
+            <ptr target="https://umealvdal.se/besoksomraden/holmsund/holmsundshistorik/" />
+            <note>Hamnsamhälle vid Umälvens mynning. Idag en tätort i Umeå kommun. 
+               Från 1920-talet fungerade det som Umeås hamn.</note>
          </place>
          <place xml:id="bolea" type="city">
-            <settlement>Böleå</settlement>
+            <settlement>Böleå-Teg</settlement>
             <location>
-               <geo>63°49 42″N 20°16 14″Ö</geo>
+               <geo>63°49 2″N 20°14 51″Ö</geo>
             </location>
+            <note>Teg är en stadsdel i Umeå, medan Böleå i sin tur är ett område inom Teg. 
+            </note>
          </place>
-         <place xml:id="roback" type="city">
+         <place xml:id="roback" type="village">
             <settlement>Röbäck</settlement>
             <location>
-               <geo>63°49 42″N 20°16 14″Ö</geo>
+               <geo>63°48 28″ N 20°11 52″Ö</geo>
             </location>
+            <ptr target="https://umealvdal.se/besoksomraden/roback/#om"></ptr>
+            <note>Stadsdel i Umeå belägen på Umeävens södra strand.</note>
          </place>
-         <place xml:id="stocke" type="city">
+         <place xml:id="stocke" type="village">
             <settlement>Stöcke</settlement>
             <location>
-               <geo>63°49 42″N 20°16 14″Ö</geo>
+               <geo>63°44 24″N 20°13 48″Ö</geo>
+               <note>By belägen söder om Umeälven, cirka 10 kilometer från Umeå stad.</note>
             </location>
          </place>
-         <place xml:id="klabolle" type="city">
+         <place xml:id="klabolle" type="village">
             <settlement>Klabböle</settlement>
             <location>
-               <geo>63°49 50″N, 20° 7 0″Ö</geo>
+               <geo>63°49 50″N 20° 7 0″Ö</geo>
             </location>
+            <note>By eller småort belägen strax utanför Umeå på södra sidan av Umeälven.</note>
          </place>
-         <place xml:id="gimonas" type="city">
+         <place xml:id="gimonas" type="settlement">
             <settlement>Gimonäs</settlement>
             <location>
-               <geo>63°47 48″N, 20°18 40″Ö</geo>
+               <geo>63°47 48″N 20°18 40″Ö</geo>
             </location>
             <note>Stadsdel i Sydöstra Umeå</note>
          </place>
-         <place xml:id="V20" type="stadsdel">
+         <place xml:id="V20" type="settlement">
             <settlement>V:20</settlement>
             <location>
                <geo>63°49 42″N 20°16 14″Ö</geo>
             </location>
-            <note>
-               <p>Stadsdel i Umneå som användes av svenska militären</p>
-               <ptr target="https://sv.wikipedia.org/wiki/Ume%C3%A5_garnison">
-               </ptr>
+            <ptr target="https://sv.wikipedia.org/wiki/Ume%C3%A5_garnison">
+            </ptr>
+            <note>Både namnet på Västerbottens regemente och stadsdelen i Umeå 
+               Stadsdel i Umneå som användes av svenska militären.
+              
             </note>
          </place>
 
@@ -1268,11 +1279,12 @@
          <org xml:id="lotta">
             <orgName type="voluntary"><settlement> Umeå</settlement>Lottakår</orgName>
             <note>
-               <p>Militäriskt, icke-stridande kvinnoförband.
-                  Lottakårens medlemmar understödde beväpnade förband och ägnade sig åt diverse
+               <p>Försvarsorganisation för kvinnor grundat 1924.
+                  Under tiden för andra världskriget bestod lottakåren av icke-beväpnade förband, som understödde totalförsvaret, 
+                  utbildade sina medlemmar i krisberedskap och bidrog med olika
                   samhälleliga insattser.</p>
             </note>
-            <ptr target="https://sv.wikipedia.org/wiki/Svenska_Lottak%C3%A5ren" />
+            <ptr target="https://www.svenskalottakaren.se/lottakarer/umea-lottakar" />
          </org>
          <org xml:id="orgK4">
             <orgName>K 4</orgName>
@@ -1903,7 +1915,7 @@
                <p rend="indent">Under den tid då <hi rend="u">finnarna evakuerades </hi>över till <name
                      type="place">Sverige</name>, hjälpte lottorna till med utspisning vid deras
                   ankomst. Vid de <hi rend="u">evakuerings-läger </hi>som inrättades bl.a. i <name
-                     type="place" ref="#bolea">Böleå - Teg</name>, <name type="place" ref="#roback">
+                     type="place" ref="#bolea">Böleå-Teg</name>, <name type="place" ref="#roback">
                   Röbäck</name>, <name type="place" ref="#stocke">Stöcke</name> och <name
                      type="place" ref="#klabbole">Klabböle</name> tjänstgjorde även lottor. <hi
                      rend="u">82 lottor med 9873 tjänstgöringstim.</hi></p>
