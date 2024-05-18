@@ -63,11 +63,11 @@
                </physDesc>
                <msContents>
                   <p>Innehåller bland annat delar om lottornas arbete med
-                     flyktingmottagandet av finska barn hösten 1944. Består av totalt 2010 sidor
+                     flyktingmottagandet av finska barn hösten 1944. Består av totalt 210 sidor
                      inklusive tomma blad.
                      Antal uppslag i dagboken: 105, varav tio transkriberats. Varje uppslag utgör två
                      handskrivna sidor i dagboken vilket innebär att 17 sidor valts ut och transkriberats.
-                     Innehåller namn på lottor som tjänstgjorde under denna tid, platser och datum.
+                     Innehåller namn på lottor som tjänstgjorde under denna tid, samt platser och datum kopplade till detta.
                   </p>
                </msContents>
             </msDesc>
@@ -89,8 +89,8 @@
             <p>
                Främst de delar av fältdagboken
                som berör mottagandet av finska flyktingbarn under hösten 1944. Urvalet har gjorts
-               utifrån vad som ansets relevant för projektet planerat av hembygdsföreningen i Umeå,
-               och består av tio bilder som representerar ett uppslag vardera.
+               utifrån vad som ansetts relevant för projektet planerat av hembygdsföreningen i Umeå,
+               och består av tio bilder som representerar ett uppslag vardera. Se <ref target="https://github.com/klapperbrygga/mall">guidelines-en.xml</ref> för tillgång till filer. 
             </p>
          </samplingDecl>
          <editorialDecl>
@@ -1247,11 +1247,9 @@
             <orgName>Hjälpkommitten för Finlands barn</orgName>
             <ptr target="https://riksarkivet.se/motkallorna/hjalpkommitten-for-finlands-barn"/>
          </org>
-
          <org xml:id="lc">
             <orgName>L-c lottorna</orgName>
          </org>
-
       </listOrg>
    </standOff>
 
@@ -1359,13 +1357,6 @@
          </figure>
       </surface>
      
-
-      <surface xml:id="sida_102" ulx="0" uly="0" lrx="500" lry="321">
-         <figure>
-            <label>Översikt av arbetsåret 1/7 1944 - 30/6 1945</label>
-            <graphic url="assets/img/documents/sida_101.jpg"> </graphic>
-         </figure>
-      </surface>
       <surface ulx="0" uly="0" lrx="500" lry="321" xml:id="sida_102">
          <zone ulx="0" uly="0" lrx="500" lry="321">
             <graphic url="assets/img/documents/sida_102.jpg"> </graphic>
