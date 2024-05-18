@@ -1330,20 +1330,6 @@
             <graphic url="../collection/img/sida_100.tiff"></graphic>
          </figure>
       </surface>
-      <surface xml:id="sida_101">
-         <figure>
-            <label>Översikt av arbetsåret 1/7 1944 - 30/6 1945</label>
-            <graphic url="assets/img/documents/sida_101.jpg" width="100cm" height="100cm"> </graphic>
-            <graphic url="../collection/img/sida_101.tiff"></graphic>
-         </figure>
-      </surface>
-      <surface xml:id="sida_102">
-         <figure>
-            <label>forts. översikt av arbetsåret 1/7 1944 - 30/6 1945</label>
-            <graphic url="assets/img/documents/sida_102.jpg" width="100cm" height="300cm"> </graphic>
-            <graphic url="../collection/img/sida_102.tiff"></graphic>
-         </figure>
-      </surface>
 
       <surface ulx="0" uly="0" lrx="500" lry="321" xml:id="sida_101">
          <figure>
