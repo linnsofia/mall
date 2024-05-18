@@ -35,11 +35,7 @@
          <sourceDesc>
             <msDesc>
                <msIdentifier>
-                  <!-- Kommentar: Kan vi lägga till mer info här? Hur benämns dagboken av arkivet?
-                  Finns någon numrering etc? -->
-
-                  <institution>
-
+               <institution>
                      <address>
                         <name>
                            <ref target="https://www.folkrorelsearkivet.se/">Folkrörelsearkivet i
@@ -51,43 +47,31 @@
                            903 42 Umeå</addrLine>
                      </address>
                   </institution>
-
                   <msName>
                      <name> Fälttjänst U.S.L.K Oktober 1939—</name>
                   </msName>
                   <objectName>Tjänstgöringsdagbok</objectName>
-
-
                </msIdentifier>
                <physDesc>
                   <objectDesc>
-
                      <p>
                         <abbr>
                            U.S.L.K
                         </abbr>Tjänstgöringsdagbok
                         från Folkrörelsearkivet i Västerbotten. Mått: 17x20,5 cm och 1,2 cm tjock.</p>
-
                   </objectDesc>
-
                </physDesc>
-
                <msContents>
                   <p>Innehåller bland annat delar om lottornas arbete med
-                     flyktingmottagandet av finska barn hösten 1944. Består av totalt XX sidor
+                     flyktingmottagandet av finska barn hösten 1944. Består av totalt 2010 sidor
                      inklusive tomma blad.
-                     Antal uppslag i dagboken: XX, varav tio transkriberats. Varje uppslag utgör två
-                     handskrivna sidor i dagboken
-
+                     Antal uppslag i dagboken: 105, varav tio transkriberats. Varje uppslag utgör två
+                     handskrivna sidor i dagboken vilket innebär att 17 sidor valts ut och transkriberats.
                      Innehåller namn på lottor som tjänstgjorde under denna tid, platser och datum.
-
                   </p>
                </msContents>
-
-
             </msDesc>
          </sourceDesc>
-
       </fileDesc>
       <encodingDesc>
          <projectDesc>
@@ -186,6 +170,9 @@
             </handNote>
          </handNotes>
       </profileDesc>
+      <xenoData></xenoData>
+   
+   
    </teiHeader>
 
    <standOff>
@@ -1249,24 +1236,21 @@
          <orgName type="voluntary"><settlement> Umeå</settlement>Lottakår</orgName>
          <note><p>Militäriskt, icke-stridande kvinnoförband. 
             Lottakårens medlemmar understödde beväpnade förband och ägnade sig åt diverse samhälleliga insattser.</p></note>
-            <link target="https://sv.wikipedia.org/wiki/Svenska_Lottak%C3%A5ren"></link>
-         <ptr target="https://www.forsvarsmakten.se/sv/organisation/norrlands-dragonregemente-k-4/"/>
+         <ptr target="https://sv.wikipedia.org/wiki/Svenska_Lottak%C3%A5ren"/>
       </org>
 <org xml:id="orgK4">
    <orgName>K 4</orgName>
    <note>Norrlands dragonregemente</note>
-   <link target="https://www.forsvarsmakten.se/sv/organisation/norrlands-dragonregemente-k-4/"></link>
+   <ptr target="https://www.forsvarsmakten.se/sv/organisation/norrlands-dragonregemente-k-4/"/>
 </org>
-
          <org xml:id="hjalp">
             <orgName>Hjälpkommitten för Finlands barn</orgName>
-            <link target="https://riksarkivet.se/motkallorna/hjalpkommitten-for-finlands-barn"></link>
+            <ptr target="https://riksarkivet.se/motkallorna/hjalpkommitten-for-finlands-barn"/>
          </org>
 
          <org xml:id="lc">
             <orgName>L-c lottorna</orgName>
          </org>
-
 
       </listOrg>
    </standOff>
@@ -1346,12 +1330,21 @@
          <figure>
             <label>Översikt av arbetsåret 1/7 1944 - 30/6 1945</label>
             <graphic url="assets/img/documents/sida_100.jpg"> </graphic>
+            <graphic url="../collection/img/sida_100.tiff"></graphic>
          </figure>
       </surface>
       <surface xml:id="sida_101">
          <figure>
             <label>Översikt av arbetsåret 1/7 1944 - 30/6 1945</label>
             <graphic url="assets/img/documents/sida_101.jpg"> </graphic>
+            <graphic url="../collection/img/sida_101.tiff"></graphic>
+         </figure>
+      </surface>
+      <surface xml:id="sida_102">
+         <figure>
+            <label>...</label>
+            <graphic url="assets/img/documents/sida_102.jpg"> </graphic>
+            <graphic url="../collection/img/sida_102.tiff"></graphic>
          </figure>
       </surface>
 
@@ -1362,8 +1355,10 @@
                Slutet av fältdagboken och signering.
             </figDesc>
             <graphic url="assets/img/documents/sida_102.jpg"> </graphic>
+            <graphic url="../collection/img/sida_102.tiff"></graphic>
          </figure>
       </surface>
+     
 
       <surface xml:id="sida_102" ulx="0" uly="0" lrx="500" lry="321">
          <figure>
