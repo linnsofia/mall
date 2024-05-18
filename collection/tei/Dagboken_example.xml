@@ -1260,7 +1260,7 @@
             <figDesc>
                Dagbokens omslag, framsida.
             </figDesc>
-            <graphic url="assets/img/documents/dagbok_cover_omslag.jpg" />
+            <graphic url="assets/img/documents/dagbok_cover_omslag.jpg" width="100cm" height="100cm" />
             <graphic url="../collection/img/sida_001_omslag.tiff"></graphic>
          </figure>
       </surface>
@@ -1268,9 +1268,8 @@
          <figure>
             <label>21 juli–18 sep. Första resan</label>
             <figDesc>Sidor ur dagboken som beskriver lottornas arbete under hösten 1944, däribland
-               första
-               transporten ("resan") av finska flyktingbarn.</figDesc>
-            <graphic url="assets/img/documents/sida_085_1a_resan.jpg"></graphic>
+               första transporten ("resan") av finska flyktingbarn.</figDesc>
+            <graphic url="assets/img/documents/sida_085_1a_resan.jpg" width="100cm" height="100cm"></graphic>
             <graphic url="../collection/img/sida_085.tiff" />
          </figure>
       </surface>
@@ -1280,7 +1279,7 @@
             <figDesc>
                Sidor ur dagboken som beskriver andra till och med början på fjärde resan.
             </figDesc>
-            <graphic url="assets/img/documents/sida_086_2-3-4e_resan.jpg" />
+            <graphic url="assets/img/documents/sida_086_2-3-4e_resan.jpg" width="100cm" height="100cm" />
             <graphic url="../collection/img/sida_086.tiff"></graphic>
          </figure>
       </surface>
@@ -1290,7 +1289,7 @@
             <figDesc>
                Sidor ur dagboken som beskriver femte och sjätte resan.
             </figDesc>
-            <graphic url="assets/img/documents/sida_087_5-6e_resan.jpg" />
+            <graphic url="assets/img/documents/sida_087_5-6e_resan.jpg" width="100cm" height="100cm"/>
             <graphic url="../collection/img/sida_087.tiff"></graphic>
          </figure>
       </surface>
@@ -1300,7 +1299,7 @@
             <figDesc>
                Sidor ur dagboken som beskriver sjunde, åttonde och nionde resan.
             </figDesc>
-            <graphic url="assets/img/documents/sida_088_7-8-9e_resan.jpg" />
+            <graphic url="assets/img/documents/sida_088_7-8-9e_resan.jpg" width="100cm" height="100cm"/>
             <graphic url="../collection/img/sida_088.tiff"></graphic>
          </figure>
       </surface>
@@ -1310,7 +1309,7 @@
             <figDesc>
                Sidor ur dagboken som beskriver tionde resan.
             </figDesc>
-            <graphic url="assets/img/documents/sida_089_10e_resan.jpg" />
+            <graphic url="assets/img/documents/sida_089_10e_resan.jpg" width="100cm" height="100cm"/>
             <graphic url="../collection/img/sida_089.tiff"></graphic>
          </figure>
       </surface>
@@ -1320,33 +1319,33 @@
             <figDesc>
                Summering av fältdagbokens innehåll.
             </figDesc>
-            <graphic url="assets/img/documents/sida_099_Översikt_arbetsåret.jpg" />
+            <graphic url="assets/img/documents/sida_099_Översikt_arbetsåret.jpg" width="100cm" height="100cm" />
             <graphic url="../collection/img/sida_099.tiff"></graphic>
          </figure>
       </surface>
       <surface xml:id="sida_100">
          <figure>
             <label>Översikt av arbetsåret 1/7 1944 - 30/6 1945</label>
-            <graphic url="assets/img/documents/sida_100.jpg"> </graphic>
+            <graphic url="assets/img/documents/sida_100.jpg" width="100cm" height="100cm"> </graphic>
             <graphic url="../collection/img/sida_100.tiff"></graphic>
          </figure>
       </surface>
       <surface xml:id="sida_101">
          <figure>
             <label>Översikt av arbetsåret 1/7 1944 - 30/6 1945</label>
-            <graphic url="assets/img/documents/sida_101.jpg"> </graphic>
+            <graphic url="assets/img/documents/sida_101.jpg" width="100cm" height="100cm"> </graphic>
             <graphic url="../collection/img/sida_101.tiff"></graphic>
          </figure>
       </surface>
       <surface xml:id="sida_102">
          <figure>
-            <label>...</label>
-            <graphic url="assets/img/documents/sida_102.jpg"> </graphic>
+            <label>forts. översikt av arbetsåret 1/7 1944 - 30/6 1945</label>
+            <graphic url="assets/img/documents/sida_102.jpg" width="100cm" height="300cm"> </graphic>
             <graphic url="../collection/img/sida_102.tiff"></graphic>
          </figure>
       </surface>
 
-      <surface ulx="0" uly="0" lrx="500" lry="321" xml:id="x">
+      <surface ulx="0" uly="0" lrx="500" lry="321" xml:id="sida_101">
          <figure>
             <label>Översikt av arbetsåret 1/7 1944 - 30/6 1945</label>
             <figDesc>
