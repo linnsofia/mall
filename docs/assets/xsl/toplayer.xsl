@@ -41,7 +41,7 @@
                         <!-- define a row layout with bootstrap's css classes (two columns with content, and an empty column in between) -->
                         <div class="row">
                             <div class="col-md">
-                                <h3>Images</h3>
+                                <h3>Bilder</h3>
                             </div>
                            
                         </div>

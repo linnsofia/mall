@@ -63,7 +63,39 @@
                                 </div>
                             </div>  
                         </xsl:for-each>
+
+                        <xsl:for-each select="//tei:listPLace/tei:place"/>
+                        <div class="row">
+                            <div class="col-sm">
+                                <p>
+                                    <xsl:value-of select="tei:settlement"/><xsl:text> </xsl:text>
+                                <xsl:value-of select="tei:location/tei:geo"/></p>
+                                
+                            </div>
+                            <div class="col-sm">
+                                <p><xsl:value-of select="tei:ptr"/><xsl:text> </xsl:text><br/>
+                                    <xsl:value-of select="tei:note"/></p>
+                            </div>
+                        </div>  
+                   
+
+                    <xsl:for-each select="//tei:listOrg/tei:orgName">
+                        <div class="row">
+                            <div class="col-sm">
+                                <p>
+                                    <xsl:value-of select="tei:settlement"/><xsl:text> </xsl:text>
+                                <xsl:value-of select="tei:location/tei:geo"/></p>
+                                
+                            </div>
+                            <div class="col-sm">
+                                <p><xsl:value-of select="tei:ptr"/><xsl:text> </xsl:text><br/>
+                                    <xsl:value-of select="tei:note"/></p>
+                            </div>
+                        </div>  
+                    </xsl:for-each>
+
                     </div>
+                
                 </main>
                 <footer>
                 <div class="row" id="footer">
