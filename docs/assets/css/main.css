@@ -61,13 +61,23 @@ footer {
 
 
 #collection {
-    display: flex;
+    display: flex; 
+}
+
+#relativ {
+    display: flex; position: relative; 
 }
 
 .thumbnail {
     margin: 5px;
     border: 1px solid black;
     width: 100px;
+}
+
+.thumbis {
+    margin: 5px;
+    border: 1px solid black;
+    width: 100px; float: left;
 }
 
 .img-full {
