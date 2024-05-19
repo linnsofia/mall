@@ -21,7 +21,7 @@
                     crossorigin="anonymous"/>
                 <!-- load the stylesheets in the assets/css folder, where you can modify the styling of your website -->
                 <link rel="stylesheet" href="assets/css/main.css"/>
-                
+                <link rel="stylesheet" href="assets/css/desktop.css"/>
             </head>
             <body>
                 <header>
@@ -30,10 +30,11 @@
                     </h1>
                 </header>
                 <nav id="sitenav">
-                    <a href="index.html">Home</a> |
-                    <a href="diplomatic.html">Diplomatic Transcription</a> |
-                    <a href="reading.html">Reading Text</a> |
-                    <a href="toplayer.html">Top Layer</a> |
+                    <a href="index.html">Hem</a> |
+                    <a href="diplomatic.html">Diplomatisk Trankription</a> |
+                    <a href="reading.html">Lästext</a> |
+                    <a href="toplayer.html">Galleri</a> |
+                    <a href="personer-1.html">Lista på lottor</a>
                 </nav>
                 <main id="manuscript">
                     <!-- bootstrap "container" class makes the columns look pretty -->
