@@ -1491,14 +1491,15 @@
             <figDesc>
                Slutet av fältdagboken och signering.
             </figDesc>
-            <graphic url="assets/img/documents/sida_102.jpg"> </graphic>
-            <graphic url="../collection/img/sida_102.tiff"></graphic>
+            <graphic url="assets/img/documents/sida_101.jpg"> </graphic>
+            <graphic url="../collection/img/sida_101.tiff"></graphic>
          </figure>
       </surface>
 
       <surface ulx="0" uly="0" lrx="500" lry="321" xml:id="sida_102">
          <zone ulx="0" uly="0" lrx="500" lry="321">
             <graphic url="assets/img/documents/sida_102.jpg"> </graphic>
+            <graphic url="../collection/img/sida_102.tiff"></graphic>
          </zone>
          <zone ulx="50" uly="20" lrx="210" lry="280">
             <!-- left hand page -->
