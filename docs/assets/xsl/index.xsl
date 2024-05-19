@@ -29,12 +29,11 @@
                         <xsl:apply-templates select="//tei:titleStmt/tei:title"/>
                     </h1>
                 </header>
-                <nav id="sitenav">
-                    <a href="index.html">Hem</a> |
+                <nav id="sitenav"><a href="index.html">Hem</a> |
                     <a href="diplomatic.html">Diplomatisk Transkription</a> |
-                    <a href="reading.html">Läsversion</a> |
+                    <a href="reading.html">Lästext</a> |
                     <a href="toplayer.html">Galleri</a> |
-                    <a href="personer-1.html">Lista på lottor</a> |
+                    <a href="personer-1-kopia.html">Lista på Lottor</a> 
                 </nav>
                 <main id="manuscript">
                     <!-- bootstrap "container" class makes the columns look pretty -->
