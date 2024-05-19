@@ -27,7 +27,7 @@
                <persName>Malin Färdig</persName>
                <persName>Clara Berndes</persName>
                <note>Bilderna av den digitaliserade tjänstgöringsdagboken och tillhörande metadata
-                  har gjorts tillgängligt på nätet
+                  har gjorts tillgängligt på nätet.
                   inom ramen för en skoluppgift på Högskolan i Borås, och är därmed ingen
                   kommersiell publicering.</note>
             </authority>
@@ -230,7 +230,9 @@
             </persName>
             <affiliation>Umeå lottakår</affiliation>
             <note>Uppgifter inom kåren: utspisningslotta, köksarbetare, tåglotta, husmor i
-               barnkarantänförläggning i <placeName> Vännäs</placeName></note>
+               barnkarantänförläggning i <placeName ref="#vannas"> Vännäs</placeName>, tjänstgöring
+               vid evakueringslägret i <placeName ref="#roback">Röbäck</placeName> och <placeName
+                  ref="#klabbole">Klabböle</placeName></note>
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
          </person>
@@ -261,7 +263,8 @@
                <surname>Beckman</surname>
             </persName>
             <affiliation>Umeå lottakår</affiliation>
-            <note>Uppgifter inom kåren: utspisningslotta, smörgåsberedning, chef för servering vid skytteövning</note>
+            <note>Uppgifter inom kåren: utspisningslotta, smörgåsberedning, chef för servering vid
+               skytteövning</note>
             <birth notAfter="1939"></birth>
          </person>
          <person xml:id="B5">
@@ -280,7 +283,8 @@
                <surname>Beckman</surname>
             </persName>
             <affiliation>Umeå lottakår</affiliation>
-            <note>Uppgifter inom kåren: tåglotta, utspisningslotta, tjänstgöring vid K4</note>
+            <note>Uppgifter inom kåren: tåglotta, utspisningslotta, tjänstgöring vid K4,
+               tjänstgöring i evakueringslägret i <placeName ref="#bolea">Böleå-Teg</placeName></note>
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
          </person>
@@ -350,7 +354,8 @@
                <surname>Engman</surname>
             </persName>
             <affiliation>Umeå lottakår</affiliation>
-            <note>Uppgifter inom kåren: utspisninglotta</note>
+            <note>Uppgifter inom kåren: utspisninglotta, tjänstgöring vid evakueringslägret i <placeName
+                  ref="#roback">Röbäck</placeName> och <placeName ref="#klabbole">Klabböle</placeName></note>
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
          </person>
@@ -370,7 +375,8 @@
                <surname>Edstedt</surname>
             </persName>
             <affiliation>Umeå lottakår</affiliation>
-            <note>Uppgifter inom kåren: utspisninglotta, tjänstgöring vid K4, lottachef för evakueringslägret i Stöcke</note>
+            <note>Uppgifter inom kåren: utspisninglotta, tjänstgöring vid K4, lottachef för
+               evakueringslägret i Stöcke och tjänsgöring i <placeName ref="#roback">Röbäck</placeName></note>
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
          </person>
@@ -420,7 +426,8 @@
                <surname>Engqvist</surname>
             </persName>
             <affiliation>Umeå lottakår</affiliation>
-            <note>Uppgifter inom kåren: utspisningslotta, tjänstgöring vid K4</note>
+            <note>Uppgifter inom kåren: utspisningslotta, tjänstgöring vid K4, tjänstgöring i
+               evakueringslägret i <placeName ref="#bolea">Böleå-Teg</placeName></note>
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
          </person>
@@ -490,7 +497,8 @@
                <surname>Westin Gustafsson</surname>
             </persName>
             <affiliation>Umeå lottakår</affiliation>
-            <note>Uppgifter inom kåren: utspisningslotta</note>
+            <note>Uppgifter inom kåren: utspisningslotta, tjänstgöring i evakueringslägret i <placeName
+                  ref="#bolea">Böleå-Teg</placeName></note>
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
          </person>
@@ -600,7 +608,8 @@
                <surname>Jonsson</surname>
             </persName>
             <affiliation>Umeå lottakår</affiliation>
-            <note>Uppgifter inom kåren :köksarbetare, tjänstgöring vid I.20, lottachef för evakueringslägret i Böleå-Teg</note>
+            <note>Uppgifter inom kåren :köksarbetare, tjänstgöring vid I.20, lottachef i
+               evakueringslägret i <placeName ref="#bolea">Böleå-Teg</placeName></note>
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
          </person>
@@ -641,7 +650,7 @@
                <surname>Johansson</surname>
             </persName>
             <affiliation>Umeå lottakår</affiliation>
-            <note>Uppgifter inom kåren: utspisningslotta,</note>
+            <note>Uppgifter inom kåren: utspisningslotta, </note>
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
          </person>
@@ -671,8 +680,8 @@
                <surname>Krikortz</surname>
             </persName>
             <affiliation>Umeå lottakår</affiliation>
-            <note>Uppgifter inom kåren: utspisningslotta, smörgåsberedning,
-               Tågchef, v. tågchef, förläggningschef vid Vännäs.</note>
+            <note>Uppgifter inom kåren: utspisningslotta, smörgåsberedning, Tågchef, v. tågchef,
+               förläggningschef i <placeName ref="#vannas"> Vännäs</placeName>.</note>
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
          </person>
@@ -753,7 +762,8 @@
                <surname>Lundgren</surname>
             </persName>
             <affiliation>Umeå lottakår</affiliation>
-            <note>Uppgifter inom kåren: tåglotta, tjänstgöring vid I.20</note>
+            <note>Uppgifter inom kåren: tåglotta, tjänstgöring vid I.20, tjänstgöring i
+               evakueringslägret i <placeName ref="#bolea">Böleå-Teg</placeName></note>
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
          </person>
@@ -803,7 +813,8 @@
                <surname>Lundin</surname>
             </persName>
             <affiliation>Umeå lottakår</affiliation>
-            <note>Uppgifter inom kåren: karantänlotta</note>
+            <note>Uppgifter inom kåren: karantänlotta, tjänstgöring vid evakueringslägret i <placeName
+                  ref="#roback">Röbäck</placeName></note>
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
          </person>
@@ -1027,7 +1038,8 @@
                <surname>Stocksén</surname>
             </persName>
             <affiliation>Umeå lottakår</affiliation>
-            <note>Uppgifter inom kåren: tåglotta</note>
+            <note>Uppgifter inom kåren: tåglotta, tjänstgöring vid evakueringslägret i <placeName
+                  ref="#bolea">Böleå-Teg</placeName></note>
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
          </person>
@@ -1043,7 +1055,7 @@
          </person>
          <person xml:id="S13">
             <persName>
-               <forename>margit</forename>
+               <forename>Margit</forename>
                <surname>Svedbäck</surname>
             </persName>
             <affiliation>Umeå lottakår</affiliation>
@@ -1067,7 +1079,8 @@
                <surname>Swahn</surname>
             </persName>
             <affiliation>Umeå lottakår</affiliation>
-            <note>Uppgifter inom kåren: karantänlotta, lottachef för evakueringslägret i Röbäck</note>
+            <note>Uppgifter inom kåren: karantänlotta, lottachef för evakueringslägret i <placeName
+                  ref="#roback">Röbäck</placeName></note>
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
          </person>
@@ -1157,7 +1170,8 @@
                <surname>Westin</surname>
             </persName>
             <affiliation>Umeå lottakår</affiliation>
-            <note>Uppgifter inom kåren: karantänlotta, lottachef för evakueringslägret i Röbäck</note>
+            <note>Uppgifter inom kåren: karantänlotta, lottachef för evakueringslägret i <placeName
+                  ref="#roback">Röbäck</placeName></note>
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
          </person>
@@ -1167,8 +1181,8 @@
                <surname>Åhgren</surname>
             </persName>
             <affiliation>Umeå lottakår</affiliation>
-            <note>Uppgifter inom kåren: tåglotta, köksarbetare,
-               utspisningslotta, tjänstgöring vid K4</note>
+            <note>Uppgifter inom kåren: tåglotta, köksarbetare, utspisningslotta, tjänstgöring vid
+               K4, tjänstgöring vid evakueringslägr i <placeName ref="#bolea">Böleå-Teg</placeName></note>
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
          </person>
@@ -1188,7 +1202,8 @@
                <surname>Öhlund</surname>
             </persName>
             <affiliation>Umeå lottakår</affiliation>
-            <note>Uppgifter inom kåren: tåglotta</note>
+            <note>Uppgifter inom kåren: tåglotta, tjänstgöring vid evakueringslägret i <placeName
+                  ref="#bolea">Böleå-Teg</placeName></note>
             <birth notAfter="1939"></birth>
             <sex>Kvinna</sex>
          </person>
@@ -1357,10 +1372,90 @@
          <figure>
             <label>Tionde resan</label>
             <figDesc>
-               Sidor ur dagboken som beskriver tionde resan.
+               Sidor ur dagboken som bl.a beskriver tionde resan.
             </figDesc>
             <graphic url="assets/img/documents/sida_089_10e_resan.jpg" width="100cm" height="100cm" />
             <graphic url="../collection/img/sida_089.tiff"></graphic>
+         </figure>
+      </surface>
+
+      <surface xml:id="sida_090">
+         <figure>
+            <figDesc>
+               Bl.a tjänstgöring vid K4 och I.20.
+            </figDesc>
+            <graphic url="assets/img/documents/sida_090.jpg"> </graphic>
+            <graphic url="../collection/img/sida_090.tiff"></graphic>
+         </figure>
+      </surface>
+      <surface xml:id="sida_091">
+         <figure>
+            <figDesc>
+               Bl.a tjänstgöring vid K4 och evakueringsläger. 
+            </figDesc>
+            <graphic url="assets/img/documents/sida_091.jpg"> </graphic>
+            <graphic url="../collection/img/sida_091.tiff"></graphic>
+         </figure>
+      </surface>
+      <surface xml:id="sida_092">
+         <figure>
+            <figDesc>
+               B.la tjänstgöring vid K4 och evakueringsläger. 
+            </figDesc>
+            <graphic url="assets/img/documents/sida_092.jpg"> </graphic>
+            <graphic url="../collection/img/sida_092.tiff"></graphic>
+         </figure>
+      </surface>
+      <surface xml:id="sida_093">
+         <figure>
+            <figDesc>
+               B.la tjänstgöring vid K4 och evakueringsläger. 
+            </figDesc>
+            <graphic url="assets/img/documents/sida_093.jpg"> </graphic>
+            <graphic url="../collection/img/sida_093.tiff"></graphic>
+         </figure>
+      </surface>
+      <surface xml:id="sida_094">
+         <figure>
+            <figDesc>       
+            </figDesc>
+            <graphic url="assets/img/documents/sida_094.jpg"> </graphic>
+            <graphic url="../collection/img/sida_094.tiff"></graphic>
+         </figure>
+      </surface>
+      <surface xml:id="sida_095">
+         <figure>
+            <figDesc>
+               
+            </figDesc>
+            <graphic url="assets/img/documents/sida_095.jpg"> </graphic>
+            <graphic url="../collection/img/sida_095.tiff"></graphic>
+         </figure>
+      </surface>
+      <surface xml:id="sida_096">
+         <figure>
+            <figDesc>      
+            </figDesc>
+            <graphic url="assets/img/documents/sida_096.jpg"> </graphic>
+            <graphic url="../collection/img/sida_096.tiff"></graphic>
+         </figure>
+      </surface>
+      <surface xml:id="sida_097">
+         <figure>
+            <figDesc>
+               
+            </figDesc>
+            <graphic url="assets/img/documents/sida_097.jpg"> </graphic>
+            <graphic url="../collection/img/sida_097.tiff"></graphic>
+         </figure>
+      </surface>
+      <surface xml:id="sida_098">
+         <figure>
+            <figDesc>
+               
+            </figDesc>
+            <graphic url="assets/img/documents/sida_098.jpg"> </graphic>
+            <graphic url="../collection/img/sida_098.tiff"></graphic>
          </figure>
       </surface>
       <surface xml:id="sida_099_Översikt_arbetsåret">
@@ -1410,10 +1505,7 @@
          </zone>
       </surface>
    </facsimile>
-
-
    <text>
-
       <front>
          <div type="omslag" facs="#dagbok_cover_omslag">
             <head>
@@ -1424,7 +1516,6 @@
       <body>
          <div type="rapport" n="1">
             <div n="1" type="page" facs="#sida_85_1a_resan">
-
                <p>
                   <hi rend="u"> Under tiden 21 juli-18 sept på-<lb />gingo transporter av finska
                      barn över <name type="place">Umeå</name></hi>
@@ -1446,14 +1537,8 @@
                <p> na sköttes av lottorna. Med tåget<lb /> följde en köksvagn där maten la-<lb />
                   gades. Sedan bars den ut i de<lb /> olika vagnarna. 10 sådana trans-<lb /> porter
                   gingo över <name type="place" ref="#umea">Umeå</name>.<lb /> 
-
-
-            
-            
-             
             <hi rend="u">Första
                   resan:
-
                      Utspisningslottor:</hi>
                <name type="person" ref="#F1">Gurli Forsberg</name> <lb /><name
                      type="person" ref="#V1">Karin Wästfelt</name>, <name type="person" ref="#H1">Lilian
@@ -1557,7 +1642,8 @@
                      Berg</name>, <name type="person" ref="M2">Agda Malmgren</name>, <name
                      type="person" ref="F3">Karin <lb />Fhalén</name><lb />
                      <hi rend="u"> Tåglottor:</hi> 
-                     <name type="person" ref="#B1"> Ester Berg</name>, <name type="person" ref="#L1">
+                     <name
+                     type="person" ref="#B1"> Ester Berg</name>, <name type="person" ref="#L1">
                      Hanna Lindbladh</name>, <name type="person" ref="#F4">Anna Forsgren</name> och <name
                      type="person" ref="#J3">Anna- Greta Johansson</name>. <hi rend="u">
                   Smörgåsberedning:</hi>  
@@ -1689,10 +1775,10 @@
                      Pettersson</name>, <name type="person" ref="#M3">Elsa Modig</name>, <lb /><name
                      type="person" ref="#S12">Amy Sandström</name> 
             <name type="person" ref="#V2">Elisabet
-                  Nilson</name> <lb/>
+                  Nilson</name> <lb />
             <name type="person" ref="#F1">Gurli Forsberg</name>, <name
-                     type="person" ref="#E8">Vivi Engqvist</name>, <name type="person" ref="#E4">Ida
-                        <lb/>Eriksson</name>, <name type="person" ref="#J5">Lilly Johansson</name>.<lb /> 
+                     type="person" ref="#E8">Vivi Engqvist</name>, <name type="person" ref="#E4">Ida <lb />
+                  Eriksson</name>, <name type="person" ref="#J5">Lilly Johansson</name>.<lb /> 
             <hi
                      rend="u">Tågchef:</hi> <name type="person" ref="#V2"> Elisabet Nilson</name><lb /> 
             <hi
@@ -1804,7 +1890,8 @@
                <hi rendition="u">Under
                   tiden <lb /> 15 juli - 10 okt. tjänst- gjorde <name type="person" ref="#B1">Ester
                   Berg</name> som husmor vid finska barnkarantänförläggningen </hi> i <name
-                     type="place" ref="#vannas">Vännäs</name>. <hi rendition="u">Tjänstgöringstid: 2064 tim.</hi>  
+                     type="place" ref="#vannas">Vännäs</name>. <hi rendition="u">Tjänstgöringstid:
+                  2064 tim.</hi>  
             <lb />
             <lb />
             <hi
@@ -1925,7 +2012,9 @@
             </div>
             <div type="page" n="17" facs="#sida_101">
 
-               <p rend="indent">Vid de övningar <name type="org" ref="#hemvarn"><hi rend="u">Hemvär-<lb />net</hi></name> anordnat i <name
+               <p rend="indent">Vid de övningar <name type="org" ref="#hemvarn">
+                     <hi rend="u">Hemvär-<lb />net</hi>
+                  </name> anordnat i <name
                      type="place" ref="#umea">Umeå</name> den 11 <lb />och 12 mars serverade
                   lottorna<lb /> kaffe, bröd och varm mjölk <lb />uppe på paviljongen. Andra <lb />dagen
                   var middag anordnad <lb />i <name
