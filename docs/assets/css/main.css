@@ -99,3 +99,11 @@ footer {
     border: 1px solid black;
     width: 1000px;
 }
+
+.body-2 {
+	padding: 2vw;
+	font-family: 'Palatino','Palatino Linotype','Palatino LT STD','Book Antiqua','Georgia,serif';
+	line-height: 2.25;
+	font-size: 2vw;
+  width: 100%;
+	}
