@@ -12,7 +12,7 @@
                 <title>
                     <!-- add the title from the metadata. This is what will be shown
                     on your browsers tab-->
-                    Fälttjänst: Hem
+                    Fälttjänst: Umeå Lottakår - flyktingmottagandet hösten 1944
                 </title>
                 <!-- load bootstrap css (requires internet!) so you can use their pre-defined css classes to style your html -->
                 <link rel="stylesheet"
@@ -30,10 +30,11 @@
                     </h1>
                 </header>
                 <nav id="sitenav">
-                    <a href="index.html">Home</a> |
-                    <a href="diplomatic.html">Diplomatic Transcription</a> |
-                    <a href="reading.html">Reading Text</a> |
-                    <a href="toplayer.html">Top Layer</a> |
+                    <a href="index.html">Hem</a> |
+                    <a href="diplomatic.html">Diplomatisk Transkription</a> |
+                    <a href="reading.html">Läsversion</a> |
+                    <a href="toplayer.html">Galleri</a> |
+                    <a href="personer-1.html">Lista på lottor</a> |
                 </nav>
                 <main id="manuscript">
                     <!-- bootstrap "container" class makes the columns look pretty -->
