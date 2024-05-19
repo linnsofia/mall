@@ -40,12 +40,10 @@
                     <div class="container">
                         <!-- define a row layout with bootstrap's css classes (two columns with content, and an empty column in between) -->
                         <div class="row">
-                            <div class="col-">
+                            <div class="col-md">
                                 <h3>Images</h3>
                             </div>
-                            <div class="col-md">
-                                <h3>Transcription</h3>
-                            </div>
+                           
                         </div>
                         <!-- set up an image-text pair for each page in your document, and start a new 'row' for each pair -->
                         <xsl:for-each select="//tei:div[@type='page']">
@@ -53,10 +51,10 @@
                             <xsl:variable name="facs" select="@facs"/>
                             <div class="row">
                                 <!-- fill the first column with this page's image -->
-                                <div class="col-">
+                                <div class="col-md">
                                     <article>
                                         <!-- make an HTML <img> element, with a maximum width of 100 pixels -->
-                                        <img class="img-full">
+                                        <img class="img-large">
                                             <!-- give this HTML <img> attribute three more attributes:
                                                     @src to locate the image file
                                                     @title for a mouse-over effect
@@ -82,12 +80,7 @@
                                         </img>
                                     </article>
                                 </div>
-                                <!-- fill the second column with our transcription -->
-                                <div class='col-md'>
-                                    <article class="transcription">
-                                        <xsl:apply-templates/>                                      
-                                    </article>
-                                </div>
+                                
                             </div>
                         </xsl:for-each>
                     </div>

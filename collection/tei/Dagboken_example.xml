@@ -147,6 +147,7 @@
                   beteckna mängder. Vi har valt att behålla båda tecknen, och beteckna genom <gi>lb</gi>
                   om talstrecket finns där på grund av radbrytning. </p>
             </hyphenation>
+            <punctuation> <p> I den mån det varit möjligt motsvarar förekomsten eller avsaknaden av punkt eller komma, det i originalmanuskriptet. </p></punctuation>
          </editorialDecl>
          <tagsDecl>
             <namespace name="http://www.tei-c.org/ns/1.0">
@@ -167,12 +168,19 @@
             <moduleRef key="namesdates" />
             <!-- names, dates, people, and places -->
          </schemaSpec>
+         <geoDecl>  </geoDecl>
+         <fsdDecl> <fLib><f name="x"></f></fLib></fsdDecl>
+         <refsDecl><p></p></refsDecl>
       </encodingDesc>
       <profileDesc>
          <abstract>
-            <p>Redogörelse för Umeå Lottakårs arbete åren 1939-1945,
-               där flyktingmottagandet under andra världskriget utgör en del.</p>
+            <p>Redogörelse för Umeå Lottakårs arbete åren 1939-1945. 
+               Innehåller blant annat redogörelser för lottornas insatser under mottagandet av finska flyktingbarn i Umeå under andra världskriget.</p>
          </abstract>
+         <creation> <settlement>Umeå</settlement><origDate>Skriven kontenuerligt från 1939-45</origDate></creation>
+         <settingDesc><p></p></settingDesc>
+         <particDesc><p></p></particDesc>
+         <textClass></textClass>
          <langUsage>
             <language ident="swe">Svenska</language>
          </langUsage>
@@ -1449,7 +1457,7 @@
             <graphic url="../collection/img/sida_097.tiff"></graphic>
          </figure>
       </surface>
-      <surface xml:id="sida_098">
+      <surface xml:id="sida_098_dans">
          <figure>
             <figDesc>
                

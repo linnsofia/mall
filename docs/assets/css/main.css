@@ -61,10 +61,10 @@ footer {
 
 
 #collection {
-    display: flex;
+    display: flex; 
 }
 
-#galleri {
+#relativ {
     display: flex; position: relative; 
 }
 
