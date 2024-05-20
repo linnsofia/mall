@@ -21,7 +21,7 @@
                     crossorigin="anonymous"/>
                 <!-- load the stylesheets in the assets/css folder, where you can modify the styling of your website -->
                 <link rel="stylesheet" href="assets/css/main.css"/>
-                
+                <link rel="stylesheet" href="assets/css/desktop.css"/>
             </head>
             <body>
                 <header>
@@ -29,11 +29,11 @@
                     Personförteckning    
                     </h1>
                 </header>
-                <nav id="sitenav">
-                    <a href="index.html">Home</a> |
-                    <a href="diplomatic.html">Diplomatic Transcription</a> |
-                    <a href="reading.html">Reading Text</a> |
-                    <a href="toplayer.html">Top Layer</a> |
+                <nav id="sitenav"><a href="index.html">Hem</a> |
+                    <a href="diplomatic.html">Diplomatisk Transkription</a> |
+                    <a href="reading.html">Lästext</a> |
+                    <a href="toplayer.html">Galleri</a> |
+                    <a href="personer-1-kopia.html">Lista på Lottor</a> 
                 </nav>
                 <main id="manuscript">
                     <!-- bootstrap "container" class makes the columns look pretty -->
@@ -62,7 +62,39 @@
                                 </div>
                             </div>  
                         </xsl:for-each>
+
+                        <xsl:for-each select="//tei:listPLace/tei:place"/>
+                        <div class="row">
+                            <div class="col-sm">
+                                <p>
+                                    <xsl:value-of select="tei:settlement"/><xsl:text> </xsl:text>
+                                <xsl:value-of select="tei:location/tei:geo"/></p>
+                                
+                            </div>
+                            <div class="col-sm">
+                                <p><xsl:value-of select="tei:ptr"/><xsl:text> </xsl:text><br/>
+                                    <xsl:value-of select="tei:note"/></p>
+                            </div>
+                        </div>  
+                   
+
+                    <xsl:for-each select="//tei:listOrg/tei:orgName">
+                        <div class="row">
+                            <div class="col-sm">
+                                <p>
+                                    <xsl:value-of select="tei:settlement"/><xsl:text> </xsl:text>
+                                <xsl:value-of select="tei:location/tei:geo"/></p>
+                                
+                            </div>
+                            <div class="col-sm">
+                                <p><xsl:value-of select="tei:ptr"/><xsl:text> </xsl:text><br/>
+                                    <xsl:value-of select="tei:note"/></p>
+                            </div>
+                        </div>  
+                    </xsl:for-each>
+
                     </div>
+                
                 </main>
                 <footer>
                 <div class="row" id="footer">

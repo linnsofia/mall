@@ -12,7 +12,7 @@
                 <title>
                     <!-- add the title from the metadata. This is what will be shown
                     on your browsers tab-->
-                    DCHM Template: Reading Text
+                    DCHM Template: Lästext
                 </title>
                 <!-- load bootstrap css (requires internet!) so you can use their pre-defined css classes to style your html -->
                 <link rel="stylesheet"
@@ -34,6 +34,7 @@
                     <a href="diplomatic.html">Diplomatisk Transkription</a> |
                     <a href="reading.html">Lästext</a> |
                     <a href="toplayer.html">Galleri</a> |
+                    <a href="personer-1-kopia.html">Lista på Lottor</a> 
                 </nav>
                 <main id="manuscript">
                     <!-- bootstrap "container" class makes the columns look pretty -->

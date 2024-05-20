@@ -29,11 +29,11 @@
                         <xsl:apply-templates select="//tei:titleStmt/tei:title"/>
                     </h1>
                 </header>
-                <nav id="sitenav">
-                    <a href="index.html">Hem</a> |
-                    <a href="diplomatic.html">Diplomatisk transkription</a> |
-                    <a href="reading.html">Läsversion</a> |
+                <nav id="sitenav"><a href="index.html">Hem</a> |
+                    <a href="diplomatic.html">Diplomatisk Transkription</a> |
+                    <a href="reading.html">Lästext</a> |
                     <a href="toplayer.html">Galleri</a> |
+                    <a href="personer-1-kopia.html">Lista på Lottor</a> 
                 </nav>
                 <main>
                     <!-- bootstrap "container" class makes the columns look pretty -->
@@ -41,7 +41,7 @@
                         <!-- define a row layout with bootstrap's css classes (two columns with content, and an empty column in between) -->
                         <div class="row">
                             <div class="col-md">
-                                <h3>Images</h3>
+                                <h3>Bilder</h3>
                             </div>
                            
                         </div>
